@@ -478,3 +478,374 @@ LogInit: Object subsystem initialized
 [2017.08.12-14.09.59:555][323]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
 [2017.08.12-14.10.08:963][450]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
 [2017.08.12-14.10.09:001][450]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.12-14.14.17:694][181]Cmd: MAP LOAD FILE="C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Map/Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.08.12-14.14.17:703][181]LightingResults: New page: Lighting Build
+[2017.08.12-14.14.17:704][181]LoadErrors: New page: Loading map: Map.umap
+[2017.08.12-14.14.17:705][181]MapCheck: New page: Map Check
+[2017.08.12-14.14.17:705][181]LightingResults: New page: Lighting Build
+[2017.08.12-14.14.17:826][181]LogAIModule: Creating AISystem for world Map
+[2017.08.12-14.14.17:849][181]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.08.12-14.14.17:904][181]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.08.12-14.14.18:014][181]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 109.024ms to complete.
+[2017.08.12-14.14.18:014][181]LogFileHelpers: Loading map 'Map' took 0.320
+[2017.08.12-14.14.39:705][626]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.12-14.14.39:723][626]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.14.39:723][626]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.12-14.14.39:723][626]PIE: New page: PIE session: Map (Aug 13, 2017, 8:14:39 AM)
+[2017.08.12-14.14.39:724][626]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map
+[2017.08.12-14.14.39:730][626]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005647s)
+[2017.08.12-14.14.39:730][626]LogAIModule: Creating AISystem for world Map
+[2017.08.12-14.14.39:730][626]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2017.08.12-14.14.39:731][626]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map.Map to /Game/Map/UEDPIE_0_Map.Map (0.006665s)
+[2017.08.12-14.14.39:754][626]LogInit: XAudio2 using '2477W1M-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.12-14.14.39:765][626]LogInit: FAudioDevice initialized.
+[2017.08.12-14.14.39:797][626]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.08.12-14.14.39:802][626]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2017.08.12-23.14.39
+[2017.08.12-14.14.39:802][626]LogWorld: Bringing up level for play took: 0.005011
+[2017.08.12-14.14.39:804][626]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Map 0.63
+[2017.08.12-14.14.39:804][626]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.14.44:339][123]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.14.44:397][123]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.14.46:713][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube69)
+[2017.08.12-14.14.47:656][451]Cmd: DELETE
+[2017.08.12-14.14.47:656][451]Cmd: ACTOR DELETE
+[2017.08.12-14.14.47:656][451]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.08.12-14.14.47:672][451]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2017.08.12-14.14.48:835][590]Cmd: TRANSACTION UNDO
+[2017.08.12-14.14.48:835][590]LogEditorTransaction: Undo Delete Actors
+[2017.08.12-14.14.49:224][625]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2017.08.12-14.14.50:045][715]Cmd: DELETE
+[2017.08.12-14.14.50:045][715]Cmd: ACTOR DELETE
+[2017.08.12-14.14.50:046][715]LogEditorActor: Deleted Actor: TriggerBox
+[2017.08.12-14.14.50:064][715]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2017.08.12-14.14.51:089][837]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.12-14.14.51:101][837]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.14.51:102][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.12-14.14.51:102][837]PIE: New page: PIE session: Map (Aug 13, 2017, 8:14:51 AM)
+[2017.08.12-14.14.51:103][837]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map
+[2017.08.12-14.14.51:108][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005121s)
+[2017.08.12-14.14.51:109][837]LogAIModule: Creating AISystem for world Map
+[2017.08.12-14.14.51:109][837]LogPlayLevel: PIE: World Init took: (0.000643s)
+[2017.08.12-14.14.51:109][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map.Map to /Game/Map/UEDPIE_0_Map.Map (0.006066s)
+[2017.08.12-14.14.51:131][837]LogInit: XAudio2 using '2477W1M-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.12-14.14.51:139][837]LogInit: FAudioDevice initialized.
+[2017.08.12-14.14.51:172][837]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.08.12-14.14.51:177][837]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2017.08.12-23.14.51
+[2017.08.12-14.14.51:178][837]LogWorld: Bringing up level for play took: 0.004895
+[2017.08.12-14.14.51:179][837]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Map 0.005
+[2017.08.12-14.14.51:180][837]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.15.15:664][770]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.15.15:705][770]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.15.21:487][429]MapCheck: New page: Map Check
+[2017.08.12-14.15.21:495][429]Cmd: MAP REBUILD ALLVISIBLE
+[2017.08.12-14.15.21:496][429]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.08.12-14.15.21:551][429]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.08.12-14.15.21:557][429]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy FirstPersonProjectileMaterial, compiling. 
+[2017.08.12-14.15.21:563][429]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2017.08.12-14.15.21:568][429]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Floor, compiling. 
+[2017.08.12-14.15.21:574][429]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2017.08.12-14.15.21:580][429]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy defaultMat, compiling. 
+[2017.08.12-14.15.21:586][429]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2017.08.12-14.15.21:592][429]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FPGun, compiling. 
+[2017.08.12-14.15.21:601][429]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2017.08.12-14.15.22:395][429]TextureStreamingBuild: Display: Compiling optional shaders took 0.848 seconds.
+[2017.08.12-14.15.22:399][429]LogLevel: Display: Export Material TexCoord Scales took 0.004 seconds.
+[2017.08.12-14.15.22:414][429]TextureStreamingBuild: Display: Build Texture Streaming took 0.015 seconds.
+[2017.08.12-14.15.22:433][429]LightingResults: New page: Lighting Build - Aug 13, 2017, 8:15:22 AM
+[2017.08.12-14.15.22:441][429]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.08.12-14.15.22:444][429]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.08.12-14.15.22:444][429]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.08.12-14.15.22:445][429]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.08.12-14.15.22:445][429]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11060
+[2017.08.12-14.15.26:956][429]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.08.12-14.15.26:957][429]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.08.12-14.15.26:957][429]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.08.12-14.15.26:957][429]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.08.12-14.15.26:957][429]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.08.12-14.15.26:957][429]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.08.12-14.15.27:148][429]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.08.12-14.15.27:148][429]MapCheck: New page: Map - Aug 13, 2017, 8:15:27 AM
+[2017.08.12-14.15.27:257][429]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 109.097ms to complete.
+[2017.08.12-14.15.27:279][429]LogEditorBuildUtils: Build time 0:05
+[2017.08.12-14.15.43:914][361]Job is a success!
+[2017.08.12-14.15.44:363][362]LightingResults: Error: PointLight6 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.08.12-14.15.44:363][362]LightingResults: Error: PointLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.08.12-14.15.44:364][362]LightingResults: Error: PointLight4 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.08.12-14.15.44:364][362]LightingResults: Error: PointLight3_7 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.08.12-14.15.44:364][362]LightingResults: Error: PointLight2_4 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.08.12-14.15.44:364][362]LightingResults: Error: SpotLight2 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.08.12-14.15.44:364][362]LightingResults: Error: SpotLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.08.12-14.15.45:081][362]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2017.08.12-14.15.45:082][362]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2017.08.12-14.15.45:205][362]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X512)
+[2017.08.12-14.15.45:247][362]Lightmass on DESKTOP-RF5B0VK: 17.0 sec total, 85 ms importing, 30 ms setup, 4.75 sec photons, 12.0 sec processing, 0 ms extra exporting [93/93 mappings]. Threads: 48.3 sec total, 24.7 sec processing.
+[2017.08.12-14.15.45:251][362]LogStaticLightingSystem: Illumination: 22.4 sec (719 ms encoding lightmaps, 117 ms encoding shadowmaps)
+[2017.08.12-14.15.45:251][362]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.08.12-14.15.45:251][362]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.08.12-14.15.45:969][362]DumpUnbuiltLightIteractions
+[2017.08.12-14.15.45:970][362]Lights with unbuilt interactions: 0
+[2017.08.12-14.15.45:970][362]
+[2017.08.12-14.15.45:970][362]Primitives with unbuilt interactions: 0
+[2017.08.12-14.15.45:980][363]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.08.12-14.15.45:981][363]MapCheck: New page: Map - Aug 13, 2017, 8:15:45 AM
+[2017.08.12-14.15.46:094][363]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 113.724ms to complete.
+[2017.08.12-14.17.32:163][816]LogSlate: Took 0.000367 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.08.12-14.17.37:249][203]LogRenderer: Reallocating scene render targets to support 1144x712 Format 10 NumSamples 1 (Frame:1).
+[2017.08.12-14.17.39:175][365]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.12-14.17.39:188][365]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.17.39:188][365]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.08.12-14.17.39:205][365]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2017.08.12-14.17.39:542][365]LogPlayLevel: PlayLevel: Blueprint regeneration took 353 ms (1 blueprints)
+[2017.08.12-14.17.39:542][365]PIE: New page: PIE session: Map (Aug 13, 2017, 8:17:39 AM)
+[2017.08.12-14.17.39:543][365]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map
+[2017.08.12-14.17.39:549][365]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005380s)
+[2017.08.12-14.17.39:550][365]LogAIModule: Creating AISystem for world Map
+[2017.08.12-14.17.39:550][365]LogPlayLevel: PIE: World Init took: (0.000827s)
+[2017.08.12-14.17.39:550][365]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map.Map to /Game/Map/UEDPIE_0_Map.Map (0.006490s)
+[2017.08.12-14.17.39:580][365]LogInit: XAudio2 using '2477W1M-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.12-14.17.39:590][365]LogInit: FAudioDevice initialized.
+[2017.08.12-14.17.39:627][365]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.08.12-14.17.39:633][365]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2017.08.12-23.17.39
+[2017.08.12-14.17.39:633][365]LogWorld: Bringing up level for play took: 0.005243
+[2017.08.12-14.17.39:635][365]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Map 0.462
+[2017.08.12-14.17.39:636][365]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.17.45:836][810]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.17.45:895][810]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.17.48:258][ 39]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.12-14.17.48:270][ 39]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.17.48:271][ 39]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.12-14.17.48:271][ 39]PIE: New page: PIE session: Map (Aug 13, 2017, 8:17:48 AM)
+[2017.08.12-14.17.48:272][ 39]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map
+[2017.08.12-14.17.48:277][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005343s)
+[2017.08.12-14.17.48:278][ 39]LogAIModule: Creating AISystem for world Map
+[2017.08.12-14.17.48:278][ 39]LogPlayLevel: PIE: World Init took: (0.000731s)
+[2017.08.12-14.17.48:278][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map.Map to /Game/Map/UEDPIE_0_Map.Map (0.006395s)
+[2017.08.12-14.17.48:307][ 39]LogInit: XAudio2 using '2477W1M-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.12-14.17.48:315][ 39]LogInit: FAudioDevice initialized.
+[2017.08.12-14.17.48:350][ 39]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.08.12-14.17.48:355][ 39]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2017.08.12-23.17.48
+[2017.08.12-14.17.48:356][ 39]LogWorld: Bringing up level for play took: 0.005148
+[2017.08.12-14.17.48:358][ 39]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Map -0.816
+[2017.08.12-14.17.48:358][ 39]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.17.51:821][447]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.17.51:858][447]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.18.37:484][582]BlueprintLog: New page: Compile GameInfoInstance
+[2017.08.12-14.18.38:499][615]LogSavePackage: Save=89.79ms
+[2017.08.12-14.18.38:499][615]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/GameInfoInstanceEB0F33164CFFFF9934B23E858D0EB1B8.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Blueprints/AllLevels/GameInfoInstance.uasset'
+[2017.08.12-14.18.38:508][615]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Blueprints/AllLevels/GameInfoInstance.uasset
+[2017.08.12-14.18.41:896][931]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.12-14.18.41:911][931]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.18.41:911][931]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.12-14.18.41:911][931]PIE: New page: PIE session: Map (Aug 13, 2017, 8:18:41 AM)
+[2017.08.12-14.18.41:926][931]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map
+[2017.08.12-14.18.41:931][931]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004973s)
+[2017.08.12-14.18.41:932][931]LogAIModule: Creating AISystem for world Map
+[2017.08.12-14.18.41:932][931]LogPlayLevel: PIE: World Init took: (0.000690s)
+[2017.08.12-14.18.41:932][931]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map.Map to /Game/Map/UEDPIE_0_Map.Map (0.005962s)
+[2017.08.12-14.18.41:957][931]LogInit: XAudio2 using '2477W1M-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.12-14.18.41:965][931]LogInit: FAudioDevice initialized.
+[2017.08.12-14.18.41:994][931]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.08.12-14.18.41:998][931]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2017.08.12-23.18.41
+[2017.08.12-14.18.41:999][931]LogWorld: Bringing up level for play took: 0.004122
+[2017.08.12-14.18.42:000][931]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Map 0.827
+[2017.08.12-14.18.42:001][931]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.18.44:539][233]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.18.44:579][233]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.18.55:480][413]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.12-14.18.55:495][413]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.18.55:495][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.12-14.18.55:495][413]PIE: New page: PIE session: Map (Aug 13, 2017, 8:18:55 AM)
+[2017.08.12-14.18.55:496][413]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map
+[2017.08.12-14.18.55:501][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005052s)
+[2017.08.12-14.18.55:501][413]LogAIModule: Creating AISystem for world Map
+[2017.08.12-14.18.55:502][413]LogPlayLevel: PIE: World Init took: (0.000630s)
+[2017.08.12-14.18.55:502][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map.Map to /Game/Map/UEDPIE_0_Map.Map (0.005969s)
+[2017.08.12-14.18.55:528][413]LogInit: XAudio2 using '2477W1M-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.12-14.18.55:536][413]LogInit: FAudioDevice initialized.
+[2017.08.12-14.18.55:567][413]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.08.12-14.18.55:571][413]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2017.08.12-23.18.55
+[2017.08.12-14.18.55:572][413]LogWorld: Bringing up level for play took: 0.004528
+[2017.08.12-14.18.55:573][413]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Map 0.399
+[2017.08.12-14.18.55:573][413]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.18.57:064][590]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.18.57:103][590]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.19.00:857][880]BlueprintLog: New page: Compile GameInfoInstance
+[2017.08.12-14.19.01:815][908]LogSavePackage: Save=88.77ms
+[2017.08.12-14.19.01:815][908]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/GameInfoInstance4F46B15E46EDBC5A8A8AEA95F7653E78.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Blueprints/AllLevels/GameInfoInstance.uasset'
+[2017.08.12-14.19.01:820][908]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Blueprints/AllLevels/GameInfoInstance.uasset
+[2017.08.12-14.19.04:552][112]BlueprintLog: New page: Compile GameInfoInstance
+[2017.08.12-14.19.05:431][135]LogSavePackage: Save=88.82ms
+[2017.08.12-14.19.05:431][135]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/GameInfoInstanceD8B2CDF648AD95F338653298B887153E.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Blueprints/AllLevels/GameInfoInstance.uasset'
+[2017.08.12-14.19.05:435][135]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Blueprints/AllLevels/GameInfoInstance.uasset
+[2017.08.12-14.19.10:098][545]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.12-14.19.10:113][545]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.19.10:113][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.12-14.19.10:113][545]PIE: New page: PIE session: Map (Aug 13, 2017, 8:19:10 AM)
+[2017.08.12-14.19.10:129][545]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map
+[2017.08.12-14.19.10:134][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005235s)
+[2017.08.12-14.19.10:135][545]LogAIModule: Creating AISystem for world Map
+[2017.08.12-14.19.10:135][545]LogPlayLevel: PIE: World Init took: (0.000648s)
+[2017.08.12-14.19.10:135][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map.Map to /Game/Map/UEDPIE_0_Map.Map (0.006232s)
+[2017.08.12-14.19.10:160][545]LogInit: XAudio2 using '2477W1M-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.12-14.19.10:169][545]LogInit: FAudioDevice initialized.
+[2017.08.12-14.19.10:199][545]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.08.12-14.19.10:204][545]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2017.08.12-23.19.10
+[2017.08.12-14.19.10:204][545]LogWorld: Bringing up level for play took: 0.004667
+[2017.08.12-14.19.10:206][545]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Map 1.032
+[2017.08.12-14.19.10:206][545]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.19.11:474][695]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.19.11:512][695]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.19.18:564][221]LogSavePackage: Save=91.12ms
+[2017.08.12-14.19.18:564][221]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/GameInfoInstance0DBA8DE041DCA5375E73A1A93B902456.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Blueprints/AllLevels/GameInfoInstance.uasset'
+[2017.08.12-14.19.18:569][221]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Blueprints/AllLevels/GameInfoInstance.uasset
+[2017.08.12-14.19.18:684][229]BlueprintLog: New page: Compile GameInfoInstance
+[2017.08.12-14.19.50:623][678]LogSlate: Took 0.002650 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2017.08.12-14.20.07:491][134]LogSavePackage: Save=91.19ms
+[2017.08.12-14.20.07:491][134]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/GameInfoInstance38F181CC40C7E82DC00FAE8285BCAB56.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Blueprints/AllLevels/GameInfoInstance.uasset'
+[2017.08.12-14.20.07:496][134]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Blueprints/AllLevels/GameInfoInstance.uasset
+[2017.08.12-14.20.07:858][163]BlueprintLog: New page: Compile GameInfoInstance
+[2017.08.12-14.20.09:048][205]LogSavePackage: Save=91.92ms
+[2017.08.12-14.20.09:048][205]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/GameInfoInstanceB5FDC8B94411846EF4550A9410C5396F.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Blueprints/AllLevels/GameInfoInstance.uasset'
+[2017.08.12-14.20.09:050][205]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Blueprints/AllLevels/GameInfoInstance.uasset
+[2017.08.12-14.20.12:048][505]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.12-14.20.12:065][505]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.20.12:065][505]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.12-14.20.12:065][505]PIE: New page: PIE session: Map (Aug 13, 2017, 8:20:12 AM)
+[2017.08.12-14.20.12:080][505]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map
+[2017.08.12-14.20.12:085][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004839s)
+[2017.08.12-14.20.12:086][505]LogAIModule: Creating AISystem for world Map
+[2017.08.12-14.20.12:086][505]LogPlayLevel: PIE: World Init took: (0.000666s)
+[2017.08.12-14.20.12:086][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map.Map to /Game/Map/UEDPIE_0_Map.Map (0.005948s)
+[2017.08.12-14.20.12:112][505]LogInit: XAudio2 using '2477W1M-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.12-14.20.12:120][505]LogInit: FAudioDevice initialized.
+[2017.08.12-14.20.12:153][505]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.08.12-14.20.12:157][505]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2017.08.12-23.20.12
+[2017.08.12-14.20.12:158][505]LogWorld: Bringing up level for play took: 0.004570
+[2017.08.12-14.20.12:160][505]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Map 0.986
+[2017.08.12-14.20.12:160][505]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.20.14:539][788]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.20.14:578][788]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.21.20:566][256]LogSavePackage: Save=93.21ms
+[2017.08.12-14.21.20:566][256]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/GameInfoInstance55C9766A4AF60EE30D2869BB7793AEBF.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Blueprints/AllLevels/GameInfoInstance.uasset'
+[2017.08.12-14.21.20:569][256]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Blueprints/AllLevels/GameInfoInstance.uasset
+[2017.08.12-14.21.25:421][676]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.12-14.21.25:436][676]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.21.25:437][676]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.12-14.21.25:437][676]PIE: New page: PIE session: Map (Aug 13, 2017, 8:21:25 AM)
+[2017.08.12-14.21.25:445][676]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map
+[2017.08.12-14.21.25:451][676]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005241s)
+[2017.08.12-14.21.25:451][676]LogAIModule: Creating AISystem for world Map
+[2017.08.12-14.21.25:451][676]LogPlayLevel: PIE: World Init took: (0.000665s)
+[2017.08.12-14.21.25:452][676]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map.Map to /Game/Map/UEDPIE_0_Map.Map (0.006225s)
+[2017.08.12-14.21.25:477][676]LogInit: XAudio2 using '2477W1M-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.12-14.21.25:485][676]LogInit: FAudioDevice initialized.
+[2017.08.12-14.21.25:519][676]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.08.12-14.21.25:524][676]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2017.08.12-23.21.25
+[2017.08.12-14.21.25:524][676]LogWorld: Bringing up level for play took: 0.004567
+[2017.08.12-14.21.25:526][676]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Map 0.352
+[2017.08.12-14.21.25:526][676]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.21.45:241][ 29]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.21.45:285][ 29]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.22.20:459][758]LogSlate: Took 0.000307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.08.12-14.22.27:305][335]BlueprintLog: New page: Compile GameInfoInstance
+[2017.08.12-14.22.28:207][360]LogSavePackage: Save=90.65ms
+[2017.08.12-14.22.28:207][360]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/GameInfoInstance7452399744A62FD6FA061388C713FCB7.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Blueprints/AllLevels/GameInfoInstance.uasset'
+[2017.08.12-14.22.28:212][360]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Blueprints/AllLevels/GameInfoInstance.uasset
+[2017.08.12-14.22.30:980][595]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.12-14.22.30:994][595]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.22.30:994][595]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.12-14.22.30:994][595]PIE: New page: PIE session: Map (Aug 13, 2017, 8:22:30 AM)
+[2017.08.12-14.22.31:010][595]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map
+[2017.08.12-14.22.31:015][595]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005285s)
+[2017.08.12-14.22.31:016][595]LogAIModule: Creating AISystem for world Map
+[2017.08.12-14.22.31:016][595]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2017.08.12-14.22.31:016][595]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map.Map to /Game/Map/UEDPIE_0_Map.Map (0.006390s)
+[2017.08.12-14.22.31:042][595]LogInit: XAudio2 using '2477W1M-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.12-14.22.31:050][595]LogInit: FAudioDevice initialized.
+[2017.08.12-14.22.31:080][595]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.08.12-14.22.31:084][595]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2017.08.12-23.22.31
+[2017.08.12-14.22.31:085][595]LogWorld: Bringing up level for play took: 0.004807
+[2017.08.12-14.22.31:087][595]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Map -0.086
+[2017.08.12-14.22.31:088][595]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.22.37:318][340]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.22.37:355][340]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-14.22.49:873][695]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.PointShootKill
+[2017.08.12-14.22.49:874][695]LogTemp: CWD: E:\Unreal Engine\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.08.12-14.22.49:874][695]LogTemp: Initial Dir: E:\Unreal Engine\UE_4.17
+[2017.08.12-14.22.49:874][695]LogTemp: Env CWD: E:\Unreal Engine\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.08.12-14.22.49:893][697]LogTemp: BranchPath = DESKTOP-RF5B0VK/E/Unreal Engine/UE_4.17/Engine/Binaries --- GameBranchPath = DESKTOP-RF5B0VK/E/Unreal Engine/UE_4.17/Engine/Binaries
+[2017.08.12-14.22.49:924][700]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\ruthk\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.08.12-14.23.06:711][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map" FILE="C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Map/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.08.12-14.23.06:883][439]LogSavePackage: Save=144.06ms
+[2017.08.12-14.23.06:883][439]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/MapD7CC239A4792F06BE3F5999A9549C41D.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Map/Map.umap'
+[2017.08.12-14.23.06:888][439]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Map/Map.umap
+[2017.08.12-14.23.06:907][439]LogFileHelpers: Saving map 'Map' took 0.306
+[2017.08.12-14.23.06:909][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map_BuiltData" FILE="C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Map/Map_BuiltData.uasset" SILENT=true
+[2017.08.12-14.23.07:128][439]LogSavePackage: Save=203.55ms
+[2017.08.12-14.23.07:128][439]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/Map_BuiltData75D0312D461A0D61326303AB2F7C08AF.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Map/Map_BuiltData.uasset'
+[2017.08.12-14.23.07:133][439]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Map/Map_BuiltData.uasset
+[2017.08.12-14.23.07:269][439]LogSavePackage: Save=109.90ms
+[2017.08.12-14.23.07:269][439]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/FirstPersonCharacter6824D4184A4482F952455BA6A0C46324.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2017.08.12-14.23.07:273][439]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2017.08.12-14.23.14:630][318]MapCheck: New page: Map Check
+[2017.08.12-14.23.14:642][318]Cmd: MAP REBUILD ALLVISIBLE
+[2017.08.12-14.23.14:642][318]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.08.12-14.23.14:696][318]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.08.12-14.23.14:702][318]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy FirstPersonProjectileMaterial, compiling. 
+[2017.08.12-14.23.14:708][318]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2017.08.12-14.23.14:713][318]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Floor, compiling. 
+[2017.08.12-14.23.14:719][318]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2017.08.12-14.23.14:725][318]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy defaultMat, compiling. 
+[2017.08.12-14.23.14:730][318]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2017.08.12-14.23.14:737][318]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2017.08.12-14.23.14:746][318]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FPGun, compiling. 
+[2017.08.12-14.23.15:520][318]TextureStreamingBuild: Display: Compiling optional shaders took 0.829 seconds.
+[2017.08.12-14.23.15:525][318]LogLevel: Display: Export Material TexCoord Scales took 0.005 seconds.
+[2017.08.12-14.23.15:541][318]TextureStreamingBuild: Display: Build Texture Streaming took 0.015 seconds.
+[2017.08.12-14.23.15:560][318]LightingResults: New page: Lighting Build - Aug 13, 2017, 8:23:15 AM
+[2017.08.12-14.23.15:569][318]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.08.12-14.23.15:575][318]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.08.12-14.23.15:575][318]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.08.12-14.23.15:576][318]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.08.12-14.23.15:576][318]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11060
+[2017.08.12-14.23.20:083][318]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.08.12-14.23.20:083][318]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.08.12-14.23.20:083][318]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.08.12-14.23.20:083][318]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.08.12-14.23.20:083][318]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.08.12-14.23.20:083][318]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.08.12-14.23.20:268][318]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.08.12-14.23.20:268][318]MapCheck: New page: Map - Aug 13, 2017, 8:23:20 AM
+[2017.08.12-14.23.20:372][318]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 104.001ms to complete.
+[2017.08.12-14.23.20:394][318]LogEditorBuildUtils: Build time 0:05
+[2017.08.12-14.23.26:947][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map" FILE="C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Map/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.08.12-14.23.27:111][742]LogSavePackage: Save=135.53ms
+[2017.08.12-14.23.27:111][742]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/MapF908DFCF4E9A5DF5DAF29F8AA0DA5B1E.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Map/Map.umap'
+[2017.08.12-14.23.27:116][742]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Map/Map.umap
+[2017.08.12-14.23.27:222][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map_BuiltData" FILE="C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Map/Map_BuiltData.uasset" SILENT=true
+[2017.08.12-14.23.27:431][742]LogSavePackage: Save=202.32ms
+[2017.08.12-14.23.27:431][742]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/Map_BuiltDataEA321E604C1D4215EA9ADDB4A3C7C6A4.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Map/Map_BuiltData.uasset'
+[2017.08.12-14.23.27:434][742]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Map/Map_BuiltData.uasset
+[2017.08.12-14.23.37:010][942]Job is a success!
+[2017.08.12-14.23.37:478][943]LightingResults: Error: PointLight6 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.08.12-14.23.37:479][943]LightingResults: Error: PointLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.08.12-14.23.37:479][943]LightingResults: Error: PointLight4 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.08.12-14.23.37:479][943]LightingResults: Error: PointLight3_7 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.08.12-14.23.37:479][943]LightingResults: Error: PointLight2_4 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.08.12-14.23.37:479][943]LightingResults: Error: SpotLight2 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.08.12-14.23.37:479][943]LightingResults: Error: SpotLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.08.12-14.23.38:213][943]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2017.08.12-14.23.38:213][943]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2017.08.12-14.23.38:342][943]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X512)
+[2017.08.12-14.23.38:382][943]Lightmass on DESKTOP-RF5B0VK: 17.0 sec total, 88 ms importing, 30 ms setup, 5.62 sec photons, 11.2 sec processing, 0 ms extra exporting [93/93 mappings]. Threads: 44.8 sec total, 21.9 sec processing.
+[2017.08.12-14.23.38:388][943]LogStaticLightingSystem: Illumination: 22.4 sec (742 ms encoding lightmaps, 117 ms encoding shadowmaps)
+[2017.08.12-14.23.38:388][943]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.08.12-14.23.38:388][943]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.08.12-14.23.39:097][943]DumpUnbuiltLightIteractions
+[2017.08.12-14.23.39:097][943]Lights with unbuilt interactions: 0
+[2017.08.12-14.23.39:097][943]
+[2017.08.12-14.23.39:097][943]Primitives with unbuilt interactions: 0
+[2017.08.12-14.23.39:110][944]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.08.12-14.23.39:110][944]MapCheck: New page: Map - Aug 13, 2017, 8:23:39 AM
+[2017.08.12-14.23.39:241][944]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 131.015ms to complete.
+[2017.08.12-14.31.07:155][434]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
