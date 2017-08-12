@@ -324,3 +324,260 @@ Make sure 'MainMenu' has been compiled for  Show Host Menu
 [2017.08.12-12.24.41:425][745]LogBlueprint: Error: [Compiler MainMenu] In use pin  Game Instance Ref  no longer exists on this node. Please refresh node or break links to remove pin.
 [2017.08.12-12.24.41:425][745]LogBlueprint: Error: [Compiler MainMenu] In use pin  Game Instance Ref  no longer exists on this node. Please refresh node or break links to remove pin.
 [2017.08.12-12.24.42:082][745]LogBlueprint: Warning: [Compiler MainMenu] [0092.58] Compile of MainMenu failed. 14 Fatal Issue(s) 2 Warning(s) [in 670 ms] (/Game/UI/MainMenu/MainMenu.MainMenu)
+[2017.08.12-12.25.39:744][306]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.12-12.25.39:878][306]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-12.25.39:878][306]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.08.12-12.25.39:880][306]LogPlayLevel: [PlayLevel] Compiling Map before play...
+[2017.08.12-12.25.39:882][306]LogBlueprint: Error: [Compiler PersistentLevel.Map] In use pin  <Unnamed>  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.08.12-12.25.39:882][306]LogBlueprint: Error: [Compiler PersistentLevel.Map] In use pin  Target  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.08.12-12.25.39:882][306]LogBlueprint: Error: [Compiler PersistentLevel.Map] Could not find a function named "ShowMainMenu" in 'Map'.
+Make sure 'Map' has been compiled for  Show Main Menu
+[2017.08.12-12.25.39:882][306]LogBlueprint: Warning: [Compiler PersistentLevel.Map] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.08.12-12.25.39:882][306]LogBlueprint: Error: [Compiler PersistentLevel.Map] In use pin  As Game Info Instance  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.08.12-12.25.39:882][306]LogBlueprint: Warning: [Compiler PersistentLevel.Map] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.08.12-12.25.39:887][306]LogBlueprint: Warning: [Compiler PersistentLevel.Map] [0150.38] Compile of PersistentLevel.Map failed. 4 Fatal Issue(s) 2 Warning(s) [in 7 ms] (/Game/Map/Map.Map:PersistentLevel.Map)
+[2017.08.12-12.25.39:907][306]LogPlayLevel: PlayLevel: Blueprint regeneration took 28 ms (1 blueprints)
+[2017.08.12-12.25.39:907][306]BlueprintLog: Blueprint Map failed to compile
+[2017.08.12-12.25.42:896][306]PIE: New page: PIE session: Map (Aug 13, 2017, 6:25:42 AM)
+[2017.08.12-12.25.42:896][306]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map
+[2017.08.12-12.25.42:901][306]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005470s)
+[2017.08.12-12.25.42:902][306]LogAIModule: Creating AISystem for world Map
+[2017.08.12-12.25.42:902][306]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2017.08.12-12.25.42:902][306]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map.Map to /Game/Map/UEDPIE_0_Map.Map (0.006533s)
+[2017.08.12-12.25.42:928][306]LogInit: XAudio2 using '2477W1M-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.12-12.25.42:939][306]LogInit: FAudioDevice initialized.
+[2017.08.12-12.25.43:007][306]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.08.12-12.25.43:012][306]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2017.08.12-21.25.43
+[2017.08.12-12.25.43:013][306]LogWorld: Bringing up level for play took: 0.004877
+[2017.08.12-12.25.43:054][306]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.08.12-12.25.43:054][306]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Map 3.881
+[2017.08.12-12.25.43:055][306]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-12.26.12:481][739]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-12.26.12:517][739]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-12.26.48:060][862]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ruthk\Downloads\bullet.obj)
+[2017.08.12-12.26.48:239][862]LogFbx: Loading FBX Scene from C:\Users\ruthk\Downloads\bullet.obj
+[2017.08.12-12.26.48:245][862]LogFbx: FBX Scene Loaded Succesfully
+[2017.08.12-12.26.54:375][862]LogFbx: Loading FBX Scene from C:\Users\ruthk\Downloads\bullet.obj
+[2017.08.12-12.26.54:376][862]LogFbx: FBX Scene Loaded Succesfully
+[2017.08.12-12.26.54:377][862]LogFbx: =================================================
+[2017.08.12-12.26.54:377][862]LogFbx: Dumping Node START [default] 
+[2017.08.12-12.26.54:377][862]LogFbx: 	Total Deformer Count 74211680.
+[2017.08.12-12.26.54:377][862]LogFbx: 	Attribute () Type (4).
+[2017.08.12-12.26.54:377][862]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2017.08.12-12.26.54:377][862]LogFbx: Dumping Node END [default]
+[2017.08.12-12.26.54:377][862]LogFbx: =================================================
+[2017.08.12-12.26.54:377][862]LogFbx: Dumping Node START [default] 
+[2017.08.12-12.26.54:377][862]LogFbx: 	Total Deformer Count 74209160.
+[2017.08.12-12.26.54:377][862]LogFbx: 	Attribute () Type (4).
+[2017.08.12-12.26.54:377][862]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2017.08.12-12.26.54:377][862]LogFbx: Dumping Node END [default]
+[2017.08.12-12.26.54:377][862]LogFbx: =================================================
+[2017.08.12-12.26.54:377][862]LogFbx: Dumping Node START [default] 
+[2017.08.12-12.26.54:377][862]LogFbx: 	Total Deformer Count 74209160.
+[2017.08.12-12.26.54:377][862]LogFbx: 	Attribute () Type (4).
+[2017.08.12-12.26.54:377][862]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2017.08.12-12.26.54:377][862]LogFbx: Dumping Node END [default]
+[2017.08.12-12.26.54:410][862]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2017.08.12-12.26.54:431][862]LogSkeletalMesh: Section 0: 89 vertices, 1 active bones
+[2017.08.12-12.26.54:432][862]LogSkeletalMesh: Section 0: Material=0, 102 triangles
+[2017.08.12-12.26.54:462][862]LogLinker: Can't find file '/Game/Assets/bullet_PhysicsAsset'
+[2017.08.12-12.26.54:463][862]LogLinker: Can't find file '/Game/Assets/bullet_PhysicsAsset'
+[2017.08.12-12.26.54:501][862]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.08.12-12.26.54:502][862]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2017.08.12-12.27.10:166][366]LogRenderer: Reallocating scene render targets to support 1144x712 Format 10 NumSamples 1 (Frame:1).
+[2017.08.12-12.28.18:304][644]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.12-12.28.18:316][644]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-12.28.18:316][644]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.08.12-12.28.18:333][644]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2017.08.12-12.28.18:382][644]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.08.12-12.28.18:383][644]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.08.12-12.28.18:390][644]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [0308.88] Compile of FirstPersonCharacter failed. 2 Fatal Issue(s) 0 Warning(s) [in 57 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2017.08.12-12.28.18:662][644]LogPlayLevel: [PlayLevel] Compiling Map before play...
+[2017.08.12-12.28.18:664][644]LogBlueprint: Error: [Compiler PersistentLevel.Map] In use pin  <Unnamed>  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.08.12-12.28.18:664][644]LogBlueprint: Error: [Compiler PersistentLevel.Map] In use pin  Target  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.08.12-12.28.18:664][644]LogBlueprint: Error: [Compiler PersistentLevel.Map] Could not find a function named "ShowMainMenu" in 'Map'.
+Make sure 'Map' has been compiled for  Show Main Menu
+[2017.08.12-12.28.18:664][644]LogBlueprint: Warning: [Compiler PersistentLevel.Map] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.08.12-12.28.18:664][644]LogBlueprint: Error: [Compiler PersistentLevel.Map] In use pin  As Game Info Instance  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.08.12-12.28.18:664][644]LogBlueprint: Warning: [Compiler PersistentLevel.Map] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.08.12-12.28.18:665][644]LogBlueprint: Warning: [Compiler PersistentLevel.Map] [0309.16] Compile of PersistentLevel.Map failed. 4 Fatal Issue(s) 2 Warning(s) [in 3 ms] (/Game/Map/Map.Map:PersistentLevel.Map)
+[2017.08.12-12.28.18:685][644]LogPlayLevel: PlayLevel: Blueprint regeneration took 369 ms (2 blueprints)
+[2017.08.12-12.28.18:685][644]BlueprintLog: Blueprint FirstPersonCharacter failed to compile
+[2017.08.12-12.28.18:685][644]BlueprintLog: Blueprint Map failed to compile
+[2017.08.12-12.28.19:855][644]PIE: New page: PIE session: Map (Aug 13, 2017, 6:28:19 AM)
+[2017.08.12-12.28.19:855][644]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map
+[2017.08.12-12.28.19:860][644]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005042s)
+[2017.08.12-12.28.19:861][644]LogAIModule: Creating AISystem for world Map
+[2017.08.12-12.28.19:861][644]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2017.08.12-12.28.19:861][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map.Map to /Game/Map/UEDPIE_0_Map.Map (0.006032s)
+[2017.08.12-12.28.19:890][644]LogInit: XAudio2 using '2477W1M-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.12-12.28.19:900][644]LogInit: FAudioDevice initialized.
+[2017.08.12-12.28.19:932][644]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.08.12-12.28.19:936][644]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2017.08.12-21.28.19
+[2017.08.12-12.28.19:937][644]LogWorld: Bringing up level for play took: 0.004161
+[2017.08.12-12.28.19:939][644]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Map 0.765
+[2017.08.12-12.28.19:939][644]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-12.28.21:543][816]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-12.28.21:577][816]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-12.28.26:470][330]Cmd: TRANSACTION UNDO
+[2017.08.12-12.28.26:471][330]LogEditorTransaction: Undo Remove Components
+[2017.08.12-12.28.27:425][406]Cmd: TRANSACTION UNDO
+[2017.08.12-12.28.27:425][406]LogEditorTransaction: Undo Remove Components
+[2017.08.12-12.28.28:744][545]Cmd: TRANSACTION UNDO
+[2017.08.12-12.28.28:744][545]LogEditorTransaction: Undo Modify Component(s)
+[2017.08.12-12.28.32:913][  7]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.12-12.28.32:924][  7]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-12.28.32:924][  7]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.08.12-12.28.32:941][  7]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2017.08.12-12.28.33:243][  7]LogPlayLevel: [PlayLevel] Compiling Map before play...
+[2017.08.12-12.28.33:245][  7]LogBlueprint: Error: [Compiler PersistentLevel.Map] In use pin  <Unnamed>  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.08.12-12.28.33:245][  7]LogBlueprint: Error: [Compiler PersistentLevel.Map] In use pin  Target  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.08.12-12.28.33:245][  7]LogBlueprint: Error: [Compiler PersistentLevel.Map] Could not find a function named "ShowMainMenu" in 'Map'.
+Make sure 'Map' has been compiled for  Show Main Menu
+[2017.08.12-12.28.33:245][  7]LogBlueprint: Warning: [Compiler PersistentLevel.Map] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.08.12-12.28.33:245][  7]LogBlueprint: Error: [Compiler PersistentLevel.Map] In use pin  As Game Info Instance  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.08.12-12.28.33:245][  7]LogBlueprint: Warning: [Compiler PersistentLevel.Map] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.08.12-12.28.33:247][  7]LogBlueprint: Warning: [Compiler PersistentLevel.Map] [0323.74] Compile of PersistentLevel.Map failed. 4 Fatal Issue(s) 2 Warning(s) [in 4 ms] (/Game/Map/Map.Map:PersistentLevel.Map)
+[2017.08.12-12.28.33:267][  7]LogPlayLevel: PlayLevel: Blueprint regeneration took 342 ms (2 blueprints)
+[2017.08.12-12.28.33:267][  7]BlueprintLog: Blueprint Map failed to compile
+[2017.08.12-12.28.34:097][  7]PIE: New page: PIE session: Map (Aug 13, 2017, 6:28:34 AM)
+[2017.08.12-12.28.34:098][  7]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map
+[2017.08.12-12.28.34:103][  7]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005099s)
+[2017.08.12-12.28.34:104][  7]LogAIModule: Creating AISystem for world Map
+[2017.08.12-12.28.34:104][  7]LogPlayLevel: PIE: World Init took: (0.001272s)
+[2017.08.12-12.28.34:104][  7]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map.Map to /Game/Map/UEDPIE_0_Map.Map (0.006719s)
+[2017.08.12-12.28.34:129][  7]LogInit: XAudio2 using '2477W1M-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.12-12.28.34:137][  7]LogInit: FAudioDevice initialized.
+[2017.08.12-12.28.34:172][  7]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.08.12-12.28.34:177][  7]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2017.08.12-21.28.34
+[2017.08.12-12.28.34:178][  7]LogWorld: Bringing up level for play took: 0.005196
+[2017.08.12-12.28.34:180][  7]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Map 1.006
+[2017.08.12-12.28.34:180][  7]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-12.28.35:822][188]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-12.28.35:856][188]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-12.28.57:637][919]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.PointShootKill
+[2017.08.12-12.28.57:637][919]LogTemp: CWD: E:\Unreal Engine\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.08.12-12.28.57:637][919]LogTemp: Initial Dir: E:\Unreal Engine\UE_4.17
+[2017.08.12-12.28.57:637][919]LogTemp: Env CWD: E:\Unreal Engine\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.08.12-12.28.57:637][919]LogTemp: BranchPath = DESKTOP-RF5B0VK/E/Unreal Engine/UE_4.17/Engine/Binaries --- GameBranchPath = DESKTOP-RF5B0VK/E/Unreal Engine/UE_4.17/Engine/Binaries
+[2017.08.12-12.28.57:637][919]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\ruthk\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.08.12-12.29.35:849][231]LogSlate: Took 0.002459 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2017.08.12-12.30.04:830][364]LogEditorTransaction: Undo Delete current selection
+[2017.08.12-12.30.30:578][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map" FILE="C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Map/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.08.12-12.30.30:607][148]LogBlueprint: Warning: [Compiler PersistentLevel.Map] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.08.12-12.30.30:607][148]LogBlueprint: Warning: [Compiler PersistentLevel.Map] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.08.12-12.30.30:608][148]LogBlueprint: Error: [Compiler PersistentLevel.Map] Node  Bad cast node  has an invalid target type, please delete and recreate it
+[2017.08.12-12.30.30:608][148]LogBlueprint: Error: [Compiler PersistentLevel.Map] Node  Bad cast node  has an invalid target class
+[2017.08.12-12.30.30:610][148]LogBlueprint: Warning: [Compiler PersistentLevel.Map] [0441.10] Compile of PersistentLevel.Map failed. 2 Fatal Issue(s) 2 Warning(s) [in 5 ms] (/Game/Map/Map.Map:PersistentLevel.Map)
+[2017.08.12-12.30.30:746][148]LogSavePackage: Save=142.44ms
+[2017.08.12-12.30.30:746][148]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/Map9FCA747D43117F2F8F254A87D7091809.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Map/Map.umap'
+[2017.08.12-12.30.30:752][148]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Map/Map.umap
+[2017.08.12-12.30.30:784][148]LogFileHelpers: Saving map 'Map' took 0.308
+[2017.08.12-12.31.15:738][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map" FILE="C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Map/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.08.12-12.31.15:764][570]LogBlueprint: Warning: [Compiler PersistentLevel.Map] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.08.12-12.31.15:764][570]LogBlueprint: Warning: [Compiler PersistentLevel.Map] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.08.12-12.31.15:764][570]LogBlueprint: Error: [Compiler PersistentLevel.Map] This blueprint (self) is not a GameInfoInstance_C, therefore ' Target ' must have a connection.
+[2017.08.12-12.31.15:767][570]LogBlueprint: Warning: [Compiler PersistentLevel.Map] [0486.26] Compile of PersistentLevel.Map failed. 1 Fatal Issue(s) 2 Warning(s) [in 5 ms] (/Game/Map/Map.Map:PersistentLevel.Map)
+[2017.08.12-12.31.15:900][570]LogSavePackage: Save=139.86ms
+[2017.08.12-12.31.15:900][570]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/Map183B91994B2AFDFE519BF1A04FE65FEE.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Map/Map.umap'
+[2017.08.12-12.31.15:906][570]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Map/Map.umap
+[2017.08.12-12.31.15:925][570]LogFileHelpers: Saving map 'Map' took 0.286
+[2017.08.12-12.32.28:865][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map" FILE="C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Map/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.08.12-12.32.29:443][808]LogSavePackage: Save=554.29ms
+[2017.08.12-12.32.29:443][808]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/Map27C6ABC84294F552921880A69C8C825C.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Map/Map.umap'
+[2017.08.12-12.32.29:449][808]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Map/Map.umap
+[2017.08.12-12.32.29:467][808]LogFileHelpers: Saving map 'Map' took 0.703
+[2017.08.12-12.32.31:065][982]BlueprintLog: New page: Compile Map
+[2017.08.12-12.32.35:986][541]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.12-12.32.35:999][541]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-12.32.35:999][541]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.12-12.32.35:999][541]PIE: New page: PIE session: Map (Aug 13, 2017, 6:32:35 AM)
+[2017.08.12-12.32.35:999][541]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map
+[2017.08.12-12.32.36:004][541]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005182s)
+[2017.08.12-12.32.36:005][541]LogAIModule: Creating AISystem for world Map
+[2017.08.12-12.32.36:005][541]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2017.08.12-12.32.36:005][541]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map.Map to /Game/Map/UEDPIE_0_Map.Map (0.006177s)
+[2017.08.12-12.32.36:032][541]LogInit: XAudio2 using '2477W1M-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.12-12.32.36:040][541]LogInit: FAudioDevice initialized.
+[2017.08.12-12.32.36:072][541]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.08.12-12.32.36:076][541]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2017.08.12-21.32.36
+[2017.08.12-12.32.36:076][541]LogWorld: Bringing up level for play took: 0.004168
+[2017.08.12-12.32.36:078][541]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Map 0.904
+[2017.08.12-12.32.36:078][541]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-12.32.37:591][720]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-12.32.37:629][720]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-12.32.38:532][824]MapCheck: New page: Map Check
+[2017.08.12-12.32.38:544][824]Cmd: MAP REBUILD ALLVISIBLE
+[2017.08.12-12.32.38:544][824]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.08.12-12.32.38:635][824]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.08.12-12.32.38:642][824]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy FirstPersonProjectileMaterial, compiling. 
+[2017.08.12-12.32.38:647][824]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2017.08.12-12.32.38:653][824]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Floor, compiling. 
+[2017.08.12-12.32.38:658][824]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2017.08.12-12.32.38:663][824]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy defaultMat, compiling. 
+[2017.08.12-12.32.38:669][824]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2017.08.12-12.32.38:675][824]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2017.08.12-12.32.38:685][824]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FPGun, compiling. 
+[2017.08.12-12.32.39:501][824]TextureStreamingBuild: Display: Compiling optional shaders took 0.873 seconds.
+[2017.08.12-12.32.39:507][824]LogLevel: Display: Export Material TexCoord Scales took 0.006 seconds.
+[2017.08.12-12.32.39:522][824]TextureStreamingBuild: Display: Build Texture Streaming took 0.014 seconds.
+[2017.08.12-12.32.39:539][824]LightingResults: New page: Lighting Build - Aug 13, 2017, 6:32:39 AM
+[2017.08.12-12.32.39:574][824]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.08.12-12.32.39:644][824]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.08.12-12.32.39:654][824]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.08.12-12.32.40:163][824]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.08.12-12.32.40:163][824]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3440
+[2017.08.12-12.32.42:626][824]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.08.12-12.32.42:626][824]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.08.12-12.32.42:626][824]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.08.12-12.32.42:626][824]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.08.12-12.32.42:626][824]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.08.12-12.32.42:626][824]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.08.12-12.32.42:836][824]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.08.12-12.32.42:836][824]MapCheck: New page: Map - Aug 13, 2017, 6:32:42 AM
+[2017.08.12-12.32.42:937][824]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 101.488ms to complete.
+[2017.08.12-12.32.42:960][824]LogEditorBuildUtils: Build time 0:04
+[2017.08.12-12.32.59:207][305]Job is a success!
+[2017.08.12-12.32.59:333][307]LightingResults: Error: PointLight6 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.08.12-12.32.59:333][307]LightingResults: Error: PointLight2_4 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.08.12-12.32.59:333][307]LightingResults: Error: PointLight8 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.08.12-12.32.59:333][307]LightingResults: Error: PointLight9 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.08.12-12.32.59:333][307]LightingResults: Error: PointLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.08.12-12.32.59:333][307]LightingResults: Error: SpotLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.08.12-12.32.59:333][307]LightingResults: Error: SpotLight2 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.08.12-12.33.00:021][307]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2017.08.12-12.33.00:021][307]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2017.08.12-12.33.00:143][307]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X512)
+[2017.08.12-12.33.00:167][307]Lightmass on DESKTOP-RF5B0VK: 16.5 sec total, 83 ms importing, 13 ms setup, 5.42 sec photons, 10.9 sec processing, 0 ms extra exporting [93/93 mappings]. Threads: 43.8 sec total, 24.1 sec processing.
+[2017.08.12-12.33.00:196][307]LogStaticLightingSystem: Illumination: 20.6 sec (689 ms encoding lightmaps, 114 ms encoding shadowmaps)
+[2017.08.12-12.33.00:196][307]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.08.12-12.33.00:196][307]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.08.12-12.33.00:638][307]DumpUnbuiltLightIteractions
+[2017.08.12-12.33.00:639][307]Lights with unbuilt interactions: 0
+[2017.08.12-12.33.00:639][307]
+[2017.08.12-12.33.00:639][307]Primitives with unbuilt interactions: 0
+[2017.08.12-12.33.00:649][308]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.08.12-12.33.00:649][308]MapCheck: New page: Map - Aug 13, 2017, 6:33:00 AM
+[2017.08.12-12.33.00:764][308]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 115.087ms to complete.
+[2017.08.12-12.33.03:986][655]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.12-12.33.03:999][655]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-12.33.03:999][655]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.12-12.33.03:999][655]PIE: New page: PIE session: Map (Aug 13, 2017, 6:33:03 AM)
+[2017.08.12-12.33.03:999][655]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map
+[2017.08.12-12.33.04:005][655]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005791s)
+[2017.08.12-12.33.04:006][655]LogAIModule: Creating AISystem for world Map
+[2017.08.12-12.33.04:006][655]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2017.08.12-12.33.04:006][655]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map.Map to /Game/Map/UEDPIE_0_Map.Map (0.006903s)
+[2017.08.12-12.33.04:030][655]LogInit: XAudio2 using '2477W1M-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.12-12.33.04:039][655]LogInit: FAudioDevice initialized.
+[2017.08.12-12.33.04:069][655]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.08.12-12.33.04:074][655]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2017.08.12-21.33.04
+[2017.08.12-12.33.04:075][655]LogWorld: Bringing up level for play took: 0.005252
+[2017.08.12-12.33.04:077][655]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Map 0.904
+[2017.08.12-12.33.04:078][655]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-12.33.06:103][896]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-12.33.06:141][896]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map/Map.Map12_C' with ClassGeneratedBy '/Game/Map/Map.Map:PersistentLevel.Map'
+[2017.08.12-12.33.27:318][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/MainMenu" FILE="C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/UI/MainMenu/MainMenu.uasset" SILENT=true
+[2017.08.12-12.33.27:366][ 34]LogSavePackage: Save=40.98ms
+[2017.08.12-12.33.27:366][ 34]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/MainMenu9356E33F47FF36CEC98A8FAD3CD96B3B.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/UI/MainMenu/MainMenu.uasset'
+[2017.08.12-12.33.27:369][ 34]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/UI/MainMenu/MainMenu.uasset
