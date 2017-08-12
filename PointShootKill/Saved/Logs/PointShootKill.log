@@ -605,3 +605,271 @@ Make sure 'Map' has been compiled for  Show Main Menu
 [2017.08.12-12.08.35:270][824]MapCheck: New page: Map - Aug 13, 2017, 6:08:35 AM
 [2017.08.12-12.08.35:388][824]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 118.134ms to complete.
 [2017.08.12-12.08.43:279][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube57)
+[2017.08.12-12.09.59:559][ 45]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube69)
+[2017.08.12-12.10.30:875][ 30]SourceControl: On branch master
+[2017.08.12-12.10.30:875][ 30]SourceControl: Your branch is up-to-date with 'origin/master'.
+[2017.08.12-12.10.30:875][ 30]SourceControl: nothing to commit, working tree clean
+[2017.08.12-12.10.44:778][541]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube50)
+[2017.08.12-12.10.54:401][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube53)
+[2017.08.12-12.11.44:821][387]LogEditorActor: Deleted Actor: AtmosphericFog
+[2017.08.12-12.11.44:839][387]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2017.08.12-12.11.46:171][503]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2017.08.12-12.11.46:189][503]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2017.08.12-12.11.48:329][747]LogEditorActor: Deleted Actor: DirectionalLight
+[2017.08.12-12.11.48:346][747]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2017.08.12-12.11.52:103][186]MapCheck: New page: Map Check
+[2017.08.12-12.11.52:114][186]Cmd: MAP REBUILD ALLVISIBLE
+[2017.08.12-12.11.52:114][186]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.08.12-12.11.52:164][186]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.08.12-12.11.52:170][186]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy FirstPersonProjectileMaterial, compiling. 
+[2017.08.12-12.11.52:175][186]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2017.08.12-12.11.52:180][186]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Floor, compiling. 
+[2017.08.12-12.11.52:186][186]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2017.08.12-12.11.52:192][186]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy defaultMat, compiling. 
+[2017.08.12-12.11.52:198][186]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2017.08.12-12.11.52:208][186]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FPGun, compiling. 
+[2017.08.12-12.11.52:217][186]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2017.08.12-12.11.52:960][186]TextureStreamingBuild: Display: Compiling optional shaders took 0.800 seconds.
+[2017.08.12-12.11.52:965][186]LogLevel: Display: Export Material TexCoord Scales took 0.005 seconds.
+[2017.08.12-12.11.52:980][186]TextureStreamingBuild: Display: Build Texture Streaming took 0.015 seconds.
+[2017.08.12-12.11.52:998][186]LightingResults: New page: Lighting Build - Aug 13, 2017, 6:11:52 AM
+[2017.08.12-12.11.53:006][186]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.08.12-12.11.53:009][186]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.08.12-12.11.53:009][186]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.08.12-12.11.53:010][186]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.08.12-12.11.53:010][186]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10692
+[2017.08.12-12.11.57:519][186]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.08.12-12.11.57:519][186]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.08.12-12.11.57:519][186]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.08.12-12.11.57:519][186]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.08.12-12.11.57:519][186]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.08.12-12.11.57:519][186]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.08.12-12.11.57:700][186]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.08.12-12.11.57:700][186]MapCheck: New page: Map - Aug 13, 2017, 6:11:57 AM
+[2017.08.12-12.11.57:807][186]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 107.211ms to complete.
+[2017.08.12-12.11.57:830][186]LogEditorBuildUtils: Build time 0:05
+[2017.08.12-12.12.16:032][729]Job is a success!
+[2017.08.12-12.12.16:152][730]LightingResults: Error: PointLight6 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.08.12-12.12.16:152][730]LightingResults: Error: PointLight2_4 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.08.12-12.12.16:152][730]LightingResults: Error: PointLight8 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.08.12-12.12.16:153][730]LightingResults: Error: PointLight9 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.08.12-12.12.16:153][730]LightingResults: Error: PointLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.08.12-12.12.16:153][730]LightingResults: Error: SpotLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.08.12-12.12.16:153][730]LightingResults: Error: SpotLight2 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.08.12-12.12.16:872][730]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2017.08.12-12.12.16:872][730]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2017.08.12-12.12.16:992][730]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 1024X512)
+[2017.08.12-12.12.17:016][730]Lightmass on DESKTOP-RF5B0VK: 18.2 sec total, 87 ms importing, 36 ms setup, 6.20 sec photons, 11.8 sec processing, 0 ms extra exporting [93/93 mappings]. Threads: 47.5 sec total, 26.1 sec processing.
+[2017.08.12-12.12.17:040][730]LogStaticLightingSystem: Illumination: 24.0 sec (721 ms encoding lightmaps, 116 ms encoding shadowmaps)
+[2017.08.12-12.12.17:040][730]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.08.12-12.12.17:040][730]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.08.12-12.12.17:532][730]DumpUnbuiltLightIteractions
+[2017.08.12-12.12.17:532][730]Lights with unbuilt interactions: 0
+[2017.08.12-12.12.17:532][730]
+[2017.08.12-12.12.17:532][730]Primitives with unbuilt interactions: 0
+[2017.08.12-12.12.17:545][731]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.08.12-12.12.17:545][731]MapCheck: New page: Map - Aug 13, 2017, 6:12:17 AM
+[2017.08.12-12.12.17:662][731]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 117.064ms to complete.
+[2017.08.12-12.12.52:570][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map" FILE="C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Map/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.08.12-12.12.52:597][625]LogBlueprint: Error: [Compiler PersistentLevel.Map] In use pin  <Unnamed>  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.08.12-12.12.52:597][625]LogBlueprint: Error: [Compiler PersistentLevel.Map] In use pin  Target  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.08.12-12.12.52:597][625]LogBlueprint: Error: [Compiler PersistentLevel.Map] Could not find a function named "ShowMainMenu" in 'Map'.
+Make sure 'Map' has been compiled for  Show Main Menu
+[2017.08.12-12.12.52:597][625]LogBlueprint: Warning: [Compiler PersistentLevel.Map] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.08.12-12.12.52:598][625]LogBlueprint: Error: [Compiler PersistentLevel.Map] In use pin  As Game Info Instance  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.08.12-12.12.52:598][625]LogBlueprint: Warning: [Compiler PersistentLevel.Map] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.08.12-12.12.52:599][625]LogBlueprint: Warning: [Compiler PersistentLevel.Map] [1131.80] Compile of PersistentLevel.Map failed. 4 Fatal Issue(s) 2 Warning(s) [in 4 ms] (/Game/Map/Map.Map:PersistentLevel.Map)
+[2017.08.12-12.12.52:732][625]LogSavePackage: Save=139.04ms
+[2017.08.12-12.12.52:732][625]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/Map70C0F9D7473E7F8CE1B718A720918380.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Map/Map.umap'
+[2017.08.12-12.12.52:740][625]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Map/Map.umap
+[2017.08.12-12.12.52:862][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map_BuiltData" FILE="C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Map/Map_BuiltData.uasset" SILENT=true
+[2017.08.12-12.12.53:064][625]LogSavePackage: Save=199.06ms
+[2017.08.12-12.12.53:064][625]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/Map_BuiltData16CA8DF447079767F2B29C85AA395A1C.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Map/Map_BuiltData.uasset'
+[2017.08.12-12.12.53:070][625]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Map/Map_BuiltData.uasset
+[2017.08.12-12.13.05:068][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube76)
+[2017.08.12-12.13.05:703][ 44]Cmd: DELETE
+[2017.08.12-12.13.05:704][ 44]Cmd: ACTOR DELETE
+[2017.08.12-12.13.05:704][ 44]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.08.12-12.13.05:721][ 44]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2017.08.12-12.13.05:996][ 76]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube78)
+[2017.08.12-12.13.06:087][ 79]Cmd: DELETE
+[2017.08.12-12.13.06:087][ 79]Cmd: ACTOR DELETE
+[2017.08.12-12.13.06:087][ 79]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.08.12-12.13.06:104][ 79]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2017.08.12-12.13.06:303][102]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube77)
+[2017.08.12-12.13.06:401][106]Cmd: DELETE
+[2017.08.12-12.13.06:401][106]Cmd: ACTOR DELETE
+[2017.08.12-12.13.06:402][106]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.08.12-12.13.06:419][106]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2017.08.12-12.13.06:777][148]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube72)
+[2017.08.12-12.13.06:936][159]Cmd: DELETE
+[2017.08.12-12.13.06:936][159]Cmd: ACTOR DELETE
+[2017.08.12-12.13.06:937][159]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.08.12-12.13.06:953][159]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2017.08.12-12.13.07:194][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2017.08.12-12.13.07:809][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube73)
+[2017.08.12-12.13.08:536][329]Cmd: DELETE
+[2017.08.12-12.13.08:536][329]Cmd: ACTOR DELETE
+[2017.08.12-12.13.08:536][329]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.08.12-12.13.08:552][329]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2017.08.12-12.13.08:850][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube75)
+[2017.08.12-12.13.08:984][372]Cmd: DELETE
+[2017.08.12-12.13.08:984][372]Cmd: ACTOR DELETE
+[2017.08.12-12.13.08:985][372]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.08.12-12.13.09:001][372]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2017.08.12-12.13.09:241][400]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube74)
+[2017.08.12-12.13.09:518][425]Cmd: DELETE
+[2017.08.12-12.13.09:518][425]Cmd: ACTOR DELETE
+[2017.08.12-12.13.09:518][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.08.12-12.13.09:535][425]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2017.08.12-12.13.12:213][717]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.08.12-12.13.26:299][286]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube69)
+[2017.08.12-12.13.29:255][609]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2017.08.12-12.13.30:301][734]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2017.08.12-12.13.30:784][792]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2017.08.12-12.13.30:959][813]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2017.08.12-12.13.31:410][867]Cmd: POLY TEXPAN U=64.000000 V=0.000000
+[2017.08.12-12.13.32:411][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube69)
+[2017.08.12-12.13.33:546][104]Cmd: TRANSACTION UNDO
+[2017.08.12-12.13.33:546][104]LogEditorTransaction: Undo Select Brush Surface
+[2017.08.12-12.13.34:449][194]Cmd: TRANSACTION UNDO
+[2017.08.12-12.13.34:449][194]LogEditorTransaction: Undo Clicking on Actors
+[2017.08.12-12.13.34:942][246]Cmd: TRANSACTION UNDO
+[2017.08.12-12.13.34:942][246]LogEditorTransaction: Undo Set Texpan
+[2017.08.12-12.13.35:347][288]Cmd: TRANSACTION UNDO
+[2017.08.12-12.13.35:347][288]LogEditorTransaction: Undo Set Texpan
+[2017.08.12-12.13.35:717][327]Cmd: TRANSACTION UNDO
+[2017.08.12-12.13.35:717][327]LogEditorTransaction: Undo Set Texpan
+[2017.08.12-12.13.36:084][366]Cmd: TRANSACTION UNDO
+[2017.08.12-12.13.36:084][366]LogEditorTransaction: Undo Set Texpan
+[2017.08.12-12.13.36:494][410]Cmd: TRANSACTION UNDO
+[2017.08.12-12.13.36:494][410]LogEditorTransaction: Undo Set Texpan
+[2017.08.12-12.13.37:030][469]Cmd: TRANSACTION UNDO
+[2017.08.12-12.13.37:030][469]LogEditorTransaction: Undo Select Brush Surface
+[2017.08.12-12.13.37:601][528]Cmd: TRANSACTION UNDO
+[2017.08.12-12.13.37:601][528]LogEditorTransaction: Undo Clicking on Actors
+[2017.08.12-12.13.38:032][573]Cmd: TRANSACTION UNDO
+[2017.08.12-12.13.38:032][573]LogEditorTransaction: Undo Brush Set
+[2017.08.12-12.13.39:002][683]Cmd: TRANSACTION UNDO
+[2017.08.12-12.13.39:003][683]LogEditorTransaction: Undo Brush Set
+[2017.08.12-12.13.39:637][754]Cmd: TRANSACTION UNDO
+[2017.08.12-12.13.39:637][754]LogEditorTransaction: Undo Edit Brush Type
+[2017.08.12-12.13.40:324][830]Cmd: TRANSACTION UNDO
+[2017.08.12-12.13.40:324][830]LogEditorTransaction: Undo Edit Brush Type
+[2017.08.12-12.13.43:002][131]LogEditorViewport: Clicking Background
+[2017.08.12-12.13.46:837][572]LogEditorActor: Deleted Actor: Brush
+[2017.08.12-12.13.46:878][572]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2017.08.12-12.13.50:151][926]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.08.12-12.14.45:215][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2017.08.12-12.14.50:485][909]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube69)
+[2017.08.12-12.14.54:730][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube69)
+[2017.08.12-12.15.06:721][693]LogEditorViewport: Clicking on Actor (LMB): Brush (Linear Stair Brush)
+[2017.08.12-12.15.12:770][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube69)
+[2017.08.12-12.15.13:112][410]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.13:112][410]LogEditorTransaction: Undo Clicking on Actors
+[2017.08.12-12.15.13:292][424]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.13:292][424]LogEditorTransaction: Undo Select Brush Surface
+[2017.08.12-12.15.13:455][434]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.13:455][434]LogEditorTransaction: Undo Clicking on Actors
+[2017.08.12-12.15.13:574][440]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.13:574][440]LogEditorTransaction: Undo Clicking on Actors
+[2017.08.12-12.15.14:771][581]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.14:771][581]LogEditorTransaction: Undo Clicking on Actors
+[2017.08.12-12.15.14:932][595]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.14:932][595]LogEditorTransaction: Undo Select Brush Surface
+[2017.08.12-12.15.15:098][605]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.15:098][605]LogEditorTransaction: Undo Clicking on Actors
+[2017.08.12-12.15.15:258][617]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.15:258][617]LogEditorTransaction: Undo Select Brush Surface
+[2017.08.12-12.15.15:429][628]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.15:429][628]LogEditorTransaction: Undo Clicking on Actors
+[2017.08.12-12.15.15:594][641]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.15:594][641]LogEditorTransaction: Undo Move Actors
+[2017.08.12-12.15.15:786][657]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.15:786][657]LogEditorTransaction: Undo Select Brush Surface
+[2017.08.12-12.15.15:939][666]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.15:940][666]LogEditorTransaction: Undo Clicking on Actors
+[2017.08.12-12.15.16:121][681]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.16:121][681]LogEditorTransaction: Undo Edit Step Width
+[2017.08.12-12.15.16:299][695]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.16:299][695]LogEditorTransaction: Undo Move Actors
+[2017.08.12-12.15.16:497][712]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.16:497][712]LogEditorTransaction: Undo Move Actors
+[2017.08.12-12.15.16:688][728]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.16:688][728]LogEditorTransaction: Undo Edit Step Height
+[2017.08.12-12.15.16:862][742]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.16:862][742]LogEditorTransaction: Undo Edit Step Height
+[2017.08.12-12.15.17:035][757]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.17:036][757]LogEditorTransaction: Undo Edit Step Height
+[2017.08.12-12.15.17:246][776]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.17:246][776]LogEditorTransaction: Undo Edit Step Length
+[2017.08.12-12.15.17:428][791]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.17:428][791]LogEditorTransaction: Undo Move Actors
+[2017.08.12-12.15.17:626][808]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.17:626][808]LogEditorTransaction: Undo Move Actors
+[2017.08.12-12.15.17:798][822]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.17:798][822]LogEditorTransaction: Undo Edit Step Length
+[2017.08.12-12.15.17:988][838]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.17:988][838]LogEditorTransaction: Undo Edit Step Height
+[2017.08.12-12.15.18:154][851]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.18:154][851]LogEditorTransaction: Undo Edit Step Height
+[2017.08.12-12.15.18:342][867]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.18:342][867]LogEditorTransaction: Undo Edit Step Length
+[2017.08.12-12.15.18:523][882]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.18:523][882]LogEditorTransaction: Undo Edit Step Length
+[2017.08.12-12.15.18:694][896]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.18:694][896]LogEditorTransaction: Undo Edit Step Length
+[2017.08.12-12.15.18:881][912]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.18:881][912]LogEditorTransaction: Undo Edit Step Length
+[2017.08.12-12.15.19:051][926]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.19:051][926]LogEditorTransaction: Undo Brush Add
+[2017.08.12-12.15.19:218][944]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.19:218][944]LogEditorTransaction: Undo Delete selection
+[2017.08.12-12.15.19:241][944]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Map/Map.Map:PersistentLevel.ModelComponent_0' invalid (168 verts, 0 indices).
+[2017.08.12-12.15.19:241][944]LogPhysics: Warning: Attempt to build physics data for /Game/Map/Map.Map:PersistentLevel.ModelComponent_0.BodySetup_0 when we are unable to.
+[2017.08.12-12.15.19:663][988]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.19:663][988]LogEditorTransaction: Undo Clicking on Actors
+[2017.08.12-12.15.19:880][  9]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.19:880][  9]LogEditorTransaction: Undo Clicking on Actors
+[2017.08.12-12.15.20:153][ 37]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.20:153][ 37]LogEditorTransaction: Undo Select Brush Surface
+[2017.08.12-12.15.20:391][ 63]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.20:391][ 63]LogEditorTransaction: Undo Clicking Background
+[2017.08.12-12.15.20:621][ 84]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.20:621][ 84]LogEditorTransaction: Undo Apply Material to Selected Surfaces
+[2017.08.12-12.15.20:802][ 99]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.20:802][ 99]LogEditorTransaction: Undo Select Brush Surface
+[2017.08.12-12.15.21:017][118]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.21:017][118]LogEditorTransaction: Undo Select Brush Surface
+[2017.08.12-12.15.21:188][132]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.21:188][132]LogEditorTransaction: Undo Brush Add
+[2017.08.12-12.15.21:381][153]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.21:381][153]LogEditorTransaction: Undo Delete Actors
+[2017.08.12-12.15.22:087][229]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.22:087][229]LogEditorTransaction: Undo Clicking on Actors
+[2017.08.12-12.15.22:379][262]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.22:379][262]LogEditorTransaction: Undo Delete Actors
+[2017.08.12-12.15.22:589][279]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.22:589][279]LogEditorTransaction: Undo Clicking on Actors
+[2017.08.12-12.15.22:790][301]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.22:790][301]LogEditorTransaction: Undo Delete Actors
+[2017.08.12-12.15.22:975][315]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.22:975][315]LogEditorTransaction: Undo Clicking on Actors
+[2017.08.12-12.15.23:157][329]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.23:157][329]LogEditorTransaction: Undo Clicking on Actors
+[2017.08.12-12.15.23:343][350]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.23:343][350]LogEditorTransaction: Undo Delete Actors
+[2017.08.12-12.15.23:536][365]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.23:536][365]LogEditorTransaction: Undo Clicking on Actors
+[2017.08.12-12.15.23:711][384]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.23:711][384]LogEditorTransaction: Undo Delete Actors
+[2017.08.12-12.15.23:996][410]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.23:996][410]LogEditorTransaction: Undo Clicking on Actors
+[2017.08.12-12.15.24:313][446]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.24:313][446]LogEditorTransaction: Undo Delete Actors
+[2017.08.12-12.15.24:605][473]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.24:605][473]LogEditorTransaction: Undo Clicking on Actors
+[2017.08.12-12.15.24:880][504]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.24:881][504]LogEditorTransaction: Undo Delete Actors
+[2017.08.12-12.15.25:171][531]Cmd: TRANSACTION UNDO
+[2017.08.12-12.15.25:171][531]LogEditorTransaction: Undo Clicking on Actors
