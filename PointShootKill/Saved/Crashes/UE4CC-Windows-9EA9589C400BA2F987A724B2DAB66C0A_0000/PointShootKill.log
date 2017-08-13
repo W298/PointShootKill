@@ -1,0 +1,389 @@
+﻿Log file open, 08/13/17 16:50:47
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: PointShootKill
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(830826345) SRandInit(830826345).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.170439
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3573198
+LogInit: Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug  4 2017 16:30:33
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: E:/Unreal Engine/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.08.13-07.50.47:846][  0]LogInit: Selected Device Profile: [Windows]
+[2017.08.13-07.50.47:846][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.08.13-07.50.47:856][  0]LogInit: Computer: DESKTOP-RF5B0VK
+[2017.08.13-07.50.47:856][  0]LogInit: User: Ruthka
+[2017.08.13-07.50.47:856][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.08.13-07.50.47:856][  0]LogInit: High frequency timer resolution =3.319356 MHz
+[2017.08.13-07.50.47:856][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.08.13-07.50.47:856][  0]LogMemory: Platform Memory Stats for Windows
+[2017.08.13-07.50.47:856][  0]LogMemory: Process Physical Memory: 279.38 MB used, 279.38 MB peak
+[2017.08.13-07.50.47:856][  0]LogMemory: Process Virtual Memory: 282.21 MB used, 282.21 MB peak
+[2017.08.13-07.50.47:856][  0]LogMemory: Physical Memory: 4031.54 MB used,  4079.54 MB free, 8111.07 MB total
+[2017.08.13-07.50.47:856][  0]LogMemory: Virtual Memory: 661.64 MB used,  4079.54 MB free, 134217728.00 MB total
+[2017.08.13-07.50.47:978][  0]LogInit: Using OS detected language (en-GB).
+[2017.08.13-07.50.47:978][  0]LogInit: Using OS detected locale (en-CA).
+[2017.08.13-07.50.47:982][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2017.08.13-07.50.48:759][  0]LogD3D11RHI: D3D11 adapters:
+[2017.08.13-07.50.49:362][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2017.08.13-07.50.49:362][  0]LogD3D11RHI:       4058/0/4055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.08.13-07.50.49:364][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.08.13-07.50.49:364][  0]LogD3D11RHI:       0/0/4055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.08.13-07.50.49:364][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.08.13-07.50.49:370][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.08.13-07.50.49:370][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2017.08.13-07.50.49:370][  0]LogWindows: EnumDisplayDevices:
+[2017.08.13-07.50.49:370][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2017.08.13-07.50.49:370][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.08.13-07.50.49:370][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.08.13-07.50.49:371][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.08.13-07.50.49:371][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.08.13-07.50.49:371][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2017.08.13-07.50.49:371][  0]LogD3D11RHI:   Driver Version: 384.76 (internal:22.21.13.8476, unified:384.76)
+[2017.08.13-07.50.49:371][  0]LogD3D11RHI:      Driver Date: 6-27-2017
+[2017.08.13-07.50.49:371][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.08.13-07.50.49:940][  0]LogD3D11RHI: Async texture creation enabled
+[2017.08.13-07.50.49:973][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.08.13-07.50.50:023][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Intermediate/Shaders/WorkingDirectory/13904/).
+[2017.08.13-07.50.50:023][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ruthk/AppData/Local/Temp/UnrealShaderWorkingDir/D6E0C1CE4A2C1B21073FD698974EBEB7/'.
+[2017.08.13-07.50.50:023][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.08.13-07.50.50:894][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.08.13-07.50.50:939][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.08.13-07.50.50:985][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.08.13-07.50.51:030][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.08.13-07.50.51:077][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.08.13-07.50.51:124][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.08.13-07.50.51:169][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.08.13-07.50.51:216][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.08.13-07.50.51:255][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.08.13-07.50.51:304][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.08.13-07.50.51:355][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.08.13-07.50.51:404][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.08.13-07.50.51:448][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.08.13-07.50.51:493][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.08.13-07.50.51:539][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.08.13-07.50.51:629][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.08.13-07.50.51:629][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.08.13-07.50.51:664][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.08.13-07.50.51:746][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.08.13-07.50.51:771][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.08.13-07.50.51:815][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.08.13-07.50.51:861][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.08.13-07.50.51:905][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.08.13-07.50.51:950][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.08.13-07.50.51:951][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.08.13-07.50.52:336][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.08.13-07.50.52:434][  0]LogDerivedDataCache: Loaded boot cache 0.10s 93MB C:/Users/ruthk/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.08.13-07.50.52:434][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ruthk/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.08.13-07.50.52:434][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.08.13-07.50.52:434][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.08.13-07.50.52:434][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.08.13-07.50.52:434][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.08.13-07.50.52:450][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.08.13-07.50.52:463][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ruthk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.08.13-07.50.52:473][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.08.13-07.50.52:473][  0]LogSlate: Using Freetype 2.6.0
+[2017.08.13-07.50.52:474][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.08.13-07.50.52:474][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.08.13-07.50.52:766][  0]LogAssetRegistry: FAssetRegistry took 0.0260 seconds to start up
+[2017.08.13-07.50.52:874][  0]LogInit: Selected Device Profile: [Windows]
+[2017.08.13-07.50.53:019][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.08.13-07.50.53:284][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.08.13-07.50.53:319][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.08.13-07.50.53:319][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.08.13-07.50.53:319][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.08.13-07.50.53:319][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.08.13-07.50.53:319][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.08.13-07.50.53:672][  0]LogNetVersion: PointShootKill , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1180208419)
+[2017.08.13-07.50.53:890][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.054202 seconds
+[2017.08.13-07.50.53:897][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.08.13-07.50.53:897][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.08.13-07.50.53:897][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.08.13-07.50.53:939][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.08.13-07.50.56:457][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.08.13-07.50.56:491][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.08.13-07.50.57:080][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.08.13-07.50.57:450][  0]SourceControl: Source control is disabled
+[2017.08.13-07.50.58:502][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.08.13-07.50.58:719][  0]LogOcInput: OculusInput pre-init called
+[2017.08.13-07.50.58:949][  0]LogEngine: Initializing Engine...
+[2017.08.13-07.50.58:951][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.08.13-07.50.59:202][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.08.13-07.50.59:202][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.08.13-07.50.59:312][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.08.13-07.50.59:323][  0]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.13-07.50.59:341][  0]LogInit: FAudioDevice initialized.
+[2017.08.13-07.50.59:427][  0]LogDerivedDataCache: Saved boot cache 0.09s 93MB C:/Users/ruthk/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.08.13-07.50.59:439][  0]LogInit: Texture streaming: Enabled
+[2017.08.13-07.50.59:524][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.08.13-07.50.59:717][  0]LogInit: Transaction tracking system initialized
+[2017.08.13-07.50.59:990][  0]BlueprintLog: New page: Editor Load
+[2017.08.13-07.51.00:747][  0]LocalizationService: Localization service is disabled
+[2017.08.13-07.51.01:353][  0]LogConsoleResponse: Display: 
+[2017.08.13-07.51.01:520][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.08.13-07.51.01:520][  0]LogCook: Display: Mobile HDR setting 1
+[2017.08.13-07.51.01:520][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.08.13-07.51.02:392][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/' took 0.02s
+[2017.08.13-07.51.02:434][  0]Cmd: MAP LOAD FILE="C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.08.13-07.51.02:435][  0]LightingResults: New page: Lighting Build
+[2017.08.13-07.51.02:471][  0]MapCheck: New page: Map Check
+[2017.08.13-07.51.02:471][  0]LightingResults: New page: Lighting Build
+[2017.08.13-07.51.02:492][  0]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.13-07.51.02:493][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.08.13-07.51.02:503][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.08.13-07.51.02:573][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69.919ms to complete.
+[2017.08.13-07.51.02:573][  0]LogFileHelpers: Loading map 'MainMenu' took 0.140
+[2017.08.13-07.51.02:652][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2017.08.13-07.51.02:740][  0]LogCollectionManager: Loaded 0 collections in 0.001378 seconds
+[2017.08.13-07.51.02:827][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/Collections/' took 0.01s
+[2017.08.13-07.51.02:827][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Developers/Ruthka/Collections/' took 0.01s
+[2017.08.13-07.51.02:827][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Collections/' took 0.01s
+[2017.08.13-07.51.02:827][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.08.13-07.51.02:836][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2386 classes and 500 folders.
+[2017.08.13-07.51.02:894][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.08.13-07.51.02:948][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.08.13-07.51.02:987][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.08.13-07.51.03:076][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.08.13-07.51.03:076][  0]LogLoad: (Engine Initialization) Total time: 16.84 seconds
+[2017.08.13-07.51.03:076][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.08.13-07.51.03:076][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.08.13-07.51.03:076][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.08.13-07.51.03:106][  0]SourceControl: On branch Exisit-Error-Up
+[2017.08.13-07.51.03:106][  0]SourceControl: Your branch is up-to-date with 'origin/Exisit-Error-Up'.
+[2017.08.13-07.51.03:106][  0]SourceControl: Changes not staged for commit:
+[2017.08.13-07.51.03:106][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2017.08.13-07.51.03:106][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.08.13-07.51.03:106][  0]SourceControl: 	modified:   PointShootKill/Content/UI/MainMenu/MainMenu.uasset
+[2017.08.13-07.51.03:106][  0]SourceControl: 	modified:   PointShootKill/Intermediate/AssetRegistryCache/311563bb.bin
+[2017.08.13-07.51.03:106][  0]SourceControl: 	modified:   PointShootKill/Intermediate/AssetRegistryCache/c90e3f55.bin
+[2017.08.13-07.51.03:106][  0]SourceControl: 	modified:   PointShootKill/Intermediate/CachedAssetRegistry.bin
+[2017.08.13-07.51.03:106][  0]SourceControl: 	modified:   PointShootKill/Saved/AutoScreenshot.png
+[2017.08.13-07.51.03:106][  0]SourceControl: 	modified:   PointShootKill/Saved/Config/Windows/Editor.ini
+[2017.08.13-07.51.03:106][  0]SourceControl: 	modified:   PointShootKill/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.08.13-07.51.03:106][  0]SourceControl: 	modified:   PointShootKill/Saved/Config/Windows/Engine.ini
+[2017.08.13-07.51.03:106][  0]SourceControl: 	deleted:    PointShootKill/Saved/Logs/PointShootKill-backup-2017.08.12-21.21.26.log
+[2017.08.13-07.51.03:106][  0]SourceControl: 	deleted:    PointShootKill/Saved/Logs/PointShootKill-backup-2017.08.12-21.23.10.log
+[2017.08.13-07.51.03:106][  0]SourceControl: 	modified:   PointShootKill/Saved/Logs/PointShootKill.log
+[2017.08.13-07.51.03:106][  0]SourceControl: Untracked files:
+[2017.08.13-07.51.03:106][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.08.13-07.51.03:106][  0]SourceControl: 	PointShootKill/Saved/Config/CrashReportClient/UE4CC-Windows-7F771CFF41B39A8FC66942A4A1725462/
+[2017.08.13-07.51.03:106][  0]SourceControl: 	PointShootKill/Saved/Config/CrashReportClient/UE4CC-Windows-9EA9589C400BA2F987A724B2DAB66C0A/
+[2017.08.13-07.51.03:106][  0]SourceControl: 	PointShootKill/Saved/Logs/PointShootKill-backup-2017.08.13-16.43.59.log
+[2017.08.13-07.51.03:106][  0]SourceControl: 	PointShootKill/Saved/Logs/PointShootKill-backup-2017.08.13-16.50.47.log
+[2017.08.13-07.51.03:106][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2017.08.13-07.51.03:107][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.08.13-07.51.03:108][  0]LogSlate: Took 0.000340 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.08.13-07.51.03:110][  0]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.08.13-07.51.03:114][  0]LogSlate: Took 0.000298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.08.13-07.51.03:221][  0]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.13-07.51.03:246][  1]LogAssetRegistry: Asset discovery search completed in 10.5026 seconds
+[2017.08.13-07.51.03:249][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.08.13-07.51.03:249][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
+[2017.08.13-07.51.03:270][  2]LogRenderer: Reallocating scene render targets to support 728x432 Format 10 NumSamples 1 (Frame:1).
+[2017.08.13-07.51.08:699][637]LogRenderer: Reallocating scene render targets to support 928x576 Format 10 NumSamples 1 (Frame:629).
+[2017.08.13-07.51.12:126][ 42]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.13-07.51.12:163][ 42]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.13-07.51.12:163][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.13-07.51.12:163][ 42]PIE: New page: PIE session: MainMenu (Aug 14, 2017, 1:51:12 AM)
+[2017.08.13-07.51.12:335][ 42]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2017.08.13-07.51.12:336][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000863s)
+[2017.08.13-07.51.12:336][ 42]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.13-07.51.12:336][ 42]LogPlayLevel: PIE: World Init took: (0.000694s)
+[2017.08.13-07.51.12:337][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001802s)
+[2017.08.13-07.51.12:355][ 42]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.13-07.51.12:367][ 42]LogInit: FAudioDevice initialized.
+[2017.08.13-07.51.12:689][ 42]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.08.13-07.51.12:691][ 42]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.13-16.51.12
+[2017.08.13-07.51.12:691][ 42]LogWorld: Bringing up level for play took: 0.000920
+[2017.08.13-07.51.12:729][ 42]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.08.13-07.51.12:732][ 42]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 1.551
+[2017.08.13-07.51.12:732][ 42]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.13-07.51.14:919][289]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.13-07.51.14:955][289]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.13-07.51.24:136][376]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.13-07.51.24:460][376]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 113 classes and 0 folders.
+[2017.08.13-07.51.25:125][376]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.13-07.51.25:126][376]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.08.13-07.51.27:259][529]LogSlate: Took 0.000338 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.08.13-07.53.16:617][426]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.13-07.53.16:635][426]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.13-07.53.16:635][426]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.13-07.53.16:635][426]PIE: New page: PIE session: MainMenu (Aug 14, 2017, 1:53:16 AM)
+[2017.08.13-07.53.16:636][426]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2017.08.13-07.53.16:637][426]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000931s)
+[2017.08.13-07.53.16:638][426]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.13-07.53.16:638][426]LogPlayLevel: PIE: World Init took: (0.000720s)
+[2017.08.13-07.53.16:638][426]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001922s)
+[2017.08.13-07.53.16:668][426]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.13-07.53.16:681][426]LogInit: FAudioDevice initialized.
+[2017.08.13-07.53.16:712][426]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.08.13-07.53.16:714][426]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.13-16.53.16
+[2017.08.13-07.53.16:714][426]LogWorld: Bringing up level for play took: 0.001046
+[2017.08.13-07.53.16:717][426]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu -0.464
+[2017.08.13-07.53.16:717][426]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.13-07.53.28:190][801]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.13-07.53.28:227][801]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.13-07.53.33:783][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.08.13-07.53.33:831][439]LogSavePackage: Save=20.51ms
+[2017.08.13-07.53.33:831][439]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/MainMenu64BE5E47413C00254100C4816AF3E7C7.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Maps/MainMenu.umap'
+[2017.08.13-07.53.33:833][439]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Maps/MainMenu.umap
+[2017.08.13-07.58.00:834][304]BlueprintLog: New page: Compile MainMenu
+[2017.08.13-07.58.01:828][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.08.13-07.58.01:884][389]LogSavePackage: Save=24.20ms
+[2017.08.13-07.58.01:885][389]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/MainMenuE80D9F9148F724CE71262B850144AFCE.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Maps/MainMenu.umap'
+[2017.08.13-07.58.01:897][389]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Maps/MainMenu.umap
+[2017.08.13-07.58.01:940][389]LogFileHelpers: Saving map 'MainMenu' took 0.207
+[2017.08.13-07.58.03:730][594]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.13-07.58.03:743][594]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.13-07.58.03:743][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.13-07.58.03:743][594]PIE: New page: PIE session: MainMenu (Aug 14, 2017, 1:58:03 AM)
+[2017.08.13-07.58.03:744][594]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2017.08.13-07.58.03:746][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001085s)
+[2017.08.13-07.58.03:746][594]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.13-07.58.03:746][594]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2017.08.13-07.58.03:747][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.002136s)
+[2017.08.13-07.58.03:773][594]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.13-07.58.03:786][594]LogInit: FAudioDevice initialized.
+[2017.08.13-07.58.03:822][594]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.08.13-07.58.03:823][594]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.13-16.58.03
+[2017.08.13-07.58.04:226][594]LogWorld: Bringing up level for play took: 0.404051
+[2017.08.13-07.58.04:229][594]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 1.049
+[2017.08.13-07.58.04:230][594]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.13-07.58.04:835][662]LogNet: Browse: /Game/Maps/Map
+[2017.08.13-07.58.04:848][662]LogLoad: LoadMap: /Game/Maps/Map
+[2017.08.13-07.58.04:880][662]Cmd: MEM
+[2017.08.13-07.58.04:925][662]LogMemory: Platform Memory Stats for Windows
+[2017.08.13-07.58.04:925][662]LogMemory: Process Physical Memory: 1497.31 MB used, 1497.31 MB peak
+[2017.08.13-07.58.04:925][662]LogMemory: Process Virtual Memory: 2014.71 MB used, 2014.96 MB peak
+[2017.08.13-07.58.04:925][662]LogMemory: Physical Memory: 4828.41 MB used,  3282.67 MB free, 8111.07 MB total
+[2017.08.13-07.58.04:925][662]LogMemory: Virtual Memory: 2894.17 MB used,  3282.67 MB free, 134217728.00 MB total
+[2017.08.13-07.58.04:925][662]LogMemory: 
+[2017.08.13-07.58.04:925][662]Allocator Stats for TBB: (not implemented)
+[2017.08.13-07.58.05:291][662]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.183 s
+[2017.08.13-07.58.05:291][662]LogOutputDevice: Error: === Handled ensure: ===
+[2017.08.13-07.58.05:291][662]LogOutputDevice: Error: 
+[2017.08.13-07.58.05:291][662]LogOutputDevice: Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1315]
+[2017.08.13-07.58.05:291][662]LogOutputDevice: Error: 
+[2017.08.13-07.58.05:291][662]LogOutputDevice: Error: Stack: 
+[2017.08.13-07.58.05:291][662]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000739E35F6
+[2017.08.13-07.58.05:291][662]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007376C2C2
+[2017.08.13-07.58.05:291][662]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000073784736
+[2017.08.13-07.58.05:291][662]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x00000000632AD6C9
+[2017.08.13-07.58.05:291][662]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x000000006327C9DD
+[2017.08.13-07.58.05:291][662]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000075E80F67
+[2017.08.13-07.58.05:291][662]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x000000007618B4F6
+[2017.08.13-07.58.05:291][662]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000761A15E6
+[2017.08.13-07.58.05:291][662]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000761A0B32
+[2017.08.13-07.58.05:291][662]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000006A69DCFB
+[2017.08.13-07.58.05:291][662]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000006A6566D8
+[2017.08.13-07.58.05:291][662]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000006A6BD48D
+[2017.08.13-07.58.05:291][662]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000006574BC30
+[2017.08.13-07.58.05:291][662]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000065FDB0E6
+[2017.08.13-07.58.05:291][662]LogOutputDevice: Error: UE4Editor.exe!0x00000000B0E0534A
+[2017.08.13-07.58.05:291][662]LogOutputDevice: Error: UE4Editor.exe!0x00000000B0E13970
+[2017.08.13-07.58.05:291][662]LogOutputDevice: Error: UE4Editor.exe!0x00000000B0E139EA
+[2017.08.13-07.58.05:291][662]LogOutputDevice: Error: UE4Editor.exe!0x00000000B0E202D9
+[2017.08.13-07.58.05:291][662]LogOutputDevice: Error: UE4Editor.exe!0x00000000B0E21C47
+[2017.08.13-07.58.05:291][662]LogOutputDevice: Error: KERNEL32.DLL!0x00000000A0C92774
+[2017.08.13-07.58.05:291][662]LogOutputDevice: Error: ntdll.dll!0x00000000A28A0D51
+[2017.08.13-07.58.05:291][662]LogOutputDevice: Error: 
+[2017.08.13-07.58.05:296][662]LogStats:                SubmitErrorReport -  0.000 s
