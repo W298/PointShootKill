@@ -1,0 +1,571 @@
+﻿Log file open, 08/15/17 15:50:56
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VSPerf140.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: PointShootKill
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1526113302) SRandInit(1526113302).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.169432
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3573198
+LogInit: Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug  4 2017 16:30:33
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.08.15-06.50.57:503][  0]LogInit: Selected Device Profile: [Windows]
+[2017.08.15-06.50.57:504][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.08.15-06.50.57:542][  0]LogInit: Computer: DESKTOP-2LLGGVA
+[2017.08.15-06.50.57:542][  0]LogInit: User: BangMinsu
+[2017.08.15-06.50.57:542][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.08.15-06.50.57:542][  0]LogInit: High frequency timer resolution =2.249997 MHz
+[2017.08.15-06.50.57:542][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2017.08.15-06.50.57:542][  0]LogMemory: Platform Memory Stats for Windows
+[2017.08.15-06.50.57:542][  0]LogMemory: Process Physical Memory: 281.93 MB used, 281.93 MB peak
+[2017.08.15-06.50.57:542][  0]LogMemory: Process Virtual Memory: 275.70 MB used, 275.70 MB peak
+[2017.08.15-06.50.57:542][  0]LogMemory: Physical Memory: 3428.09 MB used,  531.57 MB free, 3959.66 MB total
+[2017.08.15-06.50.57:542][  0]LogMemory: Virtual Memory: 666.39 MB used,  531.57 MB free, 134217728.00 MB total
+[2017.08.15-06.50.58:013][  0]LogInit: Using OS detected language (ko-KR).
+[2017.08.15-06.50.58:013][  0]LogInit: Using OS detected locale (ko-KR).
+[2017.08.15-06.50.58:089][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2017.08.15-06.51.01:804][  0]LogD3D11RHI: D3D11 adapters:
+[2017.08.15-06.51.01:817][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2017.08.15-06.51.01:817][  0]LogD3D11RHI:       128/0/1979 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2017.08.15-06.51.01:834][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.08.15-06.51.01:834][  0]LogD3D11RHI:       0/0/1979 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.08.15-06.51.01:834][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.08.15-06.51.01:844][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.08.15-06.51.01:845][  0]LogD3D11RHI:     GPU DeviceId: 0x1916 (for the marketing name, search the web for "GPU Device Id")
+[2017.08.15-06.51.01:845][  0]LogWindows: EnumDisplayDevices:
+[2017.08.15-06.51.01:845][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2017.08.15-06.51.01:845][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.08.15-06.51.01:846][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.08.15-06.51.01:846][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2017.08.15-06.51.01:846][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 520
+[2017.08.15-06.51.01:846][  0]LogD3D11RHI:   Driver Version: 21.20.16.4534 (internal:21.20.16.4534, unified:21.20.16.4534)
+[2017.08.15-06.51.01:846][  0]LogD3D11RHI:      Driver Date: 10-7-2016
+[2017.08.15-06.51.01:846][  0]LogRHI: Texture pool is 782 MB (70% of 1117 MB)
+[2017.08.15-06.51.01:855][  0]LogD3D11RHI: Async texture creation enabled
+[2017.08.15-06.51.01:863][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2017.08.15-06.51.01:865][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/Bang_Minsu/Documents/GitHub/PointShootKill/PointShootKill/Intermediate/Shaders/WorkingDirectory/1184/).
+[2017.08.15-06.51.01:865][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Bang_Minsu/AppData/Local/Temp/UnrealShaderWorkingDir/3A05AAB64D9EFC534ED3989A1BB6C524/'.
+[2017.08.15-06.51.01:865][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.08.15-06.51.05:071][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.08.15-06.51.05:191][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.08.15-06.51.05:310][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.08.15-06.51.05:430][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.08.15-06.51.05:553][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.08.15-06.51.05:672][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.08.15-06.51.05:793][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.08.15-06.51.05:910][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.08.15-06.51.06:022][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.08.15-06.51.06:142][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.08.15-06.51.06:260][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.08.15-06.51.06:373][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.08.15-06.51.06:492][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.08.15-06.51.06:608][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.08.15-06.51.06:730][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.08.15-06.51.06:965][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.08.15-06.51.06:965][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.08.15-06.51.07:066][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.08.15-06.51.07:273][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.08.15-06.51.07:342][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.08.15-06.51.07:462][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.08.15-06.51.07:574][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.08.15-06.51.07:693][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.08.15-06.51.07:813][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.08.15-06.51.07:813][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.08.15-06.51.09:076][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.08.15-06.51.09:243][  0]LogDerivedDataCache: Loaded boot cache 0.17s 93MB C:/Users/Bang_Minsu/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.08.15-06.51.09:244][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Bang_Minsu/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.08.15-06.51.09:244][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Bang_Minsu/Documents/GitHub/PointShootKill/PointShootKill/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.08.15-06.51.09:244][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.08.15-06.51.09:244][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Bang_Minsu/Documents/GitHub/PointShootKill/PointShootKill/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.08.15-06.51.09:244][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.08.15-06.51.09:267][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.08.15-06.51.09:281][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Bang_Minsu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.08.15-06.51.09:300][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.08.15-06.51.09:301][  0]LogSlate: Using Freetype 2.6.0
+[2017.08.15-06.51.09:314][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.08.15-06.51.09:314][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.08.15-06.51.10:291][  0]LogAssetRegistry: FAssetRegistry took 0.0300 seconds to start up
+[2017.08.15-06.51.10:612][  0]LogInit: Selected Device Profile: [Windows]
+[2017.08.15-06.51.10:941][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.08.15-06.51.11:799][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.08.15-06.51.11:928][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.08.15-06.51.11:928][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.08.15-06.51.11:928][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.08.15-06.51.11:928][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.08.15-06.51.11:928][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.08.15-06.51.12:674][  0]LogNetVersion: PointShootKill , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1180208419)
+[2017.08.15-06.51.13:215][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.113265 seconds
+[2017.08.15-06.51.13:228][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.08.15-06.51.13:228][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.08.15-06.51.13:228][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.08.15-06.51.13:435][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.08.15-06.51.24:409][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.08.15-06.51.24:509][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.08.15-06.51.26:079][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.08.15-06.51.27:031][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.08.15-06.51.30:736][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.08.15-06.51.31:331][  0]LogOcInput: OculusInput pre-init called
+[2017.08.15-06.51.31:934][  0]LogEngine: Initializing Engine...
+[2017.08.15-06.51.31:936][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.08.15-06.51.32:353][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.08.15-06.51.32:354][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.08.15-06.51.32:726][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.08.15-06.51.32:748][  0]LogInit: XAudio2 using '스피커(Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.15-06.51.34:385][  0]LogInit: FAudioDevice initialized.
+[2017.08.15-06.51.34:535][  0]LogDerivedDataCache: Saved boot cache 0.15s 93MB C:/Users/Bang_Minsu/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.08.15-06.51.34:561][  0]LogInit: Texture streaming: Enabled
+[2017.08.15-06.51.34:890][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.08.15-06.51.35:482][  0]LogInit: Transaction tracking system initialized
+[2017.08.15-06.51.36:331][  0]BlueprintLog: New page: 에디터 로드
+[2017.08.15-06.51.38:856][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2017.08.15-06.51.41:239][  0]LogConsoleResponse: Display: 
+[2017.08.15-06.51.41:697][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.08.15-06.51.41:698][  0]LogCook: Display: Mobile HDR setting 1
+[2017.08.15-06.51.41:698][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.08.15-06.51.42:602][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bang_Minsu/Documents/GitHub/PointShootKill/PointShootKill/Content/' took 0.03s
+[2017.08.15-06.51.44:671][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Bang_Minsu/Documents/GitHub/PointShootKill/PointShootKill/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.08.15-06.51.44:671][  0]LightingResults: New page: 라이팅 빌드
+[2017.08.15-06.51.44:776][  0]MapCheck: New page: 맵 체크
+[2017.08.15-06.51.44:776][  0]LightingResults: New page: 라이팅 빌드
+[2017.08.15-06.51.45:299][  0]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.15-06.51.45:302][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.08.15-06.51.45:325][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.08.15-06.51.45:412][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 86.522ms.
+[2017.08.15-06.51.45:412][  0]LogFileHelpers: Loading map 'MainMenu' took 0.741
+[2017.08.15-06.51.46:022][  0]LogCollectionManager: Loaded 0 collections in 0.003849 seconds
+[2017.08.15-06.51.46:255][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bang_Minsu/Documents/GitHub/PointShootKill/PointShootKill/Saved/Collections/' took 0.01s
+[2017.08.15-06.51.46:255][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bang_Minsu/Documents/GitHub/PointShootKill/PointShootKill/Content/Developers/BangMinsu/Collections/' took 0.01s
+[2017.08.15-06.51.46:255][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bang_Minsu/Documents/GitHub/PointShootKill/PointShootKill/Content/Collections/' took 0.01s
+[2017.08.15-06.51.46:255][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.08.15-06.51.46:275][  0]LogContentBrowser: Native class hierarchy populated in 0.0166 seconds. Added 2386 classes and 500 folders.
+[2017.08.15-06.51.46:463][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2017.08.15-06.51.47:132][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2017.08.15-06.51.47:272][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2017.08.15-06.51.47:487][  0]LogSlate: Took 0.011289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.08.15-06.51.47:540][  0]LogSlate: Took 0.050513 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2017.08.15-06.51.47:547][  0]LogSlate: Took 0.005429 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.08.15-06.51.47:573][  0]LogSlate: Took 0.011738 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.08.15-06.51.47:964][  0]LogRenderer: Reallocating scene render targets to support 1208x568 Format 9 NumSamples 1 (Frame:1).
+[2017.08.15-06.51.49:002][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2017.08.15-06.51.49:002][  0]LogLoad: (Engine Initialization) Total time: 54.91 seconds
+[2017.08.15-06.51.49:002][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.08.15-06.51.49:004][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.08.15-06.51.49:072][  0]SourceControl: On branch master
+[2017.08.15-06.51.49:072][  0]SourceControl: Your branch is up-to-date with 'origin/master'.
+[2017.08.15-06.51.49:072][  0]SourceControl: Changes not staged for commit:
+[2017.08.15-06.51.49:072][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2017.08.15-06.51.49:072][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.08.15-06.51.49:072][  0]SourceControl: 	modified:   PointShootKill/Intermediate/CachedAssetRegistry.bin
+[2017.08.15-06.51.49:072][  0]SourceControl: 	modified:   PointShootKill/Saved/Config/Windows/Editor.ini
+[2017.08.15-06.51.49:072][  0]SourceControl: 	modified:   PointShootKill/Saved/Config/Windows/Engine.ini
+[2017.08.15-06.51.49:072][  0]SourceControl: 	deleted:    PointShootKill/Saved/Logs/PointShootKill-backup-2017.08.15-14.14.58.log
+[2017.08.15-06.51.49:072][  0]SourceControl: 	deleted:    PointShootKill/Saved/Logs/PointShootKill-backup-2017.08.15-15.19.27.log
+[2017.08.15-06.51.49:072][  0]SourceControl: 	modified:   PointShootKill/Saved/Logs/PointShootKill.log
+[2017.08.15-06.51.49:072][  0]SourceControl: Untracked files:
+[2017.08.15-06.51.49:072][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.08.15-06.51.49:072][  0]SourceControl: 	PointShootKill/Saved/Config/CrashReportClient/UE4CC-Windows-227EA4EE42BB6D7E766FC0B366739CEC/
+[2017.08.15-06.51.49:072][  0]SourceControl: 	PointShootKill/Saved/Logs/PointShootKill-backup-2017.08.15-15.50.56.log
+[2017.08.15-06.51.49:072][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2017.08.15-06.51.49:074][  0]LogContentStreaming: Texture pool size now 400 MB
+[2017.08.15-06.51.49:149][  0]LogSlate: Took 0.006513 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.15-06.51.49:318][  3]LogAssetRegistry: Asset discovery search completed in 39.0505 seconds
+[2017.08.15-06.51.49:330][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.08.15-06.51.49:330][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000076 seconds (updated 0 objects)
+[2017.08.15-07.02.02:290][191]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.08.15-07.02.04:717][191]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.15-07.02.04:719][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.15-07.02.04:726][191]PIE: New page: PIE 세션: MainMenu (2017. 8. 16. 오전 1:02:04)
+[2017.08.15-07.02.04:732][191]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2017.08.15-07.02.04:740][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008536s)
+[2017.08.15-07.02.04:744][191]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.15-07.02.04:748][191]LogPlayLevel: PIE: World Init took: (0.007633s)
+[2017.08.15-07.02.04:749][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.017814s)
+[2017.08.15-07.02.04:769][191]LogInit: XAudio2 using '스피커(Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.15-07.02.04:802][191]LogInit: FAudioDevice initialized.
+[2017.08.15-07.02.05:864][191]LogLoad: Game class is 'LobbyGM_C'
+[2017.08.15-07.02.05:899][191]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2017.08.15-16.02.05
+[2017.08.15-07.02.05:902][191]LogWorld: Bringing up level for play took: 0.004181
+[2017.08.15-07.02.06:170][191]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 11 classes and 0 folders.
+[2017.08.15-07.02.06:269][191]PIE: /Game/Maps/UEDPIE_0_MainMenu 에 대한 에디터에서 플레이 시작 시간: 1.37
+[2017.08.15-07.02.06:272][191]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.15-07.02.07:836][235]LogScriptCore: Warning: Script Msg: DestroySession - Invalid or uninitialized OnlineSubsystem
+[2017.08.15-07.02.07:837][235]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
+[2017.08.15-07.02.07:839][235]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.15-07.02.07:880][235]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.15-07.02.24:766][990]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.PointShootKill
+[2017.08.15-07.02.24:766][990]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.08.15-07.02.24:766][990]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.17
+[2017.08.15-07.02.24:766][990]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.08.15-07.02.24:789][991]LogTemp: BranchPath = DESKTOP-2LLGGVA/C/Program Files/Epic Games/UE_4.17/Engine/Binaries --- GameBranchPath = DESKTOP-2LLGGVA/C/Program Files/Epic Games/UE_4.17/Engine/Binaries
+[2017.08.15-07.02.24:970][998]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Bang_Minsu\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.08.15-07.02.51:278][241]LogSlate: Took 0.006268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.15-07.02.51:791][241]LogSlate: Took 0.006732 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.08.15-07.02.52:095][241]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0021 seconds. Added 113 classes and 0 folders.
+[2017.08.15-07.02.53:382][241]LogSlate: Took 0.008684 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.08.15-07.02.53:978][242]LogSlate: Took 0.007813 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.08.15-07.03.55:407][970]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.PointShootKill
+[2017.08.15-07.03.55:407][970]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.08.15-07.03.55:407][970]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.17
+[2017.08.15-07.03.55:407][970]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.08.15-07.03.55:433][971]LogTemp: BranchPath = DESKTOP-2LLGGVA/C/Program Files/Epic Games/UE_4.17/Engine/Binaries --- GameBranchPath = DESKTOP-2LLGGVA/C/Program Files/Epic Games/UE_4.17/Engine/Binaries
+[2017.08.15-07.03.55:483][973]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Bang_Minsu\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.08.15-07.04.01:938][206]SourceControl: Error: fatal: Could not switch to '/Script/': No such file or directory
+[2017.08.15-07.04.03:922][292]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.08.15-07.04.03:981][292]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.15-07.04.03:982][292]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.15-07.04.03:982][292]PIE: New page: PIE 세션: MainMenu (2017. 8. 16. 오전 1:04:03)
+[2017.08.15-07.04.03:983][292]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2017.08.15-07.04.03:984][292]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001198s)
+[2017.08.15-07.04.03:985][292]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.15-07.04.03:986][292]LogPlayLevel: PIE: World Init took: (0.001357s)
+[2017.08.15-07.04.03:986][292]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.002895s)
+[2017.08.15-07.04.04:027][292]LogInit: XAudio2 using '스피커(Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.15-07.04.04:058][292]LogInit: FAudioDevice initialized.
+[2017.08.15-07.04.04:095][292]LogLoad: Game class is 'GameMode'
+[2017.08.15-07.04.04:096][292]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.15-16.04.04
+[2017.08.15-07.04.04:096][292]LogWorld: Bringing up level for play took: 0.001166
+[2017.08.15-07.04.04:097][292]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.08.15-07.04.04:097][292]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.08.15-07.04.04:097][292]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.08.15-07.04.04:099][292]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.08.15-07.04.04:100][292]PIE: /Game/Maps/UEDPIE_0_MainMenu 에 대한 에디터에서 플레이 시작 시간: -0.799
+[2017.08.15-07.04.04:100][292]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.15-07.04.08:150][472]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.15-07.04.08:196][472]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.15-07.04.16:034][731]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.08.15-07.04.16:078][731]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.15-07.04.16:079][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.15-07.04.16:079][731]PIE: New page: PIE 세션: MainMenu (2017. 8. 16. 오전 1:04:16)
+[2017.08.15-07.04.16:080][731]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2017.08.15-07.04.16:082][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001901s)
+[2017.08.15-07.04.16:084][731]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.15-07.04.16:084][731]LogPlayLevel: PIE: World Init took: (0.001504s)
+[2017.08.15-07.04.16:085][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.004160s)
+[2017.08.15-07.04.16:130][731]LogInit: XAudio2 using '스피커(Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.15-07.04.16:166][731]LogInit: FAudioDevice initialized.
+[2017.08.15-07.04.16:200][731]LogLoad: Game class is 'GameMode'
+[2017.08.15-07.04.16:201][731]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.15-16.04.16
+[2017.08.15-07.04.16:201][731]LogWorld: Bringing up level for play took: 0.001145
+[2017.08.15-07.04.16:202][731]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.08.15-07.04.16:202][731]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.08.15-07.04.16:202][731]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.08.15-07.04.16:204][731]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.08.15-07.04.16:204][731]PIE: /Game/Maps/UEDPIE_0_MainMenu 에 대한 에디터에서 플레이 시작 시간: -0.694
+[2017.08.15-07.04.16:204][731]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.15-07.04.20:729][941]LogScriptCore: Warning: Script Msg: CreateSession - Invalid or uninitialized OnlineSubsystem
+[2017.08.15-07.04.20:729][941]LogScriptCore: Warning: Script Msg: CreateSession - Cannot map local player to unique net ID
+[2017.08.15-07.04.23:969][104]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.15-07.04.24:015][104]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.15-07.04.24:996][107]LogEditorViewport: Clicking Background
+[2017.08.15-07.04.32:429][425]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.08.15-07.04.32:468][425]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.15-07.04.32:468][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.15-07.04.32:469][425]PIE: New page: PIE 세션: MainMenu (2017. 8. 16. 오전 1:04:32)
+[2017.08.15-07.04.32:470][425]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2017.08.15-07.04.32:472][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001828s)
+[2017.08.15-07.04.32:473][425]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.15-07.04.32:474][425]LogPlayLevel: PIE: World Init took: (0.001228s)
+[2017.08.15-07.04.32:474][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003577s)
+[2017.08.15-07.04.32:520][425]LogInit: XAudio2 using '스피커(Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.15-07.04.32:556][425]LogInit: FAudioDevice initialized.
+[2017.08.15-07.04.32:591][425]LogLoad: Game class is 'GameMode'
+[2017.08.15-07.04.32:593][425]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.15-16.04.32
+[2017.08.15-07.04.32:593][425]LogWorld: Bringing up level for play took: 0.001128
+[2017.08.15-07.04.32:593][425]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.08.15-07.04.32:594][425]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.08.15-07.04.32:594][425]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.08.15-07.04.32:596][425]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.08.15-07.04.32:596][425]PIE: /Game/Maps/UEDPIE_0_MainMenu 에 대한 에디터에서 플레이 시작 시간: -0.303
+[2017.08.15-07.04.32:596][425]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.15-07.04.35:524][559]LogScriptCore: Warning: Script Msg: CreateSession - Invalid or uninitialized OnlineSubsystem
+[2017.08.15-07.04.35:524][559]LogScriptCore: Warning: Script Msg: CreateSession - Cannot map local player to unique net ID
+[2017.08.15-07.05.01:153][727]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.15-07.05.01:212][727]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.15-07.05.53:114][236]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.08.15-07.05.53:163][236]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.15-07.05.53:163][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.15-07.05.53:164][236]PIE: New page: PIE 세션: MainMenu (2017. 8. 16. 오전 1:05:53)
+[2017.08.15-07.05.53:165][236]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2017.08.15-07.05.53:167][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001738s)
+[2017.08.15-07.05.53:168][236]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.15-07.05.53:169][236]LogPlayLevel: PIE: World Init took: (0.001579s)
+[2017.08.15-07.05.53:169][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003873s)
+[2017.08.15-07.05.53:208][236]LogInit: XAudio2 using '스피커(Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.15-07.05.53:238][236]LogInit: FAudioDevice initialized.
+[2017.08.15-07.05.53:275][236]LogLoad: Game class is 'LobbyGM_C'
+[2017.08.15-07.05.53:276][236]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.15-16.05.53
+[2017.08.15-07.05.53:276][236]LogWorld: Bringing up level for play took: 0.001072
+[2017.08.15-07.05.53:284][236]PIE: /Game/Maps/UEDPIE_0_MainMenu 에 대한 에디터에서 플레이 시작 시간: 0.385
+[2017.08.15-07.05.53:284][236]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.15-07.05.54:570][291]Cmd: servertravel /Game/Maps/Map
+[2017.08.15-07.05.54:584][291]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2017.08.15-07.06.10:718][ 17]LogScriptCore: Warning: Script Msg: CreateSession - Invalid or uninitialized OnlineSubsystem
+[2017.08.15-07.06.10:718][ 17]LogScriptCore: Warning: Script Msg: CreateSession - Cannot map local player to unique net ID
+[2017.08.15-07.06.12:284][ 89]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.15-07.06.12:287][ 89]LogScriptCore: Warning: Script Msg: DestroySession - Invalid or uninitialized OnlineSubsystem
+[2017.08.15-07.06.12:287][ 89]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
+[2017.08.15-07.06.12:334][ 89]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.15-07.06.13:285][ 92]LogEditorViewport: Clicking Background
+[2017.08.15-07.06.34:523][219]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.15-07.07.02:244][948]BlueprintLog: New page: HostMenu 컴파일
+[2017.08.15-07.07.05:943][ 60]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.08.15-07.07.06:013][ 60]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.15-07.07.06:014][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.15-07.07.06:014][ 60]PIE: New page: PIE 세션: MainMenu (2017. 8. 16. 오전 1:07:06)
+[2017.08.15-07.07.06:038][ 60]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2017.08.15-07.07.06:040][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001444s)
+[2017.08.15-07.07.06:041][ 60]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.15-07.07.06:041][ 60]LogPlayLevel: PIE: World Init took: (0.001222s)
+[2017.08.15-07.07.06:041][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003091s)
+[2017.08.15-07.07.06:082][ 60]LogInit: XAudio2 using '스피커(Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.15-07.07.06:120][ 60]LogInit: FAudioDevice initialized.
+[2017.08.15-07.07.06:158][ 60]LogLoad: Game class is 'LobbyGM_C'
+[2017.08.15-07.07.06:160][ 60]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.15-16.07.06
+[2017.08.15-07.07.06:160][ 60]LogWorld: Bringing up level for play took: 0.001224
+[2017.08.15-07.07.06:169][ 60]PIE: /Game/Maps/UEDPIE_0_MainMenu 에 대한 에디터에서 플레이 시작 시간: -0.73
+[2017.08.15-07.07.06:169][ 60]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.15-07.07.09:602][206]LogScriptCore: Warning: Script Msg: CreateSession - Invalid or uninitialized OnlineSubsystem
+[2017.08.15-07.07.09:602][206]LogScriptCore: Warning: Script Msg: CreateSession - Cannot map local player to unique net ID
+[2017.08.15-07.07.09:616][206]LogNet: Browse: /Game/Maps/Lobby
+[2017.08.15-07.07.09:617][206]LogLoad: LoadMap: /Game/Maps/Lobby
+[2017.08.15-07.07.09:619][206]LogScriptCore: Warning: Script Msg: DestroySession - Invalid or uninitialized OnlineSubsystem
+[2017.08.15-07.07.09:619][206]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
+[2017.08.15-07.07.09:654][206]Cmd: MEM
+[2017.08.15-07.07.09:689][206]LogMemory: Platform Memory Stats for Windows
+[2017.08.15-07.07.09:689][206]LogMemory: Process Physical Memory: 1194.71 MB used, 1445.85 MB peak
+[2017.08.15-07.07.09:689][206]LogMemory: Process Virtual Memory: 1943.02 MB used, 1949.91 MB peak
+[2017.08.15-07.07.09:689][206]LogMemory: Physical Memory: 3035.07 MB used,  924.60 MB free, 3959.66 MB total
+[2017.08.15-07.07.09:689][206]LogMemory: Virtual Memory: 2760.12 MB used,  924.60 MB free, 134217728.00 MB total
+[2017.08.15-07.07.09:689][206]LogMemory: 
+[2017.08.15-07.07.09:689][206]Allocator Stats for TBB: (not implemented)
+[2017.08.15-07.07.11:340][206]LogAIModule: Creating AISystem for world Lobby
+[2017.08.15-07.07.11:341][206]LogLoad: Game class is 'LobbyGM_C'
+[2017.08.15-07.07.11:373][206]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2017.08.15-16.07.11
+[2017.08.15-07.07.11:374][206]LogWorld: Bringing up level for play took: 0.031976
+[2017.08.15-07.07.11:392][206]LogLoad: Took 1.775313 seconds to LoadMap(/Game/Maps/Lobby)
+[2017.08.15-07.07.27:036][780]Cmd: servertravel /Game/Maps/Map
+[2017.08.15-07.07.27:039][780]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2017.08.15-07.07.29:041][857]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.15-07.07.29:043][857]LogScriptCore: Warning: Script Msg: DestroySession - Invalid or uninitialized OnlineSubsystem
+[2017.08.15-07.07.29:043][857]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
+[2017.08.15-07.07.29:090][857]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.15-07.07.30:395][921]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.08.15-07.07.30:448][921]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.15-07.07.30:449][921]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.15-07.07.30:449][921]PIE: New page: PIE 세션: MainMenu (2017. 8. 16. 오전 1:07:30)
+[2017.08.15-07.07.30:508][921]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2017.08.15-07.07.30:510][921]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001949s)
+[2017.08.15-07.07.30:511][921]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.15-07.07.30:512][921]LogPlayLevel: PIE: World Init took: (0.001721s)
+[2017.08.15-07.07.30:512][921]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.004201s)
+[2017.08.15-07.07.30:554][921]LogInit: XAudio2 using '스피커(Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.15-07.07.30:584][921]LogInit: FAudioDevice initialized.
+[2017.08.15-07.07.30:621][921]LogLoad: Game class is 'LobbyGM_C'
+[2017.08.15-07.07.30:622][921]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.15-16.07.30
+[2017.08.15-07.07.30:622][921]LogWorld: Bringing up level for play took: 0.001200
+[2017.08.15-07.07.30:631][921]PIE: /Game/Maps/UEDPIE_0_MainMenu 에 대한 에디터에서 플레이 시작 시간: -0.268
+[2017.08.15-07.07.30:631][921]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.15-07.07.35:012][ 99]LogScriptCore: Warning: Script Msg: CreateSession - Invalid or uninitialized OnlineSubsystem
+[2017.08.15-07.07.35:012][ 99]LogScriptCore: Warning: Script Msg: CreateSession - Cannot map local player to unique net ID
+[2017.08.15-07.07.35:024][ 99]LogNet: Browse: /Game/Maps/Lobby
+[2017.08.15-07.07.35:025][ 99]LogLoad: LoadMap: /Game/Maps/Lobby
+[2017.08.15-07.07.35:026][ 99]LogScriptCore: Warning: Script Msg: DestroySession - Invalid or uninitialized OnlineSubsystem
+[2017.08.15-07.07.35:026][ 99]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
+[2017.08.15-07.07.35:084][ 99]Cmd: MEM
+[2017.08.15-07.07.35:131][ 99]LogMemory: Platform Memory Stats for Windows
+[2017.08.15-07.07.35:131][ 99]LogMemory: Process Physical Memory: 1306.02 MB used, 1490.07 MB peak
+[2017.08.15-07.07.35:131][ 99]LogMemory: Process Virtual Memory: 2079.18 MB used, 2125.93 MB peak
+[2017.08.15-07.07.35:131][ 99]LogMemory: Physical Memory: 3145.70 MB used,  813.97 MB free, 3959.66 MB total
+[2017.08.15-07.07.35:131][ 99]LogMemory: Virtual Memory: 2916.03 MB used,  813.97 MB free, 134217728.00 MB total
+[2017.08.15-07.07.35:131][ 99]LogMemory: 
+[2017.08.15-07.07.35:131][ 99]Allocator Stats for TBB: (not implemented)
+[2017.08.15-07.07.35:516][ 99]LogAIModule: Creating AISystem for world Lobby
+[2017.08.15-07.07.35:517][ 99]LogLoad: Game class is 'LobbyGM_C'
+[2017.08.15-07.07.35:521][ 99]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2017.08.15-16.07.35
+[2017.08.15-07.07.35:522][ 99]LogWorld: Bringing up level for play took: 0.004348
+[2017.08.15-07.07.35:531][ 99]LogLoad: Took 0.506257 seconds to LoadMap(/Game/Maps/Lobby)
+[2017.08.15-07.07.46:224][515]Cmd: servertravel /Game/Maps/Map
+[2017.08.15-07.07.46:225][515]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2017.08.15-07.08.18:880][261]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.15-07.08.18:880][261]LogScriptCore: Warning: Script Msg: DestroySession - Invalid or uninitialized OnlineSubsystem
+[2017.08.15-07.08.18:880][261]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
+[2017.08.15-07.08.18:931][261]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.15-07.08.34:213][659]BlueprintLog: New page: LobbyMenu 컴파일
+[2017.08.15-07.08.36:651][724]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.08.15-07.08.36:702][724]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.15-07.08.36:702][724]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.15-07.08.36:702][724]PIE: New page: PIE 세션: MainMenu (2017. 8. 16. 오전 1:08:36)
+[2017.08.15-07.08.36:764][724]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2017.08.15-07.08.36:766][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001452s)
+[2017.08.15-07.08.36:766][724]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.15-07.08.36:767][724]LogPlayLevel: PIE: World Init took: (0.001226s)
+[2017.08.15-07.08.36:767][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003193s)
+[2017.08.15-07.08.36:815][724]LogInit: XAudio2 using '스피커(Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.15-07.08.36:851][724]LogInit: FAudioDevice initialized.
+[2017.08.15-07.08.36:888][724]LogLoad: Game class is 'LobbyGM_C'
+[2017.08.15-07.08.36:889][724]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.15-16.08.36
+[2017.08.15-07.08.36:889][724]LogWorld: Bringing up level for play took: 0.001016
+[2017.08.15-07.08.36:896][724]PIE: /Game/Maps/UEDPIE_0_MainMenu 에 대한 에디터에서 플레이 시작 시간: -0.003
+[2017.08.15-07.08.36:896][724]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.15-07.08.39:136][813]LogScriptCore: Warning: Script Msg: CreateSession - Invalid or uninitialized OnlineSubsystem
+[2017.08.15-07.08.39:136][813]LogScriptCore: Warning: Script Msg: CreateSession - Cannot map local player to unique net ID
+[2017.08.15-07.08.39:150][813]LogNet: Browse: /Game/Maps/Lobby
+[2017.08.15-07.08.39:151][813]LogLoad: LoadMap: /Game/Maps/Lobby
+[2017.08.15-07.08.39:152][813]LogScriptCore: Warning: Script Msg: DestroySession - Invalid or uninitialized OnlineSubsystem
+[2017.08.15-07.08.39:152][813]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
+[2017.08.15-07.08.39:191][813]Cmd: MEM
+[2017.08.15-07.08.39:233][813]LogMemory: Platform Memory Stats for Windows
+[2017.08.15-07.08.39:233][813]LogMemory: Process Physical Memory: 1375.41 MB used, 1490.07 MB peak
+[2017.08.15-07.08.39:233][813]LogMemory: Process Virtual Memory: 2278.36 MB used, 2278.36 MB peak
+[2017.08.15-07.08.39:233][813]LogMemory: Physical Memory: 3191.70 MB used,  767.96 MB free, 3959.66 MB total
+[2017.08.15-07.08.39:233][813]LogMemory: Virtual Memory: 3126.31 MB used,  767.96 MB free, 134217728.00 MB total
+[2017.08.15-07.08.39:233][813]LogMemory: 
+[2017.08.15-07.08.39:233][813]Allocator Stats for TBB: (not implemented)
+[2017.08.15-07.08.39:616][813]LogAIModule: Creating AISystem for world Lobby
+[2017.08.15-07.08.39:617][813]LogLoad: Game class is 'LobbyGM_C'
+[2017.08.15-07.08.39:622][813]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2017.08.15-16.08.39
+[2017.08.15-07.08.39:623][813]LogWorld: Bringing up level for play took: 0.005033
+[2017.08.15-07.08.39:633][813]LogLoad: Took 0.482280 seconds to LoadMap(/Game/Maps/Lobby)
+[2017.08.15-07.08.42:329][915]Cmd: servertravel /Game/Maps/Map
+[2017.08.15-07.08.42:331][915]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2017.08.15-07.08.42:339][915]LogNet: Browse: /Game/Maps/Map
+[2017.08.15-07.08.42:339][915]LogLoad: LoadMap: /Game/Maps/Map
+[2017.08.15-07.08.42:340][915]LogScriptCore: Warning: Script Msg: DestroySession - Invalid or uninitialized OnlineSubsystem
+[2017.08.15-07.08.42:340][915]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
+[2017.08.15-07.08.42:381][915]Cmd: MEM
+[2017.08.15-07.08.42:416][915]LogMemory: Platform Memory Stats for Windows
+[2017.08.15-07.08.42:416][915]LogMemory: Process Physical Memory: 1396.19 MB used, 1490.07 MB peak
+[2017.08.15-07.08.42:416][915]LogMemory: Process Virtual Memory: 2284.48 MB used, 2287.33 MB peak
+[2017.08.15-07.08.42:416][915]LogMemory: Physical Memory: 3205.83 MB used,  753.83 MB free, 3959.66 MB total
+[2017.08.15-07.08.42:416][915]LogMemory: Virtual Memory: 3122.31 MB used,  753.83 MB free, 134217728.00 MB total
+[2017.08.15-07.08.42:416][915]LogMemory: 
+[2017.08.15-07.08.42:416][915]Allocator Stats for TBB: (not implemented)
+[2017.08.15-07.08.43:570][915]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.413 s
+[2017.08.15-07.08.43:570][915]LogOutputDevice: Error: === Handled ensure: ===
+[2017.08.15-07.08.43:570][915]LogOutputDevice: Error: 
+[2017.08.15-07.08.43:571][915]LogOutputDevice: Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1315]
+[2017.08.15-07.08.43:571][915]LogOutputDevice: Error: 
+[2017.08.15-07.08.43:571][915]LogOutputDevice: Error: Stack: 
+[2017.08.15-07.08.43:571][915]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000008FBA35F6
+[2017.08.15-07.08.43:571][915]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000008F92C2C2
+[2017.08.15-07.08.43:571][915]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000008F944736
+[2017.08.15-07.08.43:571][915]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x00000000939DD6C9
+[2017.08.15-07.08.43:571][915]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x00000000939AC9DD
+[2017.08.15-07.08.43:571][915]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x000000009C200F67
+[2017.08.15-07.08.43:571][915]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x000000009C50B4F6
+[2017.08.15-07.08.43:571][915]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x000000009C5215E6
+[2017.08.15-07.08.43:571][915]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x000000009C520B32
+[2017.08.15-07.08.43:571][915]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000008D41DCFB
+[2017.08.15-07.08.43:571][915]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000008D3D66D8
+[2017.08.15-07.08.43:571][915]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000008D43D48D
+[2017.08.15-07.08.43:571][915]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000008947BC30
+[2017.08.15-07.08.43:571][915]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000089D0B0E6
+[2017.08.15-07.08.43:571][915]LogOutputDevice: Error: UE4Editor.exe!0x00000000C430534A
+[2017.08.15-07.08.43:571][915]LogOutputDevice: Error: UE4Editor.exe!0x00000000C4313970
+[2017.08.15-07.08.43:571][915]LogOutputDevice: Error: UE4Editor.exe!0x00000000C43139EA
+[2017.08.15-07.08.43:571][915]LogOutputDevice: Error: UE4Editor.exe!0x00000000C43202D9
+[2017.08.15-07.08.43:571][915]LogOutputDevice: Error: UE4Editor.exe!0x00000000C4321C47
+[2017.08.15-07.08.43:571][915]LogOutputDevice: Error: KERNEL32.DLL!0x00000000C7532774
+[2017.08.15-07.08.43:571][915]LogOutputDevice: Error: ntdll.dll!0x00000000C7900D51
+[2017.08.15-07.08.43:571][915]LogOutputDevice: Error: 
+[2017.08.15-07.08.43:573][915]LogStats:                SubmitErrorReport -  0.000 s
