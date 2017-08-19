@@ -1,0 +1,1175 @@
+﻿Log file open, 08/19/17 22:15:10
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VSPerf140.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: PointShootKill
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1496466027) SRandInit(1496466027).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.162768
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3573198
+LogInit: Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug  4 2017 16:30:33
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.08.19-13.15.10:943][  0]LogInit: Selected Device Profile: [Windows]
+[2017.08.19-13.15.10:943][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.08.19-13.15.10:955][  0]LogInit: Computer: COOLKYS-PC
+[2017.08.19-13.15.10:955][  0]LogInit: User: YounsooKim
+[2017.08.19-13.15.10:955][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.08.19-13.15.10:955][  0]LogInit: High frequency timer resolution =3.914070 MHz
+[2017.08.19-13.15.10:955][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2017.08.19-13.15.10:955][  0]LogMemory: Platform Memory Stats for Windows
+[2017.08.19-13.15.10:955][  0]LogMemory: Process Physical Memory: 278.09 MB used, 278.09 MB peak
+[2017.08.19-13.15.10:955][  0]LogMemory: Process Virtual Memory: 274.26 MB used, 274.26 MB peak
+[2017.08.19-13.15.10:955][  0]LogMemory: Physical Memory: 4929.20 MB used,  3216.23 MB free, 8145.43 MB total
+[2017.08.19-13.15.10:955][  0]LogMemory: Virtual Memory: 668.31 MB used,  3216.23 MB free, 134217728.00 MB total
+[2017.08.19-13.15.11:085][  0]LogInit: Using OS detected language (en-US).
+[2017.08.19-13.15.11:085][  0]LogInit: Using OS detected locale (en-US).
+[2017.08.19-13.15.11:088][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.08.19-13.15.11:646][  0]LogD3D11RHI: D3D11 adapters:
+[2017.08.19-13.15.12:117][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750 Ti' (Feature Level 11_0)
+[2017.08.19-13.15.12:117][  0]LogD3D11RHI:       2017/0/4072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.08.19-13.15.12:118][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.08.19-13.15.12:118][  0]LogD3D11RHI:       0/0/4072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.08.19-13.15.12:118][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.08.19-13.15.12:124][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.08.19-13.15.12:124][  0]LogD3D11RHI:     GPU DeviceId: 0x1380 (for the marketing name, search the web for "GPU Device Id")
+[2017.08.19-13.15.12:124][  0]LogWindows: EnumDisplayDevices:
+[2017.08.19-13.15.12:124][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750 Ti' (P:1 D:1)
+[2017.08.19-13.15.12:124][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:1)
+[2017.08.19-13.15.12:125][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2017.08.19-13.15.12:125][  0]LogWindows:    3. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2017.08.19-13.15.12:125][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.08.19-13.15.12:125][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750 Ti
+[2017.08.19-13.15.12:125][  0]LogD3D11RHI:   Driver Version: 382.05 (internal:22.21.13.8205, unified:382.05)
+[2017.08.19-13.15.12:125][  0]LogD3D11RHI:      Driver Date: 5-1-2017
+[2017.08.19-13.15.12:125][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.08.19-13.15.12:587][  0]LogD3D11RHI: Async texture creation enabled
+[2017.08.19-13.15.12:739][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.08.19-13.15.12:789][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Intermediate/Shaders/WorkingDirectory/7144/).
+[2017.08.19-13.15.12:789][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Younsoo Kim/AppData/Local/Temp/UnrealShaderWorkingDir/F99356364678C0CDF57854A9DF88E19E/'.
+[2017.08.19-13.15.12:789][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.08.19-13.15.13:502][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.08.19-13.15.13:545][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.08.19-13.15.13:586][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.08.19-13.15.13:631][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.08.19-13.15.13:673][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.08.19-13.15.13:714][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.08.19-13.15.13:756][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.08.19-13.15.13:798][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.08.19-13.15.13:833][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.08.19-13.15.13:873][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.08.19-13.15.13:913][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.08.19-13.15.13:955][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.08.19-13.15.13:994][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.08.19-13.15.14:034][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.08.19-13.15.14:074][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.08.19-13.15.14:154][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.08.19-13.15.14:154][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.08.19-13.15.14:185][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.08.19-13.15.14:263][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.08.19-13.15.14:287][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.08.19-13.15.14:326][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.08.19-13.15.14:366][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.08.19-13.15.14:407][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.08.19-13.15.14:449][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.08.19-13.15.14:449][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.08.19-13.15.14:838][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.08.19-13.15.14:929][  0]LogDerivedDataCache: Loaded boot cache 0.09s 93MB C:/Users/Younsoo Kim/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.08.19-13.15.14:930][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Younsoo Kim/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.08.19-13.15.14:930][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.08.19-13.15.14:930][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.08.19-13.15.14:930][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.08.19-13.15.14:930][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.08.19-13.15.14:942][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.08.19-13.15.14:955][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Younsoo Kim/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.08.19-13.15.14:963][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.08.19-13.15.14:963][  0]LogSlate: Using Freetype 2.6.0
+[2017.08.19-13.15.14:964][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.08.19-13.15.14:964][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.08.19-13.15.15:169][  0]LogAssetRegistry: FAssetRegistry took 0.0243 seconds to start up
+[2017.08.19-13.15.15:264][  0]LogInit: Selected Device Profile: [Windows]
+[2017.08.19-13.15.15:393][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.08.19-13.15.15:631][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.08.19-13.15.15:668][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.08.19-13.15.15:668][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.08.19-13.15.15:668][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.08.19-13.15.15:668][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.08.19-13.15.15:668][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.08.19-13.15.15:958][  0]LogNetVersion: PointShootKill , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1180208419)
+[2017.08.19-13.15.16:130][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.040643 seconds
+[2017.08.19-13.15.16:135][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.08.19-13.15.16:135][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.08.19-13.15.16:135][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.08.19-13.15.16:184][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.08.19-13.15.18:229][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.08.19-13.15.18:262][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.08.19-13.15.18:799][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.08.19-13.15.19:126][  0]SourceControl: Source control is disabled
+[2017.08.19-13.15.19:664][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.08.19-13.15.19:860][  0]LogOcInput: OculusInput pre-init called
+[2017.08.19-13.15.20:068][  0]LogEngine: Initializing Engine...
+[2017.08.19-13.15.20:069][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.08.19-13.15.20:264][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.08.19-13.15.20:264][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.08.19-13.15.20:370][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.08.19-13.15.20:382][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.19-13.15.20:401][  0]LogInit: FAudioDevice initialized.
+[2017.08.19-13.15.20:564][  0]LogDerivedDataCache: Saved boot cache 0.16s 93MB C:/Users/Younsoo Kim/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.08.19-13.15.20:584][  0]LogInit: Texture streaming: Enabled
+[2017.08.19-13.15.20:686][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.08.19-13.15.20:877][  0]LogInit: Transaction tracking system initialized
+[2017.08.19-13.15.21:131][  0]BlueprintLog: New page: Editor Load
+[2017.08.19-13.15.21:888][  0]LocalizationService: Localization service is disabled
+[2017.08.19-13.15.22:460][  0]LogConsoleResponse: Display: 
+[2017.08.19-13.15.22:616][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.08.19-13.15.22:616][  0]LogCook: Display: Mobile HDR setting 1
+[2017.08.19-13.15.22:617][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.08.19-13.15.22:737][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Content/' took 0.02s
+[2017.08.19-13.15.23:479][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.08.19-13.15.23:482][  0]LightingResults: New page: Lighting Build
+[2017.08.19-13.15.23:516][  0]MapCheck: New page: Map Check
+[2017.08.19-13.15.23:516][  0]LightingResults: New page: Lighting Build
+[2017.08.19-13.15.24:425][  0]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.19-13.15.24:426][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.08.19-13.15.24:437][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.08.19-13.15.24:486][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 48.746ms to complete.
+[2017.08.19-13.15.24:486][  0]LogFileHelpers: Loading map 'MainMenu' took 1.007
+[2017.08.19-13.15.24:561][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.08.19-13.15.24:687][  0]LogCollectionManager: Loaded 0 collections in 0.001077 seconds
+[2017.08.19-13.15.24:775][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Saved/Collections/' took 0.01s
+[2017.08.19-13.15.24:775][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Content/Developers/YounsooKim/Collections/' took 0.01s
+[2017.08.19-13.15.24:775][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Content/Collections/' took 0.01s
+[2017.08.19-13.15.24:775][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.08.19-13.15.24:784][  0]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2386 classes and 500 folders.
+[2017.08.19-13.15.24:841][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.08.19-13.15.25:144][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.08.19-13.15.25:186][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.08.19-13.15.25:319][  0]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.08.19-13.15.25:321][  0]LogSlate: Took 0.000313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.08.19-13.15.25:332][  0]LogSlate: Took 0.004096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.08.19-13.15.25:480][  0]LogRenderer: Reallocating scene render targets to support 752x652 Format 10 NumSamples 1 (Frame:1).
+[2017.08.19-13.15.25:714][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.08.19-13.15.25:714][  0]LogLoad: (Engine Initialization) Total time: 16.29 seconds
+[2017.08.19-13.15.25:714][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.08.19-13.15.25:714][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.08.19-13.15.25:744][  0]LogAssetRegistry: Asset discovery search completed in 10.5964 seconds
+[2017.08.19-13.15.25:748][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.08.19-13.15.25:748][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000052 seconds (updated 0 objects)
+[2017.08.19-13.15.25:749][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.08.19-13.15.25:778][  0]LogSlate: Took 0.003792 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.19-13.27.12:599][798]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.19-13.27.13:898][798]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-13.27.13:899][798]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.19-13.27.13:905][798]PIE: New page: PIE session: MainMenu (Aug 20, 2017, 7:27:13 AM)
+[2017.08.19-13.27.13:906][798]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2017.08.19-13.27.13:908][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002135s)
+[2017.08.19-13.27.13:909][798]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.19-13.27.13:909][798]LogPlayLevel: PIE: World Init took: (0.000784s)
+[2017.08.19-13.27.13:910][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003859s)
+[2017.08.19-13.27.13:927][798]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.19-13.27.13:939][798]LogInit: FAudioDevice initialized.
+[2017.08.19-13.27.13:985][798]LogLoad: Game class is 'LobbyGM_C'
+[2017.08.19-13.27.13:994][798]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.19-22.27.13
+[2017.08.19-13.27.13:996][798]LogWorld: Bringing up level for play took: 0.001816
+[2017.08.19-13.27.14:045][798]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2017.08.19-13.27.14:049][798]LogScript: Warning: Accessed None trying to read property LobbyMenuWB
+	LobbyPC_C /Game/Maps/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.LobbyPC_C_0
+	Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC:03F6
+[2017.08.19-13.27.14:049][798]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property LobbyMenuWB from function: 'ExecuteUbergraph_LobbyPC' from node: Set MapName in graph: EventGraph in object: LobbyPC with description: Accessed None trying to read property LobbyMenuWB
+[2017.08.19-13.27.14:049][798]LogScript: Warning: Attempted to assign to None
+	LobbyPC_C /Game/Maps/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.LobbyPC_C_0
+	Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC:040B
+[2017.08.19-13.27.14:049][798]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'ExecuteUbergraph_LobbyPC' from node: Set MapName in graph: EventGraph in object: LobbyPC with description: Attempted to assign to None
+[2017.08.19-13.27.14:049][798]LogScript: Warning: Accessed None trying to read property LobbyMenuWB
+	LobbyPC_C /Game/Maps/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.LobbyPC_C_0
+	Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC:0429
+[2017.08.19-13.27.14:049][798]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property LobbyMenuWB from function: 'ExecuteUbergraph_LobbyPC' from node: Set MapTime in graph: EventGraph in object: LobbyPC with description: Accessed None trying to read property LobbyMenuWB
+[2017.08.19-13.27.14:049][798]LogScript: Warning: Attempted to assign to None
+	LobbyPC_C /Game/Maps/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.LobbyPC_C_0
+	Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC:043E
+[2017.08.19-13.27.14:049][798]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'ExecuteUbergraph_LobbyPC' from node: Set MapTime in graph: EventGraph in object: LobbyPC with description: Attempted to assign to None
+[2017.08.19-13.27.14:078][798]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 1.109
+[2017.08.19-13.27.14:078][798]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-13.27.24:568][ 49]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-13.27.24:569][ 49]LogScriptCore: Warning: Script Msg: DestroySession - Invalid or uninitialized OnlineSubsystem
+[2017.08.19-13.27.24:569][ 49]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
+[2017.08.19-13.27.24:602][ 49]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-13.27.25:929][197]LogRenderer: Reallocating scene render targets to support 768x652 Format 10 NumSamples 1 (Frame:46).
+[2017.08.19-13.27.25:981][198]LogRenderer: Reallocating scene render targets to support 812x652 Format 10 NumSamples 1 (Frame:48).
+[2017.08.19-13.27.26:030][199]LogRenderer: Reallocating scene render targets to support 832x652 Format 10 NumSamples 1 (Frame:50).
+[2017.08.19-13.27.26:076][200]LogRenderer: Reallocating scene render targets to support 836x652 Format 10 NumSamples 1 (Frame:52).
+[2017.08.19-13.27.26:135][201]LogRenderer: Reallocating scene render targets to support 848x652 Format 10 NumSamples 1 (Frame:54).
+[2017.08.19-13.27.26:181][202]LogRenderer: Reallocating scene render targets to support 872x652 Format 10 NumSamples 1 (Frame:56).
+[2017.08.19-13.27.26:251][203]LogRenderer: Reallocating scene render targets to support 912x652 Format 10 NumSamples 1 (Frame:58).
+[2017.08.19-13.27.26:322][204]LogRenderer: Reallocating scene render targets to support 924x652 Format 10 NumSamples 1 (Frame:60).
+[2017.08.19-13.27.26:374][205]LogRenderer: Reallocating scene render targets to support 932x652 Format 10 NumSamples 1 (Frame:62).
+[2017.08.19-13.27.26:484][209]LogRenderer: Reallocating scene render targets to support 936x652 Format 10 NumSamples 1 (Frame:66).
+[2017.08.19-13.27.58:198][966]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.19-13.27.58:216][966]Cmd: MAP LOAD FILE="../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.08.19-13.27.58:216][966]LightingResults: New page: Lighting Build
+[2017.08.19-13.27.58:217][966]LoadErrors: New page: Loading map: MainMenu.umap
+[2017.08.19-13.27.58:217][966]MapCheck: New page: Map Check
+[2017.08.19-13.27.58:217][966]LightingResults: New page: Lighting Build
+[2017.08.19-13.27.58:235][966]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.19-13.27.58:285][966]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.08.19-13.27.58:322][966]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.08.19-13.27.58:371][966]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 49.382ms to complete.
+[2017.08.19-13.27.58:372][966]LogFileHelpers: Loading map 'MainMenu' took 0.157
+[2017.08.19-13.28.12:540][420]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 113 classes and 0 folders.
+[2017.08.19-13.28.13:060][420]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.08.19-13.28.21:229][225]LogSlate: Took 0.003444 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.08.19-13.28.25:570][739]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.08.19-13.28.29:584][218]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.19-13.28.29:608][218]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-13.28.29:608][218]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.19-13.28.29:608][218]PIE: New page: PIE session: MainMenu (Aug 20, 2017, 7:28:29 AM)
+[2017.08.19-13.28.29:609][218]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2017.08.19-13.28.29:610][218]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000725s)
+[2017.08.19-13.28.29:611][218]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.19-13.28.29:611][218]LogPlayLevel: PIE: World Init took: (0.000681s)
+[2017.08.19-13.28.29:611][218]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001615s)
+[2017.08.19-13.28.29:636][218]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.19-13.28.29:649][218]LogInit: FAudioDevice initialized.
+[2017.08.19-13.28.29:679][218]LogLoad: Game class is 'MainMenu_C'
+[2017.08.19-13.28.29:680][218]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.19-22.28.29
+[2017.08.19-13.28.29:680][218]LogWorld: Bringing up level for play took: 0.000568
+[2017.08.19-13.28.29:682][218]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0.714
+[2017.08.19-13.28.29:683][218]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-13.28.46:599][245]LogScriptCore: Warning: Script Msg: CreateSession - Invalid or uninitialized OnlineSubsystem
+[2017.08.19-13.28.46:599][245]LogScriptCore: Warning: Script Msg: CreateSession - Cannot map local player to unique net ID
+[2017.08.19-13.28.46:600][245]LogNet: Browse: /Game/Maps/Lobby
+[2017.08.19-13.28.46:601][245]LogLoad: LoadMap: /Game/Maps/Lobby
+[2017.08.19-13.28.46:616][245]Cmd: MEM
+[2017.08.19-13.28.46:631][245]LogMemory: Platform Memory Stats for Windows
+[2017.08.19-13.28.46:631][245]LogMemory: Process Physical Memory: 1425.48 MB used, 1484.63 MB peak
+[2017.08.19-13.28.46:631][245]LogMemory: Process Virtual Memory: 1895.13 MB used, 1899.99 MB peak
+[2017.08.19-13.28.46:632][245]LogMemory: Physical Memory: 4848.86 MB used,  3296.57 MB free, 8145.43 MB total
+[2017.08.19-13.28.46:632][245]LogMemory: Virtual Memory: 2834.40 MB used,  3296.57 MB free, 134217728.00 MB total
+[2017.08.19-13.28.46:632][245]LogMemory: 
+[2017.08.19-13.28.46:632][245]Allocator Stats for TBB: (not implemented)
+[2017.08.19-13.28.47:370][245]LogAIModule: Creating AISystem for world Lobby
+[2017.08.19-13.28.47:370][245]LogLoad: Game class is 'LobbyGM_C'
+[2017.08.19-13.28.47:372][245]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2017.08.19-22.28.47
+[2017.08.19-13.28.47:373][245]LogWorld: Bringing up level for play took: 0.002007
+[2017.08.19-13.28.47:373][245]LogScript: Warning: Accessed None trying to read property LobbyMenuWB
+	LobbyPC_C /Game/Maps/UEDPIE_0_Lobby.Lobby:PersistentLevel.LobbyPC_C_0
+	Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC:03F6
+[2017.08.19-13.28.47:373][245]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property LobbyMenuWB from function: 'ExecuteUbergraph_LobbyPC' from node: Set MapName in graph: EventGraph in object: LobbyPC with description: Accessed None trying to read property LobbyMenuWB
+[2017.08.19-13.28.47:373][245]LogScript: Warning: Attempted to assign to None
+	LobbyPC_C /Game/Maps/UEDPIE_0_Lobby.Lobby:PersistentLevel.LobbyPC_C_0
+	Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC:040B
+[2017.08.19-13.28.47:374][245]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'ExecuteUbergraph_LobbyPC' from node: Set MapName in graph: EventGraph in object: LobbyPC with description: Attempted to assign to None
+[2017.08.19-13.28.47:374][245]LogScript: Warning: Accessed None trying to read property LobbyMenuWB
+	LobbyPC_C /Game/Maps/UEDPIE_0_Lobby.Lobby:PersistentLevel.LobbyPC_C_0
+	Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC:0429
+[2017.08.19-13.28.47:374][245]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property LobbyMenuWB from function: 'ExecuteUbergraph_LobbyPC' from node: Set MapTime in graph: EventGraph in object: LobbyPC with description: Accessed None trying to read property LobbyMenuWB
+[2017.08.19-13.28.47:374][245]LogScript: Warning: Attempted to assign to None
+	LobbyPC_C /Game/Maps/UEDPIE_0_Lobby.Lobby:PersistentLevel.LobbyPC_C_0
+	Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC:043E
+[2017.08.19-13.28.47:374][245]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'ExecuteUbergraph_LobbyPC' from node: Set MapTime in graph: EventGraph in object: LobbyPC with description: Attempted to assign to None
+[2017.08.19-13.28.47:383][245]LogLoad: Took 0.782635 seconds to LoadMap(/Game/Maps/Lobby)
+[2017.08.19-13.28.57:291][424]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-13.28.57:291][424]LogScriptCore: Warning: Script Msg: DestroySession - Invalid or uninitialized OnlineSubsystem
+[2017.08.19-13.28.57:291][424]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
+[2017.08.19-13.28.57:323][424]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-13.29.01:438][892]LogAIModule: Creating AISystem for world Lobby
+[2017.08.19-13.29.03:373][892]LogSavePackage: Save=12.55ms
+[2017.08.19-13.29.03:373][892]LogSavePackage: Moving '../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Saved/MainMenu141ADF1F42012211E382AF9938C04248.tmp' to '../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Content/Blueprints/MainMenu/MainMenu.uasset'
+[2017.08.19-13.29.03:402][892]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Content/Blueprints/MainMenu/MainMenu.uasset
+[2017.08.19-13.29.03:508][892]LogSavePackage: Save=19.21ms
+[2017.08.19-13.29.03:508][892]LogSavePackage: Moving '../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Saved/MainMenu0FA174574ACC7DB26CB00B87F9D753C6.tmp' to '../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Content/Maps/MainMenu.umap'
+[2017.08.19-13.29.03:511][892]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Content/Maps/MainMenu.umap
+[2017.08.19-13.29.03:538][892]LogFileHelpers: Saving map 'MainMenu' took 0.136
+[2017.08.19-13.29.03:539][892]Cmd: MAP LOAD FILE="../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Content/Maps/Lobby.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.08.19-13.29.03:539][892]LightingResults: New page: Lighting Build
+[2017.08.19-13.29.03:540][892]LoadErrors: New page: Loading map: Lobby.umap
+[2017.08.19-13.29.03:540][892]MapCheck: New page: Map Check
+[2017.08.19-13.29.03:540][892]LightingResults: New page: Lighting Build
+[2017.08.19-13.29.03:616][892]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.08.19-13.29.03:656][892]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.08.19-13.29.03:707][892]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 50.536ms to complete.
+[2017.08.19-13.29.03:707][892]LogFileHelpers: Loading map 'Lobby' took 0.169
+[2017.08.19-13.29.17:024][338]LogSlate: Took 0.003636 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.08.19-13.30.33:727][488]LogAIModule: Creating AISystem for world Map
+[2017.08.19-13.30.33:755][488]Cmd: MAP LOAD FILE="../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Content/Maps/Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.08.19-13.30.33:755][488]LightingResults: New page: Lighting Build
+[2017.08.19-13.30.33:756][488]LoadErrors: New page: Loading map: Map.umap
+[2017.08.19-13.30.33:756][488]MapCheck: New page: Map Check
+[2017.08.19-13.30.33:756][488]LightingResults: New page: Lighting Build
+[2017.08.19-13.30.33:861][488]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.08.19-13.30.33:945][488]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.08.19-13.30.34:002][488]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56.923ms to complete.
+[2017.08.19-13.30.34:002][488]LogFileHelpers: Loading map 'Map' took 0.248
+[2017.08.19-13.30.42:051][431]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.19-13.30.42:073][431]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2017.08.19-13.30.42:073][431]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.19-13.30.42:073][431]PIE: New page: PIE session: Map (Aug 20, 2017, 7:30:42 AM)
+[2017.08.19-13.30.42:074][431]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2017.08.19-13.30.42:080][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005560s)
+[2017.08.19-13.30.42:080][431]LogAIModule: Creating AISystem for world Map
+[2017.08.19-13.30.42:080][431]LogPlayLevel: PIE: World Init took: (0.000509s)
+[2017.08.19-13.30.42:080][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.006280s)
+[2017.08.19-13.30.42:100][431]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.19-13.30.42:111][431]LogInit: FAudioDevice initialized.
+[2017.08.19-13.30.42:144][431]LogLoad: Game class is 'GameplayGM_C'
+[2017.08.19-13.30.42:147][431]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2017.08.19-22.30.42
+[2017.08.19-13.30.42:149][431]LogWorld: Bringing up level for play took: 0.004787
+[2017.08.19-13.30.42:152][431]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map -0.816
+[2017.08.19-13.30.42:153][431]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2017.08.19-13.30.46:735][857]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2017.08.19-13.30.46:735][857]LogScriptCore: Warning: Script Msg: DestroySession - Invalid or uninitialized OnlineSubsystem
+[2017.08.19-13.30.46:735][857]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
+[2017.08.19-13.30.46:777][857]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2017.08.19-13.30.58:271][197]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.08.19-13.30.59:232][309]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.08.19-13.31.02:019][641]BlueprintLog: New page: Compile GameplayGM
+[2017.08.19-13.31.02:764][704]LogSavePackage: Save=10.62ms
+[2017.08.19-13.31.02:764][704]LogSavePackage: Moving '../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Saved/GameplayGM67A001884075578FA88BD09938AE3E88.tmp' to '../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Content/Blueprints/GamePlay/GameplayGM.uasset'
+[2017.08.19-13.31.02:767][704]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Content/Blueprints/GamePlay/GameplayGM.uasset
+[2017.08.19-13.31.17:603][443]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.08.19-13.31.23:543][144]LogAIModule: Creating AISystem for world Lobby
+[2017.08.19-13.31.23:560][144]Cmd: MAP LOAD FILE="../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Content/Maps/Lobby.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.08.19-13.31.23:561][144]LightingResults: New page: Lighting Build
+[2017.08.19-13.31.23:561][144]LoadErrors: New page: Loading map: Lobby.umap
+[2017.08.19-13.31.23:562][144]MapCheck: New page: Map Check
+[2017.08.19-13.31.23:562][144]LightingResults: New page: Lighting Build
+[2017.08.19-13.31.23:635][144]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.08.19-13.31.23:673][144]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.08.19-13.31.23:727][144]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 54.102ms to complete.
+[2017.08.19-13.31.23:727][144]LogFileHelpers: Loading map 'Lobby' took 0.167
+[2017.08.19-13.31.24:709][258]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.19-13.31.24:729][258]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2017.08.19-13.31.24:730][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.19-13.31.24:730][258]PIE: New page: PIE session: Lobby (Aug 20, 2017, 7:31:24 AM)
+[2017.08.19-13.31.24:730][258]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lobby
+[2017.08.19-13.31.24:733][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003182s)
+[2017.08.19-13.31.24:734][258]LogAIModule: Creating AISystem for world Lobby
+[2017.08.19-13.31.24:734][258]LogPlayLevel: PIE: World Init took: (0.000846s)
+[2017.08.19-13.31.24:735][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby.Lobby to /Game/Maps/UEDPIE_0_Lobby.Lobby (0.004291s)
+[2017.08.19-13.31.24:762][258]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.19-13.31.24:774][258]LogInit: FAudioDevice initialized.
+[2017.08.19-13.31.24:808][258]LogLoad: Game class is 'LobbyGM_C'
+[2017.08.19-13.31.24:810][258]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2017.08.19-22.31.24
+[2017.08.19-13.31.24:810][258]LogWorld: Bringing up level for play took: 0.000899
+[2017.08.19-13.31.24:811][258]LogScript: Warning: Accessed None trying to read property LobbyMenuWB
+	LobbyPC_C /Game/Maps/UEDPIE_0_Lobby.Lobby:PersistentLevel.LobbyPC_C_0
+	Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC:03F6
+[2017.08.19-13.31.24:811][258]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property LobbyMenuWB from function: 'ExecuteUbergraph_LobbyPC' from node: Set MapName in graph: EventGraph in object: LobbyPC with description: Accessed None trying to read property LobbyMenuWB
+[2017.08.19-13.31.24:811][258]LogScript: Warning: Attempted to assign to None
+	LobbyPC_C /Game/Maps/UEDPIE_0_Lobby.Lobby:PersistentLevel.LobbyPC_C_0
+	Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC:040B
+[2017.08.19-13.31.24:811][258]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'ExecuteUbergraph_LobbyPC' from node: Set MapName in graph: EventGraph in object: LobbyPC with description: Attempted to assign to None
+[2017.08.19-13.31.24:811][258]LogScript: Warning: Accessed None trying to read property LobbyMenuWB
+	LobbyPC_C /Game/Maps/UEDPIE_0_Lobby.Lobby:PersistentLevel.LobbyPC_C_0
+	Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC:0429
+[2017.08.19-13.31.24:811][258]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property LobbyMenuWB from function: 'ExecuteUbergraph_LobbyPC' from node: Set MapTime in graph: EventGraph in object: LobbyPC with description: Accessed None trying to read property LobbyMenuWB
+[2017.08.19-13.31.24:811][258]LogScript: Warning: Attempted to assign to None
+	LobbyPC_C /Game/Maps/UEDPIE_0_Lobby.Lobby:PersistentLevel.LobbyPC_C_0
+	Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC:043E
+[2017.08.19-13.31.24:811][258]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'ExecuteUbergraph_LobbyPC' from node: Set MapTime in graph: EventGraph in object: LobbyPC with description: Attempted to assign to None
+[2017.08.19-13.31.24:814][258]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lobby -0.155
+[2017.08.19-13.31.24:814][258]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2017.08.19-13.31.29:004][759]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2017.08.19-13.31.29:004][759]LogScriptCore: Warning: Script Msg: DestroySession - Invalid or uninitialized OnlineSubsystem
+[2017.08.19-13.31.29:004][759]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
+[2017.08.19-13.31.29:034][759]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2017.08.19-13.32.39:128][698]LogRenderer: Reallocating scene render targets to support 1144x712 Format 10 NumSamples 1 (Frame:1).
+[2017.08.19-13.33.52:240][912]BlueprintLog: New page: Compile LobbyPC
+[2017.08.19-13.33.58:256][524]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.19-13.33.58:276][524]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2017.08.19-13.33.58:276][524]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.19-13.33.58:277][524]PIE: New page: PIE session: Lobby (Aug 20, 2017, 7:33:58 AM)
+[2017.08.19-13.33.58:277][524]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lobby
+[2017.08.19-13.33.58:281][524]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003658s)
+[2017.08.19-13.33.58:282][524]LogAIModule: Creating AISystem for world Lobby
+[2017.08.19-13.33.58:282][524]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2017.08.19-13.33.58:282][524]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby.Lobby to /Game/Maps/UEDPIE_0_Lobby.Lobby (0.004829s)
+[2017.08.19-13.33.58:305][524]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.19-13.33.58:316][524]LogInit: FAudioDevice initialized.
+[2017.08.19-13.33.58:346][524]LogLoad: Game class is 'LobbyGM_C'
+[2017.08.19-13.33.58:348][524]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2017.08.19-22.33.58
+[2017.08.19-13.33.58:348][524]LogWorld: Bringing up level for play took: 0.000844
+[2017.08.19-13.33.58:353][524]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lobby -0.616
+[2017.08.19-13.33.58:353][524]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2017.08.19-13.34.04:795][294]Cmd: servertravel /Game/Maps/Map
+[2017.08.19-13.34.04:796][294]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2017.08.19-13.34.04:796][294]LogNet: Browse: /Game/Maps/Map
+[2017.08.19-13.34.04:796][294]LogLoad: LoadMap: /Game/Maps/Map
+[2017.08.19-13.34.04:797][294]LogScriptCore: Warning: Script Msg: DestroySession - Invalid or uninitialized OnlineSubsystem
+[2017.08.19-13.34.04:797][294]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
+[2017.08.19-13.34.04:812][294]Cmd: MEM
+[2017.08.19-13.34.04:825][294]LogMemory: Platform Memory Stats for Windows
+[2017.08.19-13.34.04:825][294]LogMemory: Process Physical Memory: 1678.97 MB used, 1884.17 MB peak
+[2017.08.19-13.34.04:825][294]LogMemory: Process Virtual Memory: 2311.08 MB used, 2412.48 MB peak
+[2017.08.19-13.34.04:825][294]LogMemory: Physical Memory: 4982.14 MB used,  3163.29 MB free, 8145.43 MB total
+[2017.08.19-13.34.04:825][294]LogMemory: Virtual Memory: 3274.46 MB used,  3163.29 MB free, 134217728.00 MB total
+[2017.08.19-13.34.04:825][294]LogMemory: 
+[2017.08.19-13.34.04:825][294]Allocator Stats for TBB: (not implemented)
+[2017.08.19-13.34.05:074][294]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.176 s
+[2017.08.19-13.34.05:074][294]LogOutputDevice: Error: === Handled ensure: ===
+[2017.08.19-13.34.05:074][294]LogOutputDevice: Error: 
+[2017.08.19-13.34.05:074][294]LogOutputDevice: Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1315]
+[2017.08.19-13.34.05:074][294]LogOutputDevice: Error: 
+[2017.08.19-13.34.05:074][294]LogOutputDevice: Error: Stack: 
+[2017.08.19-13.34.05:074][294]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000045535F6
+[2017.08.19-13.34.05:074][294]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000042DC2C2
+[2017.08.19-13.34.05:074][294]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000042F4736
+[2017.08.19-13.34.05:074][294]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x00000000F83FD6C9
+[2017.08.19-13.34.05:074][294]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x00000000F83CC9DD
+[2017.08.19-13.34.05:074][294]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x000000000D340F67
+[2017.08.19-13.34.05:074][294]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x000000000D64B4F6
+[2017.08.19-13.34.05:074][294]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x000000000D6615E6
+[2017.08.19-13.34.05:074][294]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x000000000D660B32
+[2017.08.19-13.34.05:074][294]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000F169DCFB
+[2017.08.19-13.34.05:074][294]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000F16566D8
+[2017.08.19-13.34.05:074][294]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000F16BD48D
+[2017.08.19-13.34.05:074][294]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000F944BC30
+[2017.08.19-13.34.05:074][294]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000F9CDB0E6
+[2017.08.19-13.34.05:074][294]LogOutputDevice: Error: UE4Editor.exe!0x0000000016F4534A
+[2017.08.19-13.34.05:074][294]LogOutputDevice: Error: UE4Editor.exe!0x0000000016F53970
+[2017.08.19-13.34.05:074][294]LogOutputDevice: Error: UE4Editor.exe!0x0000000016F539EA
+[2017.08.19-13.34.05:074][294]LogOutputDevice: Error: UE4Editor.exe!0x0000000016F602D9
+[2017.08.19-13.34.05:075][294]LogOutputDevice: Error: UE4Editor.exe!0x0000000016F61C47
+[2017.08.19-13.34.05:075][294]LogOutputDevice: Error: KERNEL32.DLL!0x0000000042762774
+[2017.08.19-13.34.05:075][294]LogOutputDevice: Error: ntdll.dll!0x0000000043BA0D51
+[2017.08.19-13.34.05:075][294]LogOutputDevice: Error: 
+[2017.08.19-13.34.05:079][294]LogStats:                SubmitErrorReport -  0.000 s
+[2017.08.19-13.34.05:369][294]LogStats:                    SendNewReport -  0.290 s
+[2017.08.19-13.34.05:369][294]LogStats:             FDebug::EnsureFailed -  0.471 s
+[2017.08.19-13.34.05:430][294]LogAIModule: Creating AISystem for world Map
+[2017.08.19-13.34.05:431][294]LogLoad: Game class is 'GameplayGM_C'
+[2017.08.19-13.34.05:438][294]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2017.08.19-22.34.05
+[2017.08.19-13.34.05:438][294]LogWorld: Bringing up level for play took: 0.006661
+[2017.08.19-13.34.05:438][294]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.08.19-13.34.05:440][294]LogLoad: Took 0.643528 seconds to LoadMap(/Game/Maps/Map)
+[2017.08.19-13.34.21:950][860]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2017.08.19-13.34.21:981][860]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2017.08.19-13.34.35:231][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/LobbyPC" FILE="../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Content/Blueprints/Lobby/LobbyPC.uasset" SILENT=true
+[2017.08.19-13.34.35:317][255]LogSavePackage: Save=69.85ms
+[2017.08.19-13.34.35:317][255]LogSavePackage: Moving '../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Saved/LobbyPC61AF16664741AF0E53A28FB62FBDEB46.tmp' to '../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Content/Blueprints/Lobby/LobbyPC.uasset'
+[2017.08.19-13.34.35:320][255]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Content/Blueprints/Lobby/LobbyPC.uasset
+[2017.08.19-13.34.39:690][741]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.19-13.34.39:707][741]Cmd: MAP LOAD FILE="../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.08.19-13.34.39:708][741]LightingResults: New page: Lighting Build
+[2017.08.19-13.34.39:708][741]LoadErrors: New page: Loading map: MainMenu.umap
+[2017.08.19-13.34.39:709][741]MapCheck: New page: Map Check
+[2017.08.19-13.34.39:709][741]LightingResults: New page: Lighting Build
+[2017.08.19-13.34.39:775][741]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.08.19-13.34.39:815][741]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.08.19-13.34.39:871][741]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55.961ms to complete.
+[2017.08.19-13.34.39:871][741]LogFileHelpers: Loading map 'MainMenu' took 0.164
+[2017.08.19-13.34.41:171][893]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.19-13.34.41:190][893]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-13.34.41:190][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.19-13.34.41:190][893]PIE: New page: PIE session: MainMenu (Aug 20, 2017, 7:34:41 AM)
+[2017.08.19-13.34.41:191][893]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2017.08.19-13.34.41:191][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000659s)
+[2017.08.19-13.34.41:192][893]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.19-13.34.41:192][893]LogPlayLevel: PIE: World Init took: (0.000530s)
+[2017.08.19-13.34.41:192][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001409s)
+[2017.08.19-13.34.41:216][893]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.19-13.34.41:228][893]LogInit: FAudioDevice initialized.
+[2017.08.19-13.34.41:261][893]LogLoad: Game class is 'MainMenu_C'
+[2017.08.19-13.34.41:262][893]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.19-22.34.41
+[2017.08.19-13.34.41:262][893]LogWorld: Bringing up level for play took: 0.000580
+[2017.08.19-13.34.41:264][893]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0.295
+[2017.08.19-13.34.41:264][893]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-13.34.48:506][761]LogScriptCore: Warning: Script Msg: CreateSession - Invalid or uninitialized OnlineSubsystem
+[2017.08.19-13.34.48:506][761]LogScriptCore: Warning: Script Msg: CreateSession - Cannot map local player to unique net ID
+[2017.08.19-13.34.48:507][761]LogNet: Browse: /Game/Maps/Lobby
+[2017.08.19-13.34.48:507][761]LogLoad: LoadMap: /Game/Maps/Lobby
+[2017.08.19-13.34.48:522][761]Cmd: MEM
+[2017.08.19-13.34.48:536][761]LogMemory: Platform Memory Stats for Windows
+[2017.08.19-13.34.48:536][761]LogMemory: Process Physical Memory: 1788.39 MB used, 1884.17 MB peak
+[2017.08.19-13.34.48:536][761]LogMemory: Process Virtual Memory: 2247.14 MB used, 2607.31 MB peak
+[2017.08.19-13.34.48:536][761]LogMemory: Physical Memory: 5171.34 MB used,  2974.09 MB free, 8145.43 MB total
+[2017.08.19-13.34.48:536][761]LogMemory: Virtual Memory: 3333.94 MB used,  2974.09 MB free, 134217728.00 MB total
+[2017.08.19-13.34.48:536][761]LogMemory: 
+[2017.08.19-13.34.48:536][761]Allocator Stats for TBB: (not implemented)
+[2017.08.19-13.34.48:594][761]LogAIModule: Creating AISystem for world Lobby
+[2017.08.19-13.34.48:594][761]LogLoad: Game class is 'LobbyGM_C'
+[2017.08.19-13.34.48:597][761]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2017.08.19-22.34.48
+[2017.08.19-13.34.48:597][761]LogWorld: Bringing up level for play took: 0.001853
+[2017.08.19-13.34.48:601][761]LogLoad: Took 0.093933 seconds to LoadMap(/Game/Maps/Lobby)
+[2017.08.19-13.34.50:250][952]Cmd: servertravel /Game/Maps/Map
+[2017.08.19-13.34.50:250][952]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2017.08.19-13.34.50:251][952]LogNet: Browse: /Game/Maps/Map
+[2017.08.19-13.34.50:251][952]LogLoad: LoadMap: /Game/Maps/Map
+[2017.08.19-13.34.50:251][952]LogScriptCore: Warning: Script Msg: DestroySession - Invalid or uninitialized OnlineSubsystem
+[2017.08.19-13.34.50:251][952]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
+[2017.08.19-13.34.50:266][952]Cmd: MEM
+[2017.08.19-13.34.50:279][952]LogMemory: Platform Memory Stats for Windows
+[2017.08.19-13.34.50:279][952]LogMemory: Process Physical Memory: 1818.21 MB used, 1884.17 MB peak
+[2017.08.19-13.34.50:279][952]LogMemory: Process Virtual Memory: 2353.49 MB used, 2607.31 MB peak
+[2017.08.19-13.34.50:279][952]LogMemory: Physical Memory: 5162.70 MB used,  2982.73 MB free, 8145.43 MB total
+[2017.08.19-13.34.50:279][952]LogMemory: Virtual Memory: 3348.82 MB used,  2982.73 MB free, 134217728.00 MB total
+[2017.08.19-13.34.50:279][952]LogMemory: 
+[2017.08.19-13.34.50:279][952]Allocator Stats for TBB: (not implemented)
+[2017.08.19-13.34.50:534][952]LogAIModule: Creating AISystem for world Map
+[2017.08.19-13.34.50:534][952]LogLoad: Game class is 'GameplayGM_C'
+[2017.08.19-13.34.50:541][952]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2017.08.19-22.34.50
+[2017.08.19-13.34.50:541][952]LogWorld: Bringing up level for play took: 0.006367
+[2017.08.19-13.34.50:542][952]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.08.19-13.34.50:543][952]LogLoad: Took 0.291728 seconds to LoadMap(/Game/Maps/Map)
+[2017.08.19-13.35.12:732][834]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-13.35.12:765][834]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-13.35.15:541][139]BlueprintLog: New page: Compile LobbyPC
+[2017.08.19-13.35.16:205][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/LobbyPC" FILE="../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Content/Blueprints/Lobby/LobbyPC.uasset" SILENT=true
+[2017.08.19-13.35.16:281][178]LogSavePackage: Save=67.93ms
+[2017.08.19-13.35.16:281][178]LogSavePackage: Moving '../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Saved/LobbyPCBFD5F1204A86A1DBC6615EA578156B95.tmp' to '../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Content/Blueprints/Lobby/LobbyPC.uasset'
+[2017.08.19-13.35.16:283][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Content/Blueprints/Lobby/LobbyPC.uasset
+[2017.08.19-13.35.22:487][872]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.19-13.35.22:507][872]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-13.35.22:507][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.19-13.35.22:507][872]PIE: New page: PIE session: MainMenu (Aug 20, 2017, 7:35:22 AM)
+[2017.08.19-13.35.22:629][872]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2017.08.19-13.35.22:630][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000814s)
+[2017.08.19-13.35.22:630][872]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.19-13.35.22:630][872]LogPlayLevel: PIE: World Init took: (0.000582s)
+[2017.08.19-13.35.22:631][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001657s)
+[2017.08.19-13.35.22:653][872]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.19-13.35.22:665][872]LogInit: FAudioDevice initialized.
+[2017.08.19-13.35.22:694][872]LogLoad: Game class is 'MainMenu_C'
+[2017.08.19-13.35.22:695][872]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.19-22.35.22
+[2017.08.19-13.35.22:695][872]LogWorld: Bringing up level for play took: 0.000627
+[2017.08.19-13.35.22:696][872]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu -0.272
+[2017.08.19-13.35.22:697][872]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-13.35.24:986][146]LogScriptCore: Warning: Script Msg: CreateSession - Invalid or uninitialized OnlineSubsystem
+[2017.08.19-13.35.24:986][146]LogScriptCore: Warning: Script Msg: CreateSession - Cannot map local player to unique net ID
+[2017.08.19-13.35.24:987][146]LogNet: Browse: /Game/Maps/Lobby
+[2017.08.19-13.35.24:988][146]LogLoad: LoadMap: /Game/Maps/Lobby
+[2017.08.19-13.35.25:000][146]Cmd: MEM
+[2017.08.19-13.35.25:013][146]LogMemory: Platform Memory Stats for Windows
+[2017.08.19-13.35.25:013][146]LogMemory: Process Physical Memory: 1804.97 MB used, 1884.17 MB peak
+[2017.08.19-13.35.25:013][146]LogMemory: Process Virtual Memory: 2345.27 MB used, 2607.31 MB peak
+[2017.08.19-13.35.25:013][146]LogMemory: Physical Memory: 5160.64 MB used,  2984.79 MB free, 8145.43 MB total
+[2017.08.19-13.35.25:013][146]LogMemory: Virtual Memory: 3406.43 MB used,  2984.79 MB free, 134217728.00 MB total
+[2017.08.19-13.35.25:013][146]LogMemory: 
+[2017.08.19-13.35.25:013][146]Allocator Stats for TBB: (not implemented)
+[2017.08.19-13.35.25:072][146]LogAIModule: Creating AISystem for world Lobby
+[2017.08.19-13.35.25:072][146]LogLoad: Game class is 'LobbyGM_C'
+[2017.08.19-13.35.25:075][146]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2017.08.19-22.35.25
+[2017.08.19-13.35.25:076][146]LogWorld: Bringing up level for play took: 0.002623
+[2017.08.19-13.35.25:076][146]LogScript: Warning: Accessed None trying to read property LobbyMenuWB
+	LobbyPC_C /Game/Maps/UEDPIE_0_Lobby.Lobby:PersistentLevel.LobbyPC_C_0
+	Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC:03F6
+[2017.08.19-13.35.25:077][146]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property LobbyMenuWB from function: 'ExecuteUbergraph_LobbyPC' from node: Set MapName in graph: EventGraph in object: LobbyPC with description: Accessed None trying to read property LobbyMenuWB
+[2017.08.19-13.35.25:077][146]LogScript: Warning: Attempted to assign to None
+	LobbyPC_C /Game/Maps/UEDPIE_0_Lobby.Lobby:PersistentLevel.LobbyPC_C_0
+	Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC:040B
+[2017.08.19-13.35.25:077][146]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'ExecuteUbergraph_LobbyPC' from node: Set MapName in graph: EventGraph in object: LobbyPC with description: Attempted to assign to None
+[2017.08.19-13.35.25:077][146]LogScript: Warning: Accessed None trying to read property LobbyMenuWB
+	LobbyPC_C /Game/Maps/UEDPIE_0_Lobby.Lobby:PersistentLevel.LobbyPC_C_0
+	Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC:0429
+[2017.08.19-13.35.25:077][146]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property LobbyMenuWB from function: 'ExecuteUbergraph_LobbyPC' from node: Set MapTime in graph: EventGraph in object: LobbyPC with description: Accessed None trying to read property LobbyMenuWB
+[2017.08.19-13.35.25:077][146]LogScript: Warning: Attempted to assign to None
+	LobbyPC_C /Game/Maps/UEDPIE_0_Lobby.Lobby:PersistentLevel.LobbyPC_C_0
+	Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC:043E
+[2017.08.19-13.35.25:077][146]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'ExecuteUbergraph_LobbyPC' from node: Set MapTime in graph: EventGraph in object: LobbyPC with description: Attempted to assign to None
+[2017.08.19-13.35.25:080][146]LogLoad: Took 0.092253 seconds to LoadMap(/Game/Maps/Lobby)
+[2017.08.19-13.35.26:029][253]LogScript: Warning: Accessed None trying to read property LobbyMenuWB
+	LobbyPC_C /Game/Maps/UEDPIE_0_Lobby.Lobby:PersistentLevel.LobbyPC_C_0
+	Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC:0456
+[2017.08.19-13.35.26:029][253]Cmd: servertravel /Game/Maps/Map
+[2017.08.19-13.35.26:029][253]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2017.08.19-13.35.26:029][253]LogNet: Browse: /Game/Maps/Map
+[2017.08.19-13.35.26:030][253]LogLoad: LoadMap: /Game/Maps/Map
+[2017.08.19-13.35.26:030][253]LogScriptCore: Warning: Script Msg: DestroySession - Invalid or uninitialized OnlineSubsystem
+[2017.08.19-13.35.26:030][253]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
+[2017.08.19-13.35.26:044][253]Cmd: MEM
+[2017.08.19-13.35.26:055][253]LogMemory: Platform Memory Stats for Windows
+[2017.08.19-13.35.26:055][253]LogMemory: Process Physical Memory: 1881.71 MB used, 1902.92 MB peak
+[2017.08.19-13.35.26:055][253]LogMemory: Process Virtual Memory: 2352.56 MB used, 2607.31 MB peak
+[2017.08.19-13.35.26:055][253]LogMemory: Physical Memory: 5228.80 MB used,  2916.64 MB free, 8145.43 MB total
+[2017.08.19-13.35.26:055][253]LogMemory: Virtual Memory: 3410.56 MB used,  2916.64 MB free, 134217728.00 MB total
+[2017.08.19-13.35.26:055][253]LogMemory: 
+[2017.08.19-13.35.26:055][253]Allocator Stats for TBB: (not implemented)
+[2017.08.19-13.35.26:319][253]LogAIModule: Creating AISystem for world Map
+[2017.08.19-13.35.26:319][253]LogLoad: Game class is 'GameplayGM_C'
+[2017.08.19-13.35.26:325][253]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2017.08.19-22.35.26
+[2017.08.19-13.35.26:326][253]LogWorld: Bringing up level for play took: 0.005692
+[2017.08.19-13.35.26:326][253]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.08.19-13.35.26:327][253]LogLoad: Took 0.297445 seconds to LoadMap(/Game/Maps/Map)
+[2017.08.19-13.35.45:645][860]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-13.35.45:678][860]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-13.35.48:428][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/LobbyPC" FILE="../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Content/Blueprints/Lobby/LobbyPC.uasset" SILENT=true
+[2017.08.19-13.35.48:509][ 66]LogSavePackage: Save=68.95ms
+[2017.08.19-13.35.48:509][ 66]LogSavePackage: Moving '../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Saved/LobbyPC5CA06E9B4D2ECA83D89327A955E44B32.tmp' to '../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Content/Blueprints/Lobby/LobbyPC.uasset'
+[2017.08.19-13.35.48:510][ 66]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Content/Blueprints/Lobby/LobbyPC.uasset
+[2017.08.19-13.36.48:289][579]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.19-13.37.48:978][326]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.19-13.37.49:008][326]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-13.37.49:008][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.19-13.37.49:008][326]PIE: New page: PIE session: MainMenu (Aug 20, 2017, 7:37:49 AM)
+[2017.08.19-13.37.49:122][326]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2017.08.19-13.37.49:122][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000604s)
+[2017.08.19-13.37.49:123][326]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.19-13.37.49:123][326]LogPlayLevel: PIE: World Init took: (0.000485s)
+[2017.08.19-13.37.49:123][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001281s)
+[2017.08.19-13.37.49:146][326]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.19-13.37.49:157][326]LogInit: FAudioDevice initialized.
+[2017.08.19-13.37.49:190][326]LogLoad: Game class is 'MainMenu_C'
+[2017.08.19-13.37.49:192][326]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.19-22.37.49
+[2017.08.19-13.37.49:192][326]LogWorld: Bringing up level for play took: 0.000595
+[2017.08.19-13.37.49:193][326]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0.225
+[2017.08.19-13.37.49:193][326]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-13.37.51:875][647]LogScriptCore: Warning: Script Msg: CreateSession - Invalid or uninitialized OnlineSubsystem
+[2017.08.19-13.37.51:875][647]LogScriptCore: Warning: Script Msg: CreateSession - Cannot map local player to unique net ID
+[2017.08.19-13.37.51:876][647]LogNet: Browse: /Game/Maps/Lobby
+[2017.08.19-13.37.51:876][647]LogLoad: LoadMap: /Game/Maps/Lobby
+[2017.08.19-13.37.51:892][647]Cmd: MEM
+[2017.08.19-13.37.51:907][647]LogMemory: Platform Memory Stats for Windows
+[2017.08.19-13.37.51:907][647]LogMemory: Process Physical Memory: 1917.29 MB used, 1934.84 MB peak
+[2017.08.19-13.37.51:907][647]LogMemory: Process Virtual Memory: 2602.36 MB used, 2607.31 MB peak
+[2017.08.19-13.37.51:907][647]LogMemory: Physical Memory: 5244.13 MB used,  2901.30 MB free, 8145.43 MB total
+[2017.08.19-13.37.51:907][647]LogMemory: Virtual Memory: 3591.54 MB used,  2901.30 MB free, 134217728.00 MB total
+[2017.08.19-13.37.51:907][647]LogMemory: 
+[2017.08.19-13.37.51:907][647]Allocator Stats for TBB: (not implemented)
+[2017.08.19-13.37.51:967][647]LogAIModule: Creating AISystem for world Lobby
+[2017.08.19-13.37.51:967][647]LogLoad: Game class is 'LobbyGM_C'
+[2017.08.19-13.37.51:969][647]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2017.08.19-22.37.51
+[2017.08.19-13.37.51:970][647]LogWorld: Bringing up level for play took: 0.002221
+[2017.08.19-13.37.51:970][647]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property LobbyMenuWB from function: 'ExecuteUbergraph_LobbyPC' from node: Set MapName in graph: EventGraph in object: LobbyPC with description: Accessed None trying to read property LobbyMenuWB
+[2017.08.19-13.37.51:971][647]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'ExecuteUbergraph_LobbyPC' from node: Set MapName in graph: EventGraph in object: LobbyPC with description: Attempted to assign to None
+[2017.08.19-13.37.51:971][647]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property LobbyMenuWB from function: 'ExecuteUbergraph_LobbyPC' from node: Set MapTime in graph: EventGraph in object: LobbyPC with description: Accessed None trying to read property LobbyMenuWB
+[2017.08.19-13.37.51:971][647]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'ExecuteUbergraph_LobbyPC' from node: Set MapTime in graph: EventGraph in object: LobbyPC with description: Attempted to assign to None
+[2017.08.19-13.37.51:973][647]LogLoad: Took 0.096834 seconds to LoadMap(/Game/Maps/Lobby)
+[2017.08.19-13.37.52:521][707]Cmd: servertravel /Game/Maps/Map
+[2017.08.19-13.37.52:521][707]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2017.08.19-13.37.52:522][707]LogNet: Browse: /Game/Maps/Map
+[2017.08.19-13.37.52:522][707]LogLoad: LoadMap: /Game/Maps/Map
+[2017.08.19-13.37.52:522][707]LogScriptCore: Warning: Script Msg: DestroySession - Invalid or uninitialized OnlineSubsystem
+[2017.08.19-13.37.52:522][707]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
+[2017.08.19-13.37.52:537][707]Cmd: MEM
+[2017.08.19-13.37.52:551][707]LogMemory: Platform Memory Stats for Windows
+[2017.08.19-13.37.52:551][707]LogMemory: Process Physical Memory: 1972.27 MB used, 1993.32 MB peak
+[2017.08.19-13.37.52:551][707]LogMemory: Process Virtual Memory: 2667.60 MB used, 2689.08 MB peak
+[2017.08.19-13.37.52:551][707]LogMemory: Physical Memory: 5302.18 MB used,  2843.26 MB free, 8145.43 MB total
+[2017.08.19-13.37.52:551][707]LogMemory: Virtual Memory: 3647.23 MB used,  2843.26 MB free, 134217728.00 MB total
+[2017.08.19-13.37.52:551][707]LogMemory: 
+[2017.08.19-13.37.52:551][707]Allocator Stats for TBB: (not implemented)
+[2017.08.19-13.37.52:805][707]LogAIModule: Creating AISystem for world Map
+[2017.08.19-13.37.52:805][707]LogLoad: Game class is 'GameplayGM_C'
+[2017.08.19-13.37.52:812][707]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2017.08.19-22.37.52
+[2017.08.19-13.37.52:812][707]LogWorld: Bringing up level for play took: 0.006428
+[2017.08.19-13.37.52:813][707]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.08.19-13.37.52:814][707]LogLoad: Took 0.292236 seconds to LoadMap(/Game/Maps/Map)
+[2017.08.19-13.37.59:824][359]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-13.37.59:866][359]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-13.38.13:390][867]LogAIModule: Creating AISystem for world Map
+[2017.08.19-13.38.17:212][867]Cmd: MAP LOAD FILE="../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Content/Maps/Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.08.19-13.38.17:213][867]LightingResults: New page: Lighting Build
+[2017.08.19-13.38.17:214][867]LoadErrors: New page: Loading map: Map.umap
+[2017.08.19-13.38.17:214][867]MapCheck: New page: Map Check
+[2017.08.19-13.38.17:214][867]LightingResults: New page: Lighting Build
+[2017.08.19-13.38.17:309][867]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.08.19-13.38.17:382][867]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.08.19-13.38.17:436][867]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 54.127ms to complete.
+[2017.08.19-13.38.17:438][867]LogFileHelpers: Loading map 'Map' took 0.227
+[2017.08.19-13.38.19:347][ 92]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.19-13.38.19:368][ 92]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2017.08.19-13.38.19:368][ 92]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.19-13.38.19:368][ 92]PIE: New page: PIE session: Map (Aug 20, 2017, 7:38:19 AM)
+[2017.08.19-13.38.19:369][ 92]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2017.08.19-13.38.19:373][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003959s)
+[2017.08.19-13.38.19:373][ 92]LogAIModule: Creating AISystem for world Map
+[2017.08.19-13.38.19:374][ 92]LogPlayLevel: PIE: World Init took: (0.000524s)
+[2017.08.19-13.38.19:374][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.004774s)
+[2017.08.19-13.38.19:400][ 92]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.19-13.38.19:411][ 92]LogInit: FAudioDevice initialized.
+[2017.08.19-13.38.19:439][ 92]LogLoad: Game class is 'GameplayGM_C'
+[2017.08.19-13.38.19:442][ 92]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2017.08.19-22.38.19
+[2017.08.19-13.38.19:443][ 92]LogWorld: Bringing up level for play took: 0.003275
+[2017.08.19-13.38.19:445][ 92]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map 0.476
+[2017.08.19-13.38.19:445][ 92]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2017.08.19-13.38.40:591][ 49]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-852.733 Y=1270.394 Z=103.108] for [FirstPersonProjectile_C]
+[2017.08.19-13.38.42:015][181]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-854.142 Y=1288.107 Z=104.179] for [FirstPersonProjectile_C]
+[2017.08.19-13.38.43:729][339]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2017.08.19-13.38.43:772][339]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2017.08.19-13.39.34:978][756]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2017.08.19-13.39.34:979][756]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.19-13.39.34:979][756]PIE: New page: SIE session: Map (Aug 20, 2017, 7:39:34 AM)
+[2017.08.19-13.39.34:979][756]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2017.08.19-13.39.34:983][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004064s)
+[2017.08.19-13.39.34:984][756]LogAIModule: Creating AISystem for world Map
+[2017.08.19-13.39.34:984][756]LogPlayLevel: PIE: World Init took: (0.000572s)
+[2017.08.19-13.39.34:984][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.004887s)
+[2017.08.19-13.39.35:010][756]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.19-13.39.35:023][756]LogInit: FAudioDevice initialized.
+[2017.08.19-13.39.35:052][756]LogLoad: Game class is 'GameplayGM_C'
+[2017.08.19-13.39.35:055][756]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2017.08.19-22.39.35
+[2017.08.19-13.39.35:056][756]LogWorld: Bringing up level for play took: 0.003129
+[2017.08.19-13.39.35:058][756]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.08.19-13.39.35:059][756]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map 0.09
+[2017.08.19-13.39.35:075][756]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2017.08.19-13.39.35:082][756]LogScript: Warning: Accessed None trying to read property My Char
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_9.HUD_C_6
+	Function /Game/FirstPersonBP/Blueprints/HUD.HUD_C:GetText_0:003D
+[2017.08.19-13.39.35:082][756]LogScript: Warning: Accessed None trying to read property My Char
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_9.HUD_C_6
+	Function /Game/FirstPersonBP/Blueprints/HUD.HUD_C:GetText_1:003D
+[2017.08.19-13.39.35:097][757]LogScript: Warning: Accessed None trying to read property My Char
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_9.HUD_C_6
+	Function /Game/FirstPersonBP/Blueprints/HUD.HUD_C:GetText_0:003D
+[2017.08.19-13.39.35:097][757]LogScript: Warning: Accessed None trying to read property My Char
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_9.HUD_C_6
+	Function /Game/FirstPersonBP/Blueprints/HUD.HUD_C:GetText_1:003D
+[2017.08.19-13.39.35:104][758]LogScript: Warning: Accessed None trying to read property My Char
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_9.HUD_C_6
+	Function /Game/FirstPersonBP/Blueprints/HUD.HUD_C:GetText_0:003D
+[2017.08.19-13.39.35:104][758]LogScript: Warning: Accessed None trying to read property My Char
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_9.HUD_C_6
+	Function /Game/FirstPersonBP/Blueprints/HUD.HUD_C:GetText_1:003D
+[2017.08.19-13.39.35:113][759]LogScript: Warning: Accessed None trying to read property My Char
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_9.HUD_C_6
+	Function /Game/FirstPersonBP/Blueprints/HUD.HUD_C:GetText_0:003D
+[2017.08.19-13.39.35:113][759]LogScript: Warning: Accessed None trying to read property My Char
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_9.HUD_C_6
+	Function /Game/FirstPersonBP/Blueprints/HUD.HUD_C:GetText_1:003D
+[2017.08.19-13.39.35:127][760]LogScript: Warning: Accessed None trying to read property My Char
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_9.HUD_C_6
+	Function /Game/FirstPersonBP/Blueprints/HUD.HUD_C:GetText_0:003D
+[2017.08.19-13.39.35:127][760]LogScript: Warning: Accessed None trying to read property My Char
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_9.HUD_C_6
+	Function /Game/FirstPersonBP/Blueprints/HUD.HUD_C:GetText_1:003D
+[2017.08.19-13.39.35:142][761]LogScript: Warning: Accessed None trying to read property My Char
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_9.HUD_C_6
+	Function /Game/FirstPersonBP/Blueprints/HUD.HUD_C:GetText_0:003D
+[2017.08.19-13.39.35:142][761]LogScript: Warning: Accessed None trying to read property My Char
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_9.HUD_C_6
+	Function /Game/FirstPersonBP/Blueprints/HUD.HUD_C:GetText_1:003D
+[2017.08.19-13.39.35:157][762]LogScript: Warning: Accessed None trying to read property My Char
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_9.HUD_C_6
+	Function /Game/FirstPersonBP/Blueprints/HUD.HUD_C:GetText_0:003D
+[2017.08.19-13.39.35:157][762]LogScript: Warning: Accessed None trying to read property My Char
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_9.HUD_C_6
+	Function /Game/FirstPersonBP/Blueprints/HUD.HUD_C:GetText_1:003D
+[2017.08.19-13.39.35:172][763]LogScript: Warning: Accessed None trying to read property My Char
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_9.HUD_C_6
+	Function /Game/FirstPersonBP/Blueprints/HUD.HUD_C:GetText_0:003D
+[2017.08.19-13.39.35:172][763]LogScript: Warning: Accessed None trying to read property My Char
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_9.HUD_C_6
+	Function /Game/FirstPersonBP/Blueprints/HUD.HUD_C:GetText_1:003D
+[2017.08.19-13.39.35:186][764]LogScript: Warning: Accessed None trying to read property My Char
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_9.HUD_C_6
+	Function /Game/FirstPersonBP/Blueprints/HUD.HUD_C:GetText_0:003D
+[2017.08.19-13.39.37:642][975]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2017.08.19-13.39.37:674][975]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2017.08.19-13.39.49:230][453]LogSavePackage: Save=300.34ms
+[2017.08.19-13.39.49:230][453]LogSavePackage: Moving '../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Saved/UEDPCMapF520845645AD9D499BC7E9B0DBFE7720.tmp' to '../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Saved/Autosaves/Game/Maps/UEDPCMap.umap'
+[2017.08.19-13.39.49:232][453]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Saved/Autosaves/Game/Maps/UEDPCMap.umap
+[2017.08.19-13.39.49:240][453]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.08.19-13.44.21:896][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2017.08.19-13.44.22:034][788]LogSavePackage: Save=122.23ms
+[2017.08.19-13.44.22:034][788]LogSavePackage: Moving '../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Saved/LobbyMenu15F962EC4D47B9DE8BADA1AEBBF87AEC.tmp' to '../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Content/UI/Lobby/LobbyMenu.uasset'
+[2017.08.19-13.44.22:038][788]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Content/UI/Lobby/LobbyMenu.uasset
+[2017.08.19-13.44.22:040][788]Cmd: MAP LOAD FILE="../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Content/Maps/Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.08.19-13.44.22:040][788]LightingResults: New page: Lighting Build
+[2017.08.19-13.44.22:040][788]LoadErrors: New page: Loading map: Map.umap
+[2017.08.19-13.44.22:041][788]MapCheck: New page: Map Check
+[2017.08.19-13.44.22:041][788]LightingResults: New page: Lighting Build
+[2017.08.19-13.44.22:131][788]LogAIModule: Creating AISystem for world Map
+[2017.08.19-13.44.22:213][788]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.08.19-13.44.22:307][788]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.08.19-13.44.22:363][788]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56.208ms to complete.
+[2017.08.19-13.44.22:364][788]LogFileHelpers: Loading map 'Map' took 0.325
+[2017.08.19-13.44.24:360][ 22]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.08.19-13.44.28:893][561]LogTemp: Repeating last play command: Standalone Game
+[2017.08.19-13.44.29:307][561]LogSavePackage: Save=298.26ms
+[2017.08.19-13.44.29:307][561]LogSavePackage: Moving '../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Saved/UEDPCMapB6103EF8478AEA4490FC6A8A55EA64EF.tmp' to '../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Saved/Autosaves/Game/Maps/UEDPCMap.umap'
+[2017.08.19-13.44.29:309][561]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Saved/Autosaves/Game/Maps/UEDPCMap.umap
+[2017.08.19-13.44.29:315][561]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.08.19-13.45.14:732][ 75]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.08.19-13.45.18:057][470]LogTemp: Repeating last play command: Standalone Game
+[2017.08.19-13.45.18:503][470]LogSavePackage: Save=304.84ms
+[2017.08.19-13.45.18:503][470]LogSavePackage: Moving '../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Saved/UEDPCMapCA9CD33D47743AEDECA6F498435600AC.tmp' to '../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Saved/Autosaves/Game/Maps/UEDPCMap.umap'
+[2017.08.19-13.45.18:506][470]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Saved/Autosaves/Game/Maps/UEDPCMap.umap
+[2017.08.19-13.45.18:511][470]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.08.19-13.46.06:105][770]Cmd: QUIT_EDITOR
+[2017.08.19-13.46.06:645][770]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.08.19-13.46.06:655][770]LogExit: Preparing to exit.
+[2017.08.19-13.46.07:033][770]LogDirectoryWatcher: A directory notification for 'C:/Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Content/' was aborted.
+[2017.08.19-13.46.07:102][770]LogExit: Editor shut down
+[2017.08.19-13.46.07:110][770]LogExit: Transaction tracking system shut down
+[2017.08.19-13.46.07:221][770]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.08.19-13.46.07:221][770]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Content/' was aborted.
+[2017.08.19-13.46.07:221][770]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.08.19-13.46.07:221][770]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.08.19-13.46.07:221][770]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.08.19-13.46.07:338][770]LogExit: Object subsystem successfully closed.
+[2017.08.19-13.46.07:356][770]LogD3D11RHI: Shutdown
+[2017.08.19-13.46.07:356][770]LogD3D11RHI: CleanupD3DDevice
+[2017.08.19-13.46.07:425][770]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.08.19-13.46.07:441][770]LogModuleManager: Shutting down and abandoning module SequencerWidgets (538)
+[2017.08.19-13.46.07:441][770]LogModuleManager: Shutting down and abandoning module BlueprintGraph (536)
+[2017.08.19-13.46.07:441][770]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (534)
+[2017.08.19-13.46.07:442][770]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (532)
+[2017.08.19-13.46.07:442][770]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.08.19-13.46.07:442][770]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2017.08.19-13.46.07:442][770]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2017.08.19-13.46.07:443][770]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.08.19-13.46.07:448][770]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2017.08.19-13.46.07:448][770]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2017.08.19-13.46.07:448][770]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2017.08.19-13.46.07:448][770]LogDirectoryWatcher: A directory notification for 'C:/Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Content/Collections/' was aborted.
+[2017.08.19-13.46.07:448][770]LogDirectoryWatcher: A directory notification for 'C:/Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Content/Developers/YounsooKim/Collections/' was aborted.
+[2017.08.19-13.46.07:448][770]LogDirectoryWatcher: A directory notification for 'C:/Users/Younsoo Kim/Documents/GitHub/PointShootKill/PointShootKill/Saved/Collections/' was aborted.
+[2017.08.19-13.46.07:448][770]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2017.08.19-13.46.07:448][770]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.08.19-13.46.07:448][770]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.08.19-13.46.07:448][770]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.08.19-13.46.07:448][770]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.08.19-13.46.07:448][770]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.08.19-13.46.07:448][770]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.08.19-13.46.07:449][770]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.08.19-13.46.07:449][770]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.08.19-13.46.07:449][770]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.08.19-13.46.07:449][770]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.08.19-13.46.07:449][770]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.08.19-13.46.07:449][770]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.08.19-13.46.07:449][770]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.08.19-13.46.07:449][770]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.08.19-13.46.07:449][770]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.08.19-13.46.07:449][770]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.08.19-13.46.07:449][770]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.08.19-13.46.07:449][770]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.08.19-13.46.07:449][770]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.08.19-13.46.07:449][770]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.08.19-13.46.07:449][770]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.08.19-13.46.07:449][770]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.08.19-13.46.07:449][770]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.08.19-13.46.07:449][770]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.08.19-13.46.07:449][770]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.08.19-13.46.07:449][770]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.08.19-13.46.07:449][770]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.08.19-13.46.07:449][770]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.08.19-13.46.07:449][770]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.08.19-13.46.07:449][770]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.08.19-13.46.07:449][770]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.08.19-13.46.07:449][770]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.08.19-13.46.07:449][770]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.08.19-13.46.07:449][770]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.08.19-13.46.07:449][770]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.08.19-13.46.07:449][770]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.08.19-13.46.07:449][770]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.08.19-13.46.07:894][770]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.08.19-13.46.07:894][770]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.08.19-13.46.07:894][770]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.08.19-13.46.07:894][770]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.08.19-13.46.07:894][770]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.08.19-13.46.07:894][770]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.08.19-13.46.07:894][770]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.08.19-13.46.07:894][770]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.08.19-13.46.07:894][770]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.08.19-13.46.07:894][770]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.08.19-13.46.07:894][770]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.08.19-13.46.07:894][770]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.08.19-13.46.07:894][770]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.08.19-13.46.07:894][770]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.08.19-13.46.07:894][770]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.08.19-13.46.07:894][770]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.08.19-13.46.07:894][770]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.08.19-13.46.07:894][770]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.08.19-13.46.07:894][770]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.08.19-13.46.07:894][770]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.08.19-13.46.07:894][770]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.08.19-13.46.07:894][770]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.08.19-13.46.07:895][770]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.08.19-13.46.07:895][770]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.08.19-13.46.07:947][770]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.08.19-13.46.07:947][770]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.08.19-13.46.07:947][770]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.08.19-13.46.07:947][770]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.08.19-13.46.07:947][770]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.08.19-13.46.07:947][770]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.08.19-13.46.07:948][770]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.08.19-13.46.07:948][770]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.08.19-13.46.07:948][770]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.08.19-13.46.07:948][770]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.08.19-13.46.07:954][770]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.08.19-13.46.07:955][770]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.08.19-13.46.07:955][770]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.08.19-13.46.07:955][770]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.08.19-13.46.07:955][770]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.08.19-13.46.07:955][770]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.08.19-13.46.07:955][770]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.08.19-13.46.07:955][770]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.08.19-13.46.07:955][770]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.08.19-13.46.07:955][770]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.08.19-13.46.07:955][770]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.08.19-13.46.07:955][770]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.08.19-13.46.07:956][770]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.08.19-13.46.07:956][770]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.08.19-13.46.07:956][770]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.08.19-13.46.07:956][770]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.08.19-13.46.07:956][770]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.08.19-13.46.07:956][770]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.08.19-13.46.07:956][770]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.08.19-13.46.07:956][770]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.08.19-13.46.07:956][770]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.08.19-13.46.08:022][770]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.08.19-13.46.08:022][770]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.08.19-13.46.08:022][770]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.08.19-13.46.08:022][770]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.08.19-13.46.08:022][770]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.08.19-13.46.08:022][770]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.08.19-13.46.08:022][770]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.08.19-13.46.08:022][770]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.08.19-13.46.08:022][770]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.08.19-13.46.08:022][770]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.08.19-13.46.08:022][770]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.08.19-13.46.08:022][770]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.08.19-13.46.08:022][770]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.08.19-13.46.08:022][770]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.08.19-13.46.08:022][770]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.08.19-13.46.08:022][770]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.08.19-13.46.08:022][770]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.08.19-13.46.08:022][770]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.08.19-13.46.08:022][770]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.08.19-13.46.08:022][770]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.08.19-13.46.08:022][770]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.08.19-13.46.08:023][770]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.08.19-13.46.08:023][770]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.08.19-13.46.08:023][770]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.08.19-13.46.08:023][770]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.08.19-13.46.08:023][770]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.08.19-13.46.08:023][770]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.08.19-13.46.08:023][770]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.08.19-13.46.08:023][770]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.08.19-13.46.08:023][770]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.08.19-13.46.08:023][770]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.08.19-13.46.08:023][770]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.08.19-13.46.08:024][770]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.08.19-13.46.08:024][770]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.08.19-13.46.08:024][770]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.08.19-13.46.08:025][770]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.08.19-13.46.08:025][770]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.08.19-13.46.08:025][770]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.08.19-13.46.08:025][770]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.08.19-13.46.08:025][770]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.08.19-13.46.08:025][770]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.08.19-13.46.08:025][770]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.08.19-13.46.08:025][770]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.08.19-13.46.08:125][770]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.08.19-13.46.08:226][770]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.08.19-13.46.08:226][770]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.08.19-13.46.08:226][770]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.08.19-13.46.08:226][770]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.08.19-13.46.08:226][770]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.08.19-13.46.08:226][770]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.08.19-13.46.08:227][770]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.08.19-13.46.08:227][770]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.08.19-13.46.08:227][770]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.08.19-13.46.08:227][770]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.08.19-13.46.08:227][770]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.08.19-13.46.08:227][770]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.08.19-13.46.08:227][770]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.08.19-13.46.08:227][770]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.08.19-13.46.08:227][770]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.08.19-13.46.08:227][770]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.08.19-13.46.08:227][770]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.08.19-13.46.08:227][770]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.08.19-13.46.08:227][770]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.08.19-13.46.08:227][770]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.08.19-13.46.08:227][770]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.08.19-13.46.08:227][770]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.08.19-13.46.08:227][770]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.08.19-13.46.08:227][770]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.08.19-13.46.08:228][770]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.08.19-13.46.08:228][770]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.08.19-13.46.08:228][770]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.08.19-13.46.08:228][770]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.08.19-13.46.08:228][770]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.08.19-13.46.08:228][770]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.08.19-13.46.08:230][770]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.08.19-13.46.08:230][770]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.08.19-13.46.08:230][770]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.08.19-13.46.08:230][770]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.08.19-13.46.08:230][770]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.08.19-13.46.08:230][770]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.08.19-13.46.08:230][770]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.08.19-13.46.08:230][770]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.08.19-13.46.08:230][770]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.08.19-13.46.08:230][770]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.08.19-13.46.08:230][770]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.08.19-13.46.08:230][770]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.08.19-13.46.08:230][770]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.08.19-13.46.08:230][770]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.08.19-13.46.08:230][770]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.08.19-13.46.08:230][770]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.08.19-13.46.08:235][770]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.08.19-13.46.08:257][770]LogDerivedDataCache: Shutdown
+[2017.08.19-13.46.08:257][770]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.08.19-13.46.08:258][770]LogOnline: Display: Unloading online subsystem: NULL
+[2017.08.19-13.46.08:258][770]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.08.19-13.46.08:259][770]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.08.19-13.46.08:259][770]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.08.19-13.46.08:259][770]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B567FB477-4241-9C9C-7CB4-B89E4301FD8D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.0-3573198%2B%2B%2BUE4%2BRelease-4.17&UserID=a6edf8a1446fe151d36489b2a451150e%7C6a71ead867eb4352acb6835af20733e8%7C9b51f5ab-5ea4-4406-b60d-88806dbfddb0&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.08.19-13.46.08:270][770]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.08.19-13.46.08:272][770]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.08.19-13.46.08:272][770]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.08.19-13.46.08:272][770]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.08.19-13.46.08:272][770]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.08.19-13.46.08:272][770]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.08.19-13.46.08:272][770]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.08.19-13.46.08:272][770]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.08.19-13.46.08:274][770]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.08.19-13.46.08:275][770]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.08.19-13.46.08:275][770]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.08.19-13.46.08:275][770]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.08.19-13.46.08:275][770]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.08.19-13.46.08:275][770]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.08.19-13.46.08:275][770]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.08.19-13.46.08:275][770]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.08.19-13.46.08:275][770]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.08.19-13.46.08:275][770]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.08.19-13.46.08:275][770]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.08.19-13.46.08:277][770]LogExit: Exiting.
+[2017.08.19-13.46.08:293][770]Log file closed, 08/19/17 22:46:08
