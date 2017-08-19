@@ -1,0 +1,471 @@
+﻿Log file open, 08/16/17 15:12:05
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VSPerf140.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: PointShootKill
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1707324130) SRandInit(1707324130).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.140632
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3573198
+LogInit: Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug  4 2017 16:30:33
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.08.16-06.12.06:461][  0]LogInit: Selected Device Profile: [Windows]
+[2017.08.16-06.12.06:461][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.08.16-06.12.06:484][  0]LogInit: Computer: DESKTOP-2LLGGVA
+[2017.08.16-06.12.06:485][  0]LogInit: User: BangMinsu
+[2017.08.16-06.12.06:485][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.08.16-06.12.06:485][  0]LogInit: High frequency timer resolution =2.249997 MHz
+[2017.08.16-06.12.06:485][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2017.08.16-06.12.06:485][  0]LogMemory: Platform Memory Stats for Windows
+[2017.08.16-06.12.06:485][  0]LogMemory: Process Physical Memory: 282.73 MB used, 282.73 MB peak
+[2017.08.16-06.12.06:485][  0]LogMemory: Process Virtual Memory: 275.58 MB used, 275.58 MB peak
+[2017.08.16-06.12.06:485][  0]LogMemory: Physical Memory: 3363.64 MB used,  596.02 MB free, 3959.66 MB total
+[2017.08.16-06.12.06:485][  0]LogMemory: Virtual Memory: 666.39 MB used,  596.02 MB free, 134217728.00 MB total
+[2017.08.16-06.12.06:844][  0]LogInit: Using OS detected language (ko-KR).
+[2017.08.16-06.12.06:844][  0]LogInit: Using OS detected locale (ko-KR).
+[2017.08.16-06.12.06:848][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2017.08.16-06.12.07:562][  0]LogD3D11RHI: D3D11 adapters:
+[2017.08.16-06.12.07:573][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2017.08.16-06.12.07:573][  0]LogD3D11RHI:       128/0/1979 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2017.08.16-06.12.07:575][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.08.16-06.12.07:575][  0]LogD3D11RHI:       0/0/1979 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.08.16-06.12.07:575][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.08.16-06.12.07:582][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.08.16-06.12.07:582][  0]LogD3D11RHI:     GPU DeviceId: 0x1916 (for the marketing name, search the web for "GPU Device Id")
+[2017.08.16-06.12.07:582][  0]LogWindows: EnumDisplayDevices:
+[2017.08.16-06.12.07:582][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2017.08.16-06.12.07:582][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.08.16-06.12.07:583][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.08.16-06.12.07:583][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2017.08.16-06.12.07:583][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 520
+[2017.08.16-06.12.07:583][  0]LogD3D11RHI:   Driver Version: 21.20.16.4534 (internal:21.20.16.4534, unified:21.20.16.4534)
+[2017.08.16-06.12.07:583][  0]LogD3D11RHI:      Driver Date: 10-7-2016
+[2017.08.16-06.12.07:583][  0]LogRHI: Texture pool is 782 MB (70% of 1117 MB)
+[2017.08.16-06.12.07:591][  0]LogD3D11RHI: Async texture creation enabled
+[2017.08.16-06.12.07:599][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2017.08.16-06.12.07:602][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/Bang_Minsu/Documents/GitHub/PointShootKill/PointShootKill/Intermediate/Shaders/WorkingDirectory/7644/).
+[2017.08.16-06.12.07:603][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Bang_Minsu/AppData/Local/Temp/UnrealShaderWorkingDir/B70CB68B4E6506821B45C0BAC7EA4D55/'.
+[2017.08.16-06.12.07:603][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.08.16-06.12.09:053][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.08.16-06.12.09:149][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.08.16-06.12.09:256][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.08.16-06.12.09:355][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.08.16-06.12.09:455][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.08.16-06.12.09:558][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.08.16-06.12.09:678][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.08.16-06.12.09:789][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.08.16-06.12.09:879][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.08.16-06.12.09:977][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.08.16-06.12.10:072][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.08.16-06.12.10:169][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.08.16-06.12.10:265][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.08.16-06.12.10:361][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.08.16-06.12.10:462][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.08.16-06.12.10:676][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.08.16-06.12.10:676][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.08.16-06.12.10:761][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.08.16-06.12.10:924][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.08.16-06.12.10:982][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.08.16-06.12.11:077][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.08.16-06.12.11:172][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.08.16-06.12.11:269][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.08.16-06.12.11:366][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.08.16-06.12.11:367][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.08.16-06.12.12:374][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.08.16-06.12.12:514][  0]LogDerivedDataCache: Loaded boot cache 0.14s 93MB C:/Users/Bang_Minsu/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.08.16-06.12.12:514][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Bang_Minsu/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.08.16-06.12.12:514][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Bang_Minsu/Documents/GitHub/PointShootKill/PointShootKill/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.08.16-06.12.12:514][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.08.16-06.12.12:514][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Bang_Minsu/Documents/GitHub/PointShootKill/PointShootKill/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.08.16-06.12.12:514][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.08.16-06.12.12:536][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.08.16-06.12.12:551][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Bang_Minsu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.08.16-06.12.12:566][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.08.16-06.12.12:567][  0]LogSlate: Using Freetype 2.6.0
+[2017.08.16-06.12.12:568][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.08.16-06.12.12:568][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.08.16-06.12.12:992][  0]LogAssetRegistry: FAssetRegistry took 0.0281 seconds to start up
+[2017.08.16-06.12.13:229][  0]LogInit: Selected Device Profile: [Windows]
+[2017.08.16-06.12.13:477][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.08.16-06.12.14:045][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.08.16-06.12.14:128][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.08.16-06.12.14:129][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.08.16-06.12.14:129][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.08.16-06.12.14:129][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.08.16-06.12.14:129][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.08.16-06.12.14:718][  0]LogNetVersion: PointShootKill , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1180208419)
+[2017.08.16-06.12.15:124][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.094705 seconds
+[2017.08.16-06.12.15:132][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.08.16-06.12.15:132][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.08.16-06.12.15:132][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.08.16-06.12.15:269][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.08.16-06.12.19:756][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.08.16-06.12.19:825][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.08.16-06.12.21:032][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.08.16-06.12.21:822][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.08.16-06.12.25:065][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.08.16-06.12.25:564][  0]LogOcInput: OculusInput pre-init called
+[2017.08.16-06.12.26:076][  0]LogEngine: Initializing Engine...
+[2017.08.16-06.12.26:079][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.08.16-06.12.26:427][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.08.16-06.12.26:427][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.08.16-06.12.26:702][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.08.16-06.12.26:718][  0]LogInit: XAudio2 using '스피커(Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.16-06.12.26:797][  0]LogInit: FAudioDevice initialized.
+[2017.08.16-06.12.27:003][  0]LogDerivedDataCache: Saved boot cache 0.21s 93MB C:/Users/Bang_Minsu/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.08.16-06.12.27:026][  0]LogInit: Texture streaming: Enabled
+[2017.08.16-06.12.27:279][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.08.16-06.12.27:734][  0]LogInit: Transaction tracking system initialized
+[2017.08.16-06.12.28:392][  0]BlueprintLog: New page: 에디터 로드
+[2017.08.16-06.12.30:254][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2017.08.16-06.12.32:025][  0]LogConsoleResponse: Display: 
+[2017.08.16-06.12.32:360][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.08.16-06.12.32:360][  0]LogCook: Display: Mobile HDR setting 1
+[2017.08.16-06.12.32:361][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.08.16-06.12.32:429][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bang_Minsu/Documents/GitHub/PointShootKill/PointShootKill/Content/' took 0.03s
+[2017.08.16-06.12.34:548][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Bang_Minsu/Documents/GitHub/PointShootKill/PointShootKill/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.08.16-06.12.34:556][  0]LightingResults: New page: 라이팅 빌드
+[2017.08.16-06.12.34:652][  0]MapCheck: New page: 맵 체크
+[2017.08.16-06.12.34:652][  0]LightingResults: New page: 라이팅 빌드
+[2017.08.16-06.12.36:379][  0]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.16-06.12.36:380][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.08.16-06.12.36:404][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.08.16-06.12.36:492][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 88.82ms.
+[2017.08.16-06.12.36:492][  0]LogFileHelpers: Loading map 'MainMenu' took 1.945
+[2017.08.16-06.12.36:585][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2017.08.16-06.12.36:988][  0]LogCollectionManager: Loaded 0 collections in 0.003732 seconds
+[2017.08.16-06.12.37:174][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bang_Minsu/Documents/GitHub/PointShootKill/PointShootKill/Saved/Collections/' took 0.01s
+[2017.08.16-06.12.37:174][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bang_Minsu/Documents/GitHub/PointShootKill/PointShootKill/Content/Developers/BangMinsu/Collections/' took 0.01s
+[2017.08.16-06.12.37:174][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bang_Minsu/Documents/GitHub/PointShootKill/PointShootKill/Content/Collections/' took 0.01s
+[2017.08.16-06.12.37:174][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.08.16-06.12.37:191][  0]LogContentBrowser: Native class hierarchy populated in 0.0142 seconds. Added 2386 classes and 500 folders.
+[2017.08.16-06.12.37:335][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2017.08.16-06.12.37:909][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2017.08.16-06.12.38:013][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.08.16-06.12.38:171][  0]LogSlate: Took 0.000438 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.08.16-06.12.38:184][  0]LogSlate: Took 0.010376 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2017.08.16-06.12.38:185][  0]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.08.16-06.12.38:206][  0]LogSlate: Took 0.006416 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.08.16-06.12.38:636][  0]LogRenderer: Reallocating scene render targets to support 1208x568 Format 9 NumSamples 1 (Frame:1).
+[2017.08.16-06.12.39:482][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.08.16-06.12.39:482][  0]LogLoad: (Engine Initialization) Total time: 35.82 seconds
+[2017.08.16-06.12.39:482][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.08.16-06.12.39:484][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.08.16-06.12.39:556][  0]SourceControl: On branch master
+[2017.08.16-06.12.39:556][  0]SourceControl: Your branch is up-to-date with 'origin/master'.
+[2017.08.16-06.12.39:556][  0]SourceControl: Changes not staged for commit:
+[2017.08.16-06.12.39:556][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2017.08.16-06.12.39:557][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.08.16-06.12.39:557][  0]SourceControl: 	modified:   PointShootKill/Intermediate/CachedAssetRegistry.bin
+[2017.08.16-06.12.39:557][  0]SourceControl: 	modified:   PointShootKill/Saved/Config/Windows/Editor.ini
+[2017.08.16-06.12.39:557][  0]SourceControl: 	modified:   PointShootKill/Saved/Config/Windows/Engine.ini
+[2017.08.16-06.12.39:557][  0]SourceControl: 	modified:   PointShootKill/Saved/Logs/PointShootKill.log
+[2017.08.16-06.12.39:557][  0]SourceControl: 	deleted:    PointShootKill/Saved/Logs/PointShootKill_2-backup-2017.08.15-13.54.26.log
+[2017.08.16-06.12.39:557][  0]SourceControl: Untracked files:
+[2017.08.16-06.12.39:557][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.08.16-06.12.39:557][  0]SourceControl: 	PointShootKill/Saved/Config/CrashReportClient/UE4CC-Windows-FF33E66D4EAC363701E189B3F38FEEAB/
+[2017.08.16-06.12.39:557][  0]SourceControl: 	PointShootKill/Saved/Logs/PointShootKill-backup-2017.08.16-15.12.05.log
+[2017.08.16-06.12.39:557][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2017.08.16-06.12.39:559][  0]LogContentStreaming: Texture pool size now 400 MB
+[2017.08.16-06.12.39:649][  0]LogSlate: Took 0.007309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.16-06.12.40:164][  3]LogAssetRegistry: Asset discovery search completed in 27.1938 seconds
+[2017.08.16-06.12.40:172][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2017.08.16-06.12.40:172][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000099 seconds (updated 0 objects)
+[2017.08.16-06.13.39:575][440]LogHttp: Warning: 0000018F10E67400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.08.16-06.13.39:575][440]LogHttp: Warning: 0000018F10E67400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.08.16-06.13.39:575][440]LogHttp: Warning: 0000018F10E67400: libcurl info message cache 1 (Closing connection 0)
+[2017.08.16-06.15.08:428][648]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.16-06.15.08:962][648]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.08.16-06.15.09:271][648]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 113 classes and 0 folders.
+[2017.08.16-06.15.10:595][648]LogSlate: Took 0.008133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.08.16-06.15.11:468][649]LogSlate: Took 0.013523 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.08.16-06.15.39:658][309]LogHttp: Warning: 0000018F61088A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.08.16-06.15.39:658][309]LogHttp: Warning: 0000018F61088A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.08.16-06.15.39:658][309]LogHttp: Warning: 0000018F61088A00: libcurl info message cache 1 (Closing connection 1)
+[2017.08.16-06.17.39:738][291]LogHttp: Warning: 0000018F611A1300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.08.16-06.17.39:738][291]LogHttp: Warning: 0000018F611A1300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.08.16-06.17.39:738][291]LogHttp: Warning: 0000018F611A1300: libcurl info message cache 1 (Closing connection 2)
+[2017.08.16-06.19.39:800][183]LogHttp: Warning: 0000018F55249D80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.08.16-06.19.39:800][183]LogHttp: Warning: 0000018F55249D80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.08.16-06.19.39:800][183]LogHttp: Warning: 0000018F55249D80: libcurl info message cache 1 (Closing connection 3)
+[2017.08.16-06.20.08:708][872]BlueprintLog: New page: FirstPersonCharacter 컴파일
+[2017.08.16-06.20.11:082][886]LogSavePackage: Save=256.96ms
+[2017.08.16-06.20.11:082][886]LogSavePackage: Moving '../../../../../../Users/Bang_Minsu/Documents/GitHub/PointShootKill/PointShootKill/Saved/FirstPersonCharacter3D04A57F41E6959DA5202B9335A17509.tmp' to '../../../../../../Users/Bang_Minsu/Documents/GitHub/PointShootKill/PointShootKill/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2017.08.16-06.20.11:090][886]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bang_Minsu/Documents/GitHub/PointShootKill/PointShootKill/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2017.08.16-06.21.20:009][242]UATHelper: 패키징 (윈도우 (64비트)): Running AutomationTool...
+[2017.08.16-06.21.21:680][320]UATHelper: 패키징 (윈도우 (64비트)): Automation.ParseCommandLine: Parsing command line: -ScriptsForProject=C:/Users/Bang_Minsu/Documents/GitHub/PointShootKill/PointShootKill/PointShootKill.uproject BuildCookRun -nocompile -nocompileeditor -installed -nop4 -project=C:/Users/Bang_Minsu/Documents/GitHub/PointShootKill/PointShootKill/PointShootKill.uproject -cook -stage -archive -archivedirectory=C:/Users/Bang_Minsu/Desktop -package -clientconfig=Development -ue4exe=UE4Editor-Cmd.exe -pak -prereqs -nodebuginfo -targetplatform=Win64 -utf8output
+[2017.08.16-06.21.23:298][398]UATHelper: 패키징 (윈도우 (64비트)): BuildCookRun.SetupParams: Setting up ProjectParams for C:\Users\Bang_Minsu\Documents\GitHub\PointShootKill\PointShootKill\PointShootKill.uproject
+[2017.08.16-06.21.29:034][678]UATHelper: 패키징 (윈도우 (64비트)): Project.Cook: ********** COOK COMMAND STARTED **********
+[2017.08.16-06.21.29:076][680]UATHelper: 패키징 (윈도우 (64비트)): CommandUtils.RunCommandlet: Running UE4Editor Cook for project C:\Users\Bang_Minsu\Documents\GitHub\PointShootKill\PointShootKill\PointShootKill.uproject
+[2017.08.16-06.21.29:096][681]UATHelper: 패키징 (윈도우 (64비트)): CommandUtils.RunCommandlet: Commandlet log file is C:\Program Files\Epic Games\UE_4.17\Engine\Programs\AutomationTool\Saved\Cook-2017.08.16-15.21.29.txt
+[2017.08.16-06.21.29:137][683]UATHelper: 패키징 (윈도우 (64비트)): CommandUtils.Run: Run: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\Win64\UE4Editor-Cmd.exe C:\Users\Bang_Minsu\Documents\GitHub\PointShootKill\PointShootKill\PointShootKill.uproject -run=Cook  -NoLogTimes -TargetPlatform=WindowsNoEditor -fileopenlog -unversioned -abslog="C:\Program Files\Epic Games\UE_4.17\Engine\Programs\AutomationTool\Saved\Cook-2017.08.16-15.21.29.txt" -stdout -CrashForUAT -unattended  -UTF8Output
+[2017.08.16-06.21.29:852][716]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogInit: Display: Running engine for game: PointShootKill
+[2017.08.16-06.21.29:953][721]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogInit: Display: RandInit(-1313716318) SRandInit(-1313716317).
+[2017.08.16-06.21.39:824][201]LogHttp: Warning: 0000018F587B3D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.08.16-06.21.39:824][201]LogHttp: Warning: 0000018F587B3D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.08.16-06.21.39:824][201]LogHttp: Warning: 0000018F587B3D00: libcurl info message cache 1 (Closing connection 4)
+[2017.08.16-06.21.56:577][  0]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.08.16-06.22.05:464][423]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.08.16-06.22.07:441][493]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Bang_Minsu/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.08.16-06.22.07:522][497]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.08.16-06.22.08:592][544]LogSlate: Took 0.016076 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2017.08.16-06.22.13:690][731]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.08.16-06.22.14:259][754]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.08.16-06.22.14:937][780]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.08.16-06.22.15:519][803]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.08.16-06.22.16:092][826]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.08.16-06.22.16:704][850]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.08.16-06.22.17:309][874]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.08.16-06.22.17:908][898]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.08.16-06.22.18:507][922]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.08.16-06.22.19:107][946]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.08.16-06.22.19:820][973]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.08.16-06.22.20:440][998]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.08.16-06.22.21:067][ 23]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.08.16-06.22.21:724][ 49]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.08.16-06.22.22:350][ 74]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.08.16-06.22.23:739][129]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.08.16-06.22.23:739][129]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.08.16-06.22.24:368][154]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.08.16-06.22.25:439][197]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.08.16-06.22.25:855][213]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.08.16-06.22.26:455][237]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.08.16-06.22.27:100][262]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.08.16-06.22.27:702][286]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.08.16-06.22.28:299][310]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.08.16-06.22.28:299][310]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2017.08.16-06.23.32:997][ 16]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.08.16-06.23.39:891][237]LogHttp: Warning: 0000018F4EA96680: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.08.16-06.23.39:892][237]LogHttp: Warning: 0000018F4EA96680: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.08.16-06.23.39:893][237]LogHttp: Warning: 0000018F4EA96680: libcurl info message cache 1 (Closing connection 5)
+[2017.08.16-06.23.44:408][380]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.08.16-06.23.44:409][380]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogCook: Display: Mobile HDR setting 1
+[2017.08.16-06.23.44:410][380]UATHelper: 패키징 (윈도우 (64비트)): Cook: LogCook: Display: Creating asset registry
+[2017.08.16-06.24.27:363][694]LogEditorViewport: Clicking Background
+[2017.08.16-06.25.30:709][594]LogSavePackage: Save=47.46ms
+[2017.08.16-06.25.30:710][594]LogSavePackage: Moving '../../../../../../Users/Bang_Minsu/Documents/GitHub/PointShootKill/PointShootKill/Saved/UEDPCMainMenu0D6239FB43EF70044BBDA7821E804311.tmp' to '../../../../../../Users/Bang_Minsu/Documents/GitHub/PointShootKill/PointShootKill/Saved/Autosaves/Game/Maps/UEDPCMainMenu.umap'
+[2017.08.16-06.25.30:712][594]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bang_Minsu/Documents/GitHub/PointShootKill/PointShootKill/Saved/Autosaves/Game/Maps/UEDPCMainMenu.umap
+[2017.08.16-06.25.30:729][594]LogEditorTransaction: Undo 여기에서 스폰 플레이 시작
+[2017.08.16-06.25.39:978][  9]LogHttp: Warning: 0000018F4C989480: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.08.16-06.25.39:978][  9]LogHttp: Warning: 0000018F4C989480: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.08.16-06.25.39:978][  9]LogHttp: Warning: 0000018F4C989480: libcurl info message cache 1 (Closing connection 6)
+[2017.08.16-06.27.40:515][766]LogHttp: Warning: 0000018F4C98BD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.08.16-06.27.40:515][766]LogHttp: Warning: 0000018F4C98BD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.08.16-06.27.40:515][766]LogHttp: Warning: 0000018F4C98BD00: libcurl info message cache 1 (Closing connection 7)
+[2017.08.16-06.29.40:560][127]LogHttp: Warning: 0000018F44FDBD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.08.16-06.29.40:560][127]LogHttp: Warning: 0000018F44FDBD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.08.16-06.29.40:562][127]LogHttp: Warning: 0000018F44FDBD00: libcurl info message cache 1 (Closing connection 8)
+[2017.08.16-06.30.00:479][611]LogRenderer: Reallocating scene render targets to support 1208x892 Format 9 NumSamples 1 (Frame:1).
+[2017.08.16-06.30.57:423][950]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.16-06.30.57:425][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.16-06.30.57:435][950]PIE: New page: PIE 세션: MainMenu (2017. 8. 17. 오전 12:30:57)
+[2017.08.16-06.30.57:437][950]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2017.08.16-06.30.57:443][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005289s)
+[2017.08.16-06.30.57:444][950]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.16-06.30.57:445][950]LogPlayLevel: PIE: World Init took: (0.002505s)
+[2017.08.16-06.30.57:446][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.009149s)
+[2017.08.16-06.30.57:502][950]LogInit: XAudio2 using 'DW832(인텔(R) 디스플레이 오디오)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.16-06.30.57:529][950]LogInit: FAudioDevice initialized.
+[2017.08.16-06.30.57:576][950]LogLoad: Game class is 'LobbyGM_C'
+[2017.08.16-06.30.57:580][950]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2017.08.16-15.30.57
+[2017.08.16-06.30.57:580][950]LogWorld: Bringing up level for play took: 0.001208
+[2017.08.16-06.30.57:684][950]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0019 seconds. Added 11 classes and 0 folders.
+[2017.08.16-06.30.57:684][950]LogScript: Warning: Accessed None 이 LobbyMenuWB 프로퍼티를 읽으려 합니다.
+	LobbyPC_C /Game/Maps/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.LobbyPC_C_0
+	Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC:03F6
+[2017.08.16-06.30.57:686][950]PIE: Error: 블루프린트 런타임 오류: Accessed None 이 LobbyMenuWB 프로퍼티를 읽으려 합니다. 다음 함수에서: 'ExecuteUbergraph_LobbyPC' 노드: MapName 설정 그래프: EventGraph 오브젝트: LobbyPC 설명: Accessed None 이 LobbyMenuWB 프로퍼티를 읽으려 합니다.
+[2017.08.16-06.30.57:686][950]LogScript: Warning: None 에 할당하려 했습니다.
+	LobbyPC_C /Game/Maps/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.LobbyPC_C_0
+	Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC:040B
+[2017.08.16-06.30.57:686][950]PIE: Error: 블루프린트 런타임 오류: None 에 할당하려 했습니다. 다음 함수에서: 'ExecuteUbergraph_LobbyPC' 노드: MapName 설정 그래프: EventGraph 오브젝트: LobbyPC 설명: None 에 할당하려 했습니다.
+[2017.08.16-06.30.57:686][950]LogScript: Warning: Accessed None 이 LobbyMenuWB 프로퍼티를 읽으려 합니다.
+	LobbyPC_C /Game/Maps/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.LobbyPC_C_0
+	Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC:0429
+[2017.08.16-06.30.57:686][950]PIE: Error: 블루프린트 런타임 오류: Accessed None 이 LobbyMenuWB 프로퍼티를 읽으려 합니다. 다음 함수에서: 'ExecuteUbergraph_LobbyPC' 노드: MapTime 설정 그래프: EventGraph 오브젝트: LobbyPC 설명: Accessed None 이 LobbyMenuWB 프로퍼티를 읽으려 합니다.
+[2017.08.16-06.30.57:686][950]LogScript: Warning: None 에 할당하려 했습니다.
+	LobbyPC_C /Game/Maps/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.LobbyPC_C_0
+	Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC:043E
+[2017.08.16-06.30.57:686][950]PIE: Error: 블루프린트 런타임 오류: None 에 할당하려 했습니다. 다음 함수에서: 'ExecuteUbergraph_LobbyPC' 노드: MapTime 설정 그래프: EventGraph 오브젝트: LobbyPC 설명: None 에 할당하려 했습니다.
+[2017.08.16-06.30.57:696][950]PIE: /Game/Maps/UEDPIE_0_MainMenu 에 대한 에디터에서 플레이 시작 시간: 0.375
+[2017.08.16-06.30.57:697][950]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.16-06.31.03:913][136]LogScriptCore: Warning: Script Msg: CreateSession - Invalid or uninitialized OnlineSubsystem
+[2017.08.16-06.31.03:914][136]LogScriptCore: Warning: Script Msg: CreateSession - Cannot map local player to unique net ID
+[2017.08.16-06.31.03:932][136]LogNet: Browse: /Game/Maps/Lobby
+[2017.08.16-06.31.03:935][136]LogLoad: LoadMap: /Game/Maps/Lobby
+[2017.08.16-06.31.03:938][136]LogScriptCore: Warning: Script Msg: DestroySession - Invalid or uninitialized OnlineSubsystem
+[2017.08.16-06.31.03:938][136]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
+[2017.08.16-06.31.03:989][136]Cmd: MEM
+[2017.08.16-06.31.04:018][136]LogMemory: Platform Memory Stats for Windows
+[2017.08.16-06.31.04:018][136]LogMemory: Process Physical Memory: 970.84 MB used, 1839.50 MB peak
+[2017.08.16-06.31.04:018][136]LogMemory: Process Virtual Memory: 1855.90 MB used, 2133.95 MB peak
+[2017.08.16-06.31.04:018][136]LogMemory: Physical Memory: 2572.88 MB used,  1386.78 MB free, 3959.66 MB total
+[2017.08.16-06.31.04:018][136]LogMemory: Virtual Memory: 2833.78 MB used,  1386.78 MB free, 134217728.00 MB total
+[2017.08.16-06.31.04:018][136]LogMemory: 
+[2017.08.16-06.31.04:018][136]Allocator Stats for TBB: (not implemented)
+[2017.08.16-06.31.06:121][136]LogAIModule: Creating AISystem for world Lobby
+[2017.08.16-06.31.06:122][136]LogLoad: Game class is 'LobbyGM_C'
+[2017.08.16-06.31.06:161][136]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 60) at 2017.08.16-15.31.06
+[2017.08.16-06.31.06:161][136]LogWorld: Bringing up level for play took: 0.035533
+[2017.08.16-06.31.06:163][136]LogScript: Warning: Accessed None 이 LobbyMenuWB 프로퍼티를 읽으려 합니다.
+	LobbyPC_C /Game/Maps/UEDPIE_0_Lobby.Lobby:PersistentLevel.LobbyPC_C_0
+	Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC:03F6
+[2017.08.16-06.31.06:163][136]PIE: Error: 블루프린트 런타임 오류: Accessed None 이 LobbyMenuWB 프로퍼티를 읽으려 합니다. 다음 함수에서: 'ExecuteUbergraph_LobbyPC' 노드: MapName 설정 그래프: EventGraph 오브젝트: LobbyPC 설명: Accessed None 이 LobbyMenuWB 프로퍼티를 읽으려 합니다.
+[2017.08.16-06.31.06:163][136]LogScript: Warning: None 에 할당하려 했습니다.
+	LobbyPC_C /Game/Maps/UEDPIE_0_Lobby.Lobby:PersistentLevel.LobbyPC_C_0
+	Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC:040B
+[2017.08.16-06.31.06:164][136]PIE: Error: 블루프린트 런타임 오류: None 에 할당하려 했습니다. 다음 함수에서: 'ExecuteUbergraph_LobbyPC' 노드: MapName 설정 그래프: EventGraph 오브젝트: LobbyPC 설명: None 에 할당하려 했습니다.
+[2017.08.16-06.31.06:164][136]LogScript: Warning: Accessed None 이 LobbyMenuWB 프로퍼티를 읽으려 합니다.
+	LobbyPC_C /Game/Maps/UEDPIE_0_Lobby.Lobby:PersistentLevel.LobbyPC_C_0
+	Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC:0429
+[2017.08.16-06.31.06:164][136]PIE: Error: 블루프린트 런타임 오류: Accessed None 이 LobbyMenuWB 프로퍼티를 읽으려 합니다. 다음 함수에서: 'ExecuteUbergraph_LobbyPC' 노드: MapTime 설정 그래프: EventGraph 오브젝트: LobbyPC 설명: Accessed None 이 LobbyMenuWB 프로퍼티를 읽으려 합니다.
+[2017.08.16-06.31.06:164][136]LogScript: Warning: None 에 할당하려 했습니다.
+	LobbyPC_C /Game/Maps/UEDPIE_0_Lobby.Lobby:PersistentLevel.LobbyPC_C_0
+	Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC:043E
+[2017.08.16-06.31.06:164][136]PIE: Error: 블루프린트 런타임 오류: None 에 할당하려 했습니다. 다음 함수에서: 'ExecuteUbergraph_LobbyPC' 노드: MapTime 설정 그래프: EventGraph 오브젝트: LobbyPC 설명: None 에 할당하려 했습니다.
+[2017.08.16-06.31.06:175][136]LogLoad: Took 2.239487 seconds to LoadMap(/Game/Maps/Lobby)
+[2017.08.16-06.31.08:725][196]LogScript: Warning: Accessed None 이 LobbyMenuWB 프로퍼티를 읽으려 합니다.
+	LobbyPC_C /Game/Maps/UEDPIE_0_Lobby.Lobby:PersistentLevel.LobbyPC_C_0
+	Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC:0456
+[2017.08.16-06.31.08:734][196]Cmd: servertravel /Game/Maps/Map
+[2017.08.16-06.31.08:737][196]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2017.08.16-06.31.08:746][196]LogNet: Browse: /Game/Maps/Map
+[2017.08.16-06.31.08:747][196]LogLoad: LoadMap: /Game/Maps/Map
+[2017.08.16-06.31.08:748][196]LogScriptCore: Warning: Script Msg: DestroySession - Invalid or uninitialized OnlineSubsystem
+[2017.08.16-06.31.08:748][196]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
+[2017.08.16-06.31.08:795][196]Cmd: MEM
+[2017.08.16-06.31.08:828][196]LogMemory: Platform Memory Stats for Windows
+[2017.08.16-06.31.08:829][196]LogMemory: Process Physical Memory: 1304.59 MB used, 1839.50 MB peak
+[2017.08.16-06.31.08:829][196]LogMemory: Process Virtual Memory: 1990.16 MB used, 2133.95 MB peak
+[2017.08.16-06.31.08:829][196]LogMemory: Physical Memory: 2858.28 MB used,  1101.38 MB free, 3959.66 MB total
+[2017.08.16-06.31.08:829][196]LogMemory: Virtual Memory: 2994.78 MB used,  1101.38 MB free, 134217728.00 MB total
+[2017.08.16-06.31.08:829][196]LogMemory: 
+[2017.08.16-06.31.08:829][196]Allocator Stats for TBB: (not implemented)
+[2017.08.16-06.31.10:031][196]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.617 s
+[2017.08.16-06.31.10:031][196]LogOutputDevice: Error: === Handled ensure: ===
+[2017.08.16-06.31.10:031][196]LogOutputDevice: Error: 
+[2017.08.16-06.31.10:031][196]LogOutputDevice: Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1315]
+[2017.08.16-06.31.10:031][196]LogOutputDevice: Error: 
+[2017.08.16-06.31.10:031][196]LogOutputDevice: Error: Stack: 
+[2017.08.16-06.31.10:031][196]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000921235F6
+[2017.08.16-06.31.10:031][196]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000091EAC2C2
+[2017.08.16-06.31.10:031][196]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000091EC4736
+[2017.08.16-06.31.10:031][196]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x000000008072D6C9
+[2017.08.16-06.31.10:031][196]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x00000000806FC9DD
+[2017.08.16-06.31.10:031][196]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000093210F67
+[2017.08.16-06.31.10:031][196]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x000000009351B4F6
+[2017.08.16-06.31.10:031][196]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000935315E6
+[2017.08.16-06.31.10:031][196]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000093530B32
+[2017.08.16-06.31.10:031][196]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000864EDCFB
+[2017.08.16-06.31.10:031][196]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000864A66D8
+[2017.08.16-06.31.10:031][196]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000008650D48D
+[2017.08.16-06.31.10:031][196]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000083E5BC30
+[2017.08.16-06.31.10:031][196]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000846EB0E6
+[2017.08.16-06.31.10:031][196]LogOutputDevice: Error: UE4Editor.exe!0x0000000051CC534A
+[2017.08.16-06.31.10:031][196]LogOutputDevice: Error: UE4Editor.exe!0x0000000051CD3970
+[2017.08.16-06.31.10:031][196]LogOutputDevice: Error: UE4Editor.exe!0x0000000051CD39EA
+[2017.08.16-06.31.10:031][196]LogOutputDevice: Error: UE4Editor.exe!0x0000000051CE02D9
+[2017.08.16-06.31.10:031][196]LogOutputDevice: Error: UE4Editor.exe!0x0000000051CE1C47
+[2017.08.16-06.31.10:031][196]LogOutputDevice: Error: KERNEL32.DLL!0x00000000C7532774
+[2017.08.16-06.31.10:031][196]LogOutputDevice: Error: ntdll.dll!0x00000000C7900D51
+[2017.08.16-06.31.10:031][196]LogOutputDevice: Error: 
+[2017.08.16-06.31.10:036][196]LogStats:                SubmitErrorReport -  0.000 s
