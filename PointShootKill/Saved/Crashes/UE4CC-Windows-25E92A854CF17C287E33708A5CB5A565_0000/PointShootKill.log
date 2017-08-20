@@ -1,0 +1,1350 @@
+﻿Log file open, 08/20/17 01:15:56
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: PointShootKill
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-158270480) SRandInit(-158270480).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.164246
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: E:/Unreal Engine/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.08.19-16.15.57:001][  0]LogInit: Selected Device Profile: [Windows]
+[2017.08.19-16.15.57:001][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.08.19-16.15.57:010][  0]LogInit: Computer: RUTKA
+[2017.08.19-16.15.57:010][  0]LogInit: User: Ruthka
+[2017.08.19-16.15.57:010][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.08.19-16.15.57:010][  0]LogInit: High frequency timer resolution =3.319357 MHz
+[2017.08.19-16.15.57:011][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.08.19-16.15.57:011][  0]LogMemory: Platform Memory Stats for Windows
+[2017.08.19-16.15.57:011][  0]LogMemory: Process Physical Memory: 278.89 MB used, 278.89 MB peak
+[2017.08.19-16.15.57:011][  0]LogMemory: Process Virtual Memory: 274.18 MB used, 274.18 MB peak
+[2017.08.19-16.15.57:011][  0]LogMemory: Physical Memory: 5362.32 MB used,  2748.76 MB free, 8111.07 MB total
+[2017.08.19-16.15.57:011][  0]LogMemory: Virtual Memory: 654.11 MB used,  2748.76 MB free, 134217728.00 MB total
+[2017.08.19-16.15.57:139][  0]LogInit: Using OS detected language (en-GB).
+[2017.08.19-16.15.57:139][  0]LogInit: Using OS detected locale (en-CA).
+[2017.08.19-16.15.57:144][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2017.08.19-16.15.57:881][  0]LogD3D11RHI: D3D11 adapters:
+[2017.08.19-16.15.58:522][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2017.08.19-16.15.58:522][  0]LogD3D11RHI:       4058/0/4055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.08.19-16.15.58:524][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.08.19-16.15.58:524][  0]LogD3D11RHI:       0/0/4055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.08.19-16.15.58:524][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.08.19-16.15.58:529][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.08.19-16.15.58:529][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2017.08.19-16.15.58:529][  0]LogWindows: EnumDisplayDevices:
+[2017.08.19-16.15.58:529][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2017.08.19-16.15.58:529][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.08.19-16.15.58:530][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.08.19-16.15.58:530][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.08.19-16.15.58:530][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.08.19-16.15.58:530][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2017.08.19-16.15.58:530][  0]LogD3D11RHI:   Driver Version: 384.76 (internal:22.21.13.8476, unified:384.76)
+[2017.08.19-16.15.58:530][  0]LogD3D11RHI:      Driver Date: 6-27-2017
+[2017.08.19-16.15.58:530][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.08.19-16.15.59:100][  0]LogD3D11RHI: Async texture creation enabled
+[2017.08.19-16.15.59:132][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.08.19-16.15.59:181][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Intermediate/Shaders/WorkingDirectory/14132/).
+[2017.08.19-16.15.59:182][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ruthk/AppData/Local/Temp/UnrealShaderWorkingDir/0593F0DE4832048FC88282A58AC894C5/'.
+[2017.08.19-16.15.59:182][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.08.19-16.16.00:065][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.08.19-16.16.00:110][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.08.19-16.16.00:157][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.08.19-16.16.00:204][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.08.19-16.16.00:250][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.08.19-16.16.00:299][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.08.19-16.16.00:345][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.08.19-16.16.00:391][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.08.19-16.16.00:430][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.08.19-16.16.00:475][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.08.19-16.16.00:521][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.08.19-16.16.00:573][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.08.19-16.16.00:617][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.08.19-16.16.00:662][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.08.19-16.16.00:707][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.08.19-16.16.00:800][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.08.19-16.16.00:800][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.08.19-16.16.00:838][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.08.19-16.16.00:919][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.08.19-16.16.00:942][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.08.19-16.16.00:986][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.08.19-16.16.01:031][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.08.19-16.16.01:083][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.08.19-16.16.01:128][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.08.19-16.16.01:128][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.08.19-16.16.01:509][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.08.19-16.16.01:609][  0]LogDerivedDataCache: Loaded boot cache 0.10s 93MB C:/Users/ruthk/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.08.19-16.16.01:609][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ruthk/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.08.19-16.16.01:609][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.08.19-16.16.01:609][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.08.19-16.16.01:609][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.08.19-16.16.01:609][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.08.19-16.16.01:625][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.08.19-16.16.01:638][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ruthk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.08.19-16.16.01:648][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.08.19-16.16.01:649][  0]LogSlate: Using Freetype 2.6.0
+[2017.08.19-16.16.01:650][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.08.19-16.16.01:650][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.08.19-16.16.01:941][  0]LogAssetRegistry: FAssetRegistry took 0.0256 seconds to start up
+[2017.08.19-16.16.02:048][  0]LogInit: Selected Device Profile: [Windows]
+[2017.08.19-16.16.02:198][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.08.19-16.16.02:487][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.08.19-16.16.02:525][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.08.19-16.16.02:525][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.08.19-16.16.02:525][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.08.19-16.16.02:525][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.08.19-16.16.02:525][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.08.19-16.16.02:891][  0]LogNetVersion: PointShootKill , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1180208419)
+[2017.08.19-16.16.03:116][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.056781 seconds
+[2017.08.19-16.16.03:122][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.08.19-16.16.03:122][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.08.19-16.16.03:122][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.08.19-16.16.03:165][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.08.19-16.16.05:918][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.08.19-16.16.05:953][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.08.19-16.16.06:564][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.08.19-16.16.06:963][  0]SourceControl: Source control is disabled
+[2017.08.19-16.16.08:073][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.08.19-16.16.08:310][  0]LogOcInput: OculusInput pre-init called
+[2017.08.19-16.16.08:551][  0]LogEngine: Initializing Engine...
+[2017.08.19-16.16.08:553][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.08.19-16.16.08:806][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.08.19-16.16.08:806][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.08.19-16.16.08:924][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.08.19-16.16.08:935][  0]LogInit: XAudio2 using '2477W1M-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.19-16.16.08:948][  0]LogInit: FAudioDevice initialized.
+[2017.08.19-16.16.09:036][  0]LogDerivedDataCache: Saved boot cache 0.09s 93MB C:/Users/ruthk/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.08.19-16.16.09:048][  0]LogInit: Texture streaming: Enabled
+[2017.08.19-16.16.09:138][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.08.19-16.16.09:346][  0]LogInit: Transaction tracking system initialized
+[2017.08.19-16.16.09:630][  0]BlueprintLog: New page: Editor Load
+[2017.08.19-16.16.10:429][  0]LocalizationService: Localization service is disabled
+[2017.08.19-16.16.11:085][  0]LogConsoleResponse: Display: 
+[2017.08.19-16.16.11:258][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.08.19-16.16.11:258][  0]LogCook: Display: Mobile HDR setting 1
+[2017.08.19-16.16.11:258][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.08.19-16.16.12:221][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/' took 0.02s
+[2017.08.19-16.16.12:264][  0]Cmd: MAP LOAD FILE="C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.08.19-16.16.12:265][  0]LightingResults: New page: Lighting Build
+[2017.08.19-16.16.12:302][  0]MapCheck: New page: Map Check
+[2017.08.19-16.16.12:302][  0]LightingResults: New page: Lighting Build
+[2017.08.19-16.16.13:044][  0]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.19-16.16.13:046][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.08.19-16.16.13:060][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.08.19-16.16.13:162][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 101.472ms to complete.
+[2017.08.19-16.16.13:162][  0]LogFileHelpers: Loading map 'MainMenu' took 0.899
+[2017.08.19-16.16.13:220][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2017.08.19-16.16.13:304][  0]LogCollectionManager: Loaded 0 collections in 0.001406 seconds
+[2017.08.19-16.16.13:402][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/Collections/' took 0.01s
+[2017.08.19-16.16.13:402][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Developers/Ruthka/Collections/' took 0.01s
+[2017.08.19-16.16.13:403][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Collections/' took 0.01s
+[2017.08.19-16.16.13:403][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.08.19-16.16.13:412][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2386 classes and 500 folders.
+[2017.08.19-16.16.13:468][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.08.19-16.16.13:522][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.08.19-16.16.13:561][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.08.19-16.16.13:653][  0]LogSlate: Took 0.000500 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.08.19-16.16.13:655][  0]LogSlate: Took 0.000456 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.08.19-16.16.13:663][  0]LogSlate: Took 0.000490 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.08.19-16.16.13:770][  0]LogRenderer: Reallocating scene render targets to support 1048x584 Format 10 NumSamples 1 (Frame:1).
+[2017.08.19-16.16.13:932][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.08.19-16.16.13:932][  0]LogLoad: (Engine Initialization) Total time: 18.63 seconds
+[2017.08.19-16.16.13:932][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.08.19-16.16.13:932][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.08.19-16.16.13:932][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.08.19-16.16.13:963][  0]SourceControl: On branch master
+[2017.08.19-16.16.13:963][  0]SourceControl: Your branch is up-to-date with 'origin/master'.
+[2017.08.19-16.16.13:963][  0]SourceControl: Changes not staged for commit:
+[2017.08.19-16.16.13:963][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2017.08.19-16.16.13:963][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.08.19-16.16.13:963][  0]SourceControl: 	modified:   PointShootKill/Intermediate/CachedAssetRegistry.bin
+[2017.08.19-16.16.13:963][  0]SourceControl: 	modified:   PointShootKill/Saved/Config/Windows/Editor.ini
+[2017.08.19-16.16.13:963][  0]SourceControl: 	modified:   PointShootKill/Saved/Config/Windows/Engine.ini
+[2017.08.19-16.16.13:963][  0]SourceControl: 	deleted:    PointShootKill/Saved/Logs/PointShootKill-backup-2017.08.19-23.51.25.log
+[2017.08.19-16.16.13:963][  0]SourceControl: 	modified:   PointShootKill/Saved/Logs/PointShootKill.log
+[2017.08.19-16.16.13:963][  0]SourceControl: 	deleted:    PointShootKill/Saved/Logs/PointShootKill_2-backup-2017.08.20-00.45.32.log
+[2017.08.19-16.16.13:964][  0]SourceControl: Untracked files:
+[2017.08.19-16.16.13:964][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.08.19-16.16.13:964][  0]SourceControl: 	PointShootKill/Saved/Config/CrashReportClient/UE4CC-Windows-25E92A854CF17C287E33708A5CB5A565/
+[2017.08.19-16.16.13:964][  0]SourceControl: 	PointShootKill/Saved/Logs/PointShootKill-backup-2017.08.20-01.15.56.log
+[2017.08.19-16.16.13:964][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2017.08.19-16.16.13:964][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.08.19-16.16.13:992][  0]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.19-16.16.14:015][  1]LogAssetRegistry: Asset discovery search completed in 12.0962 seconds
+[2017.08.19-16.16.14:017][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.08.19-16.16.14:017][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000042 seconds (updated 0 objects)
+[2017.08.19-16.16.35:612][435]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.19-16.16.35:656][435]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.16.35:656][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.19-16.16.35:658][435]PIE: New page: PIE session: MainMenu (Aug 20, 2017, 10:16:35 AM)
+[2017.08.19-16.16.35:659][435]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_MainMenu
+[2017.08.19-16.16.35:660][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000972s)
+[2017.08.19-16.16.35:660][435]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.19-16.16.35:661][435]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2017.08.19-16.16.35:661][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_1_MainMenu.MainMenu (0.001948s)
+[2017.08.19-16.16.35:677][435]LogInit: XAudio2 using '2477W1M-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.19-16.16.35:685][435]LogInit: FAudioDevice initialized.
+[2017.08.19-16.16.35:735][435]LogLoad: Game class is 'MainMenu_C'
+[2017.08.19-16.16.35:737][435]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.20-01.16.35
+[2017.08.19-16.16.35:737][435]LogWorld: Bringing up level for play took: 0.000993
+[2017.08.19-16.16.35:774][435]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2017.08.19-16.16.35:775][435]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.16.35:775][435]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2017.08.19-16.16.35:775][435]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.16.35:775][435]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.08.19-16.16.35:779][435]LogInit: WinSock: I am Rutka (192.168.0.5:0)
+[2017.08.19-16.16.35:779][435]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.19-16.16.35:779][435]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 7777
+[2017.08.19-16.16.35:780][435]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_MainMenu -0.387
+[2017.08.19-16.16.35:782][435]PIE: New page: PIE session: MainMenu (Aug 20, 2017, 10:16:35 AM)
+[2017.08.19-16.16.35:831][435]LogNet: Browse: 127.0.0.1//Game/Maps/MainMenu
+[2017.08.19-16.16.35:831][435]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.16.35:831][435]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2017.08.19-16.16.35:831][435]LogTemp: Display: ParseSettings for PendingNetDriver
+[2017.08.19-16.16.35:831][435]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.08.19-16.16.35:831][435]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.19-16.16.35:832][435]LogNet: Game client on port 7777, rate 10000
+[2017.08.19-16.16.35:836][435]PIE: Play in editor start time for /Game/Maps/MainMenu -0.332
+[2017.08.19-16.16.35:845][435]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.16.35:845][435]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63471
+[2017.08.19-16.16.35:845][435]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 190161095103090135062139139224096079119069096248070082052182
+[2017.08.19-16.16.35:865][435]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 190161095103090135062139139224096079119069096248070082052182
+[2017.08.19-16.16.35:918][436]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63471
+[2017.08.19-16.16.35:918][436]LogHandshake: SendChallengeAck. InCookie: 190161095103090135062139139224096079119069096248070082052182
+[2017.08.19-16.16.35:918][436]LogNet: Server accepting post-challenge connection from: 127.0.0.1:63471
+[2017.08.19-16.16.35:918][436]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.19-16.16.35:918][436]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 08/20/17 01:16:35, [UNetConnection] RemoteAddr: 127.0.0.1:63471, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2017.08.19-16.16.35:918][436]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:63471, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2017.08.19-16.16.35:919][436]LogNetVersion: PointShootKill 1.0.0.0, NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1001203919)
+[2017.08.19-16.16.35:919][436]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL
+[2017.08.19-16.16.35:935][437]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_MainMenu.MainMenu: Accepted
+[2017.08.19-16.16.35:935][437]LogNet: Remote platform little endian=1
+[2017.08.19-16.16.35:935][437]LogNet: This platform little endian=1
+[2017.08.19-16.16.35:952][438]LogNet: Login request: /Game/Maps/MainMenu userId: Invalid
+[2017.08.19-16.16.35:953][438]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_MainMenu, Game: /Game/Blueprints/MainMenu/MainMenu.MainMenu_C)
+[2017.08.19-16.16.36:011][438]LogLoad: LoadMap: 127.0.0.1//Game/Maps/UEDPIE_1_MainMenu?game=/Game/Blueprints/MainMenu/MainMenu.MainMenu_C
+[2017.08.19-16.16.36:023][438]Cmd: MEM
+[2017.08.19-16.16.36:033][438]LogMemory: Platform Memory Stats for Windows
+[2017.08.19-16.16.36:033][438]LogMemory: Process Physical Memory: 1081.07 MB used, 1203.30 MB peak
+[2017.08.19-16.16.36:033][438]LogMemory: Process Virtual Memory: 1457.39 MB used, 1507.61 MB peak
+[2017.08.19-16.16.36:033][438]LogMemory: Physical Memory: 5464.00 MB used,  2647.07 MB free, 8111.07 MB total
+[2017.08.19-16.16.36:033][438]LogMemory: Virtual Memory: 2279.35 MB used,  2647.07 MB free, 134217728.00 MB total
+[2017.08.19-16.16.36:033][438]LogMemory: 
+[2017.08.19-16.16.36:033][438]Allocator Stats for TBB: (not implemented)
+[2017.08.19-16.16.36:035][438]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.19-16.16.36:035][438]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.16.36:037][438]LogWorld: Bringing World /Game/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.20-01.16.36
+[2017.08.19-16.16.36:038][438]LogWorld: Bringing up level for play took: 0.001101
+[2017.08.19-16.16.36:038][438]LogLoad: Took 0.026890 seconds to LoadMap(/Game/Maps/UEDPIE_1_MainMenu)
+[2017.08.19-16.16.36:049][439]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2017.08.19-16.16.36:051][439]LogNet: Client netspeed is 10000
+[2017.08.19-16.16.36:051][439]LogNet: Join request: /Game/Maps/MainMenu?SplitscreenCount=1
+[2017.08.19-16.16.36:052][439]LogNet: Join succeeded: 257
+[2017.08.19-16.16.48:597][582]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.16.48:669][582]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.16.48:679][582]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63471, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2017.08.19-16.16.48:679][582]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:63471, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2017.08.19-16.16.48
+[2017.08.19-16.16.48:679][582]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63471, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2017.08.19-16.16.48:679][582]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2017.08.19-16.16.48:679][582]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2017.08.19-16.16.48
+[2017.08.19-16.16.48:679][582]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2017.08.19-16.16.48:681][582]LogExit: GameNetDriver None shut down
+[2017.08.19-16.16.48:681][582]LogExit: GameNetDriver None shut down
+[2017.08.19-16.16.51:787][953]LogEditorViewport: Clicking Background
+[2017.08.19-16.16.53:873][202]LogEditorViewport: Clicking Background
+[2017.08.19-16.16.56:954][571]LogEditorViewport: Clicking Background
+[2017.08.19-16.16.59:356][858]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.19-16.16.59:371][858]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.16.59:371][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.19-16.16.59:372][858]PIE: New page: PIE session: MainMenu (Aug 20, 2017, 10:16:59 AM)
+[2017.08.19-16.16.59:373][858]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_MainMenu
+[2017.08.19-16.16.59:375][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001044s)
+[2017.08.19-16.16.59:375][858]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.19-16.16.59:375][858]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2017.08.19-16.16.59:375][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_1_MainMenu.MainMenu (0.002087s)
+[2017.08.19-16.16.59:392][858]LogInit: XAudio2 using '2477W1M-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.19-16.16.59:399][858]LogInit: FAudioDevice initialized.
+[2017.08.19-16.16.59:430][858]LogLoad: Game class is 'MainMenu_C'
+[2017.08.19-16.16.59:431][858]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.20-01.16.59
+[2017.08.19-16.16.59:432][858]LogWorld: Bringing up level for play took: 0.001040
+[2017.08.19-16.16.59:433][858]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.16.59:433][858]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2017.08.19-16.16.59:433][858]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.16.59:433][858]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.08.19-16.16.59:433][858]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.19-16.16.59:433][858]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 7777
+[2017.08.19-16.16.59:435][858]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_MainMenu -0.733
+[2017.08.19-16.16.59:436][858]PIE: New page: PIE session: MainMenu (Aug 20, 2017, 10:16:59 AM)
+[2017.08.19-16.16.59:483][858]LogNet: Browse: 127.0.0.1//Game/Maps/MainMenu
+[2017.08.19-16.16.59:483][858]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.16.59:483][858]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2017.08.19-16.16.59:483][858]LogTemp: Display: ParseSettings for PendingNetDriver
+[2017.08.19-16.16.59:483][858]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.08.19-16.16.59:483][858]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.19-16.16.59:483][858]LogNet: Game client on port 7777, rate 10000
+[2017.08.19-16.16.59:487][858]PIE: Play in editor start time for /Game/Maps/MainMenu -0.681
+[2017.08.19-16.16.59:496][858]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.16.59:497][858]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:53291
+[2017.08.19-16.16.59:497][858]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 204204068193085008238177248240227209048061205021002149089138
+[2017.08.19-16.16.59:497][858]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 204204068193085008238177248240227209048061205021002149089138
+[2017.08.19-16.16.59:542][859]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:53291
+[2017.08.19-16.16.59:542][859]LogHandshake: SendChallengeAck. InCookie: 204204068193085008238177248240227209048061205021002149089138
+[2017.08.19-16.16.59:542][859]LogNet: Server accepting post-challenge connection from: 127.0.0.1:53291
+[2017.08.19-16.16.59:542][859]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.19-16.16.59:542][859]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 08/20/17 01:16:59, [UNetConnection] RemoteAddr: 127.0.0.1:53291, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2017.08.19-16.16.59:542][859]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:53291, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2017.08.19-16.16.59:543][859]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL
+[2017.08.19-16.16.59:551][860]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_MainMenu.MainMenu: Accepted
+[2017.08.19-16.16.59:551][860]LogNet: Remote platform little endian=1
+[2017.08.19-16.16.59:551][860]LogNet: This platform little endian=1
+[2017.08.19-16.16.59:558][861]LogNet: Login request: /Game/Maps/MainMenu userId: Invalid
+[2017.08.19-16.16.59:559][861]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_MainMenu, Game: /Game/Blueprints/MainMenu/MainMenu.MainMenu_C)
+[2017.08.19-16.16.59:559][861]LogLoad: LoadMap: 127.0.0.1//Game/Maps/UEDPIE_1_MainMenu?game=/Game/Blueprints/MainMenu/MainMenu.MainMenu_C
+[2017.08.19-16.16.59:570][861]Cmd: MEM
+[2017.08.19-16.16.59:581][861]LogMemory: Platform Memory Stats for Windows
+[2017.08.19-16.16.59:581][861]LogMemory: Process Physical Memory: 1081.49 MB used, 1203.30 MB peak
+[2017.08.19-16.16.59:581][861]LogMemory: Process Virtual Memory: 1535.24 MB used, 1649.25 MB peak
+[2017.08.19-16.16.59:581][861]LogMemory: Physical Memory: 5436.91 MB used,  2674.16 MB free, 8111.07 MB total
+[2017.08.19-16.16.59:581][861]LogMemory: Virtual Memory: 2417.67 MB used,  2674.16 MB free, 134217728.00 MB total
+[2017.08.19-16.16.59:581][861]LogMemory: 
+[2017.08.19-16.16.59:581][861]Allocator Stats for TBB: (not implemented)
+[2017.08.19-16.16.59:583][861]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.19-16.16.59:583][861]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.16.59:585][861]LogWorld: Bringing World /Game/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.20-01.16.59
+[2017.08.19-16.16.59:585][861]LogWorld: Bringing up level for play took: 0.000997
+[2017.08.19-16.16.59:586][861]LogLoad: Took 0.026206 seconds to LoadMap(/Game/Maps/UEDPIE_1_MainMenu)
+[2017.08.19-16.16.59:599][862]LogNet: Client netspeed is 10000
+[2017.08.19-16.16.59:599][862]LogNet: Join request: /Game/Maps/MainMenu?SplitscreenCount=1
+[2017.08.19-16.16.59:601][862]LogNet: Join succeeded: 259
+[2017.08.19-16.17.09:741][ 77]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.17.09:815][ 77]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.17.09:824][ 77]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:53291, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None
+[2017.08.19-16.17.09:824][ 77]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:53291, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2017.08.19-16.17.09
+[2017.08.19-16.17.09:824][ 77]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:53291, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None
+[2017.08.19-16.17.09:824][ 77]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None
+[2017.08.19-16.17.09:824][ 77]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2017.08.19-16.17.09
+[2017.08.19-16.17.09:824][ 77]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None
+[2017.08.19-16.17.09:826][ 77]LogExit: GameNetDriver None shut down
+[2017.08.19-16.17.09:826][ 77]LogExit: GameNetDriver None shut down
+[2017.08.19-16.17.13:556][522]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.19-16.17.13:880][522]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 113 classes and 0 folders.
+[2017.08.19-16.17.14:571][522]LogSlate: Took 0.000327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.19-16.17.14:571][522]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.08.19-16.17.19:076][811]LogSlate: Took 0.000324 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.08.19-16.18.04:174][696]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2017.08.19-16.18.04:174][696]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Blueprints/MainMenu/MainMenu.MainMenu_C
+[2017.08.19-16.18.04:174][696]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.SKEL_MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.SKEL_MainMenu_C
+[2017.08.19-16.18.04:174][696]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.SKEL_MainMenu_C or BlueprintGeneratedClass /Game/Blueprints/MainMenu/MainMenu.SKEL_MainMenu_C
+[2017.08.19-16.19.47:056][638]BlueprintLog: New page: Compile OptionMenu
+[2017.08.19-16.19.47:893][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/OptionMenu" FILE="C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/UI/MainMenu/OptionMenu.uasset" SILENT=true
+[2017.08.19-16.19.48:015][686]LogSavePackage: Save=94.88ms
+[2017.08.19-16.19.48:015][686]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/OptionMenuD37A87454B8878A4611BCB82251F92BD.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/UI/MainMenu/OptionMenu.uasset'
+[2017.08.19-16.19.48:020][686]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/UI/MainMenu/OptionMenu.uasset
+[2017.08.19-16.20.05:254][409]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.19-16.20.05:277][409]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.20.05:277][409]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.19-16.20.05:279][409]PIE: New page: PIE session: MainMenu (Aug 20, 2017, 10:20:05 AM)
+[2017.08.19-16.20.05:294][409]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_MainMenu
+[2017.08.19-16.20.05:295][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001029s)
+[2017.08.19-16.20.05:295][409]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.19-16.20.05:296][409]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2017.08.19-16.20.05:296][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_1_MainMenu.MainMenu (0.002174s)
+[2017.08.19-16.20.05:324][409]LogInit: XAudio2 using '2477W1M-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.19-16.20.05:332][409]LogInit: FAudioDevice initialized.
+[2017.08.19-16.20.05:367][409]LogLoad: Game class is 'MainMenu_C'
+[2017.08.19-16.20.05:369][409]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.20-01.20.05
+[2017.08.19-16.20.05:369][409]LogWorld: Bringing up level for play took: 0.000989
+[2017.08.19-16.20.05:371][409]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.20.05:371][409]LogTemp: Display: ParseSettings for IpNetDriver_4
+[2017.08.19-16.20.05:371][409]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.20.05:371][409]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.08.19-16.20.05:371][409]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.19-16.20.05:371][409]LogNet: GameNetDriver IpNetDriver_4 IpNetDriver listening on port 7777
+[2017.08.19-16.20.05:373][409]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_MainMenu -0.795
+[2017.08.19-16.20.05:374][409]PIE: New page: PIE session: MainMenu (Aug 20, 2017, 10:20:05 AM)
+[2017.08.19-16.20.05:422][409]LogNet: Browse: 127.0.0.1//Game/Maps/MainMenu
+[2017.08.19-16.20.05:422][409]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.20.05:422][409]LogTemp: Display: ParseSettings for IpNetDriver_5
+[2017.08.19-16.20.05:422][409]LogTemp: Display: ParseSettings for PendingNetDriver
+[2017.08.19-16.20.05:422][409]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.08.19-16.20.05:423][409]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.19-16.20.05:423][409]LogNet: Game client on port 7777, rate 10000
+[2017.08.19-16.20.05:428][409]PIE: Play in editor start time for /Game/Maps/MainMenu -0.74
+[2017.08.19-16.20.05:437][409]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.20.05:438][409]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49726
+[2017.08.19-16.20.05:438][409]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 128112017050220223244071175072088009060020072143023017077031
+[2017.08.19-16.20.05:439][409]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 128112017050220223244071175072088009060020072143023017077031
+[2017.08.19-16.20.05:479][410]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49726
+[2017.08.19-16.20.05:479][410]LogHandshake: SendChallengeAck. InCookie: 128112017050220223244071175072088009060020072143023017077031
+[2017.08.19-16.20.05:479][410]LogNet: Server accepting post-challenge connection from: 127.0.0.1:49726
+[2017.08.19-16.20.05:479][410]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.19-16.20.05:479][410]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 08/20/17 01:20:05, [UNetConnection] RemoteAddr: 127.0.0.1:49726, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL
+[2017.08.19-16.20.05:479][410]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:49726, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL
+[2017.08.19-16.20.05:480][410]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL
+[2017.08.19-16.20.05:489][411]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_MainMenu.MainMenu: Accepted
+[2017.08.19-16.20.05:489][411]LogNet: Remote platform little endian=1
+[2017.08.19-16.20.05:489][411]LogNet: This platform little endian=1
+[2017.08.19-16.20.05:496][412]LogNet: Login request: /Game/Maps/MainMenu userId: Invalid
+[2017.08.19-16.20.05:497][412]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_MainMenu, Game: /Game/Blueprints/MainMenu/MainMenu.MainMenu_C)
+[2017.08.19-16.20.05:497][412]LogLoad: LoadMap: 127.0.0.1//Game/Maps/UEDPIE_1_MainMenu?game=/Game/Blueprints/MainMenu/MainMenu.MainMenu_C
+[2017.08.19-16.20.05:517][412]Cmd: MEM
+[2017.08.19-16.20.05:535][412]LogMemory: Platform Memory Stats for Windows
+[2017.08.19-16.20.05:535][412]LogMemory: Process Physical Memory: 1331.44 MB used, 1368.57 MB peak
+[2017.08.19-16.20.05:535][412]LogMemory: Process Virtual Memory: 2112.65 MB used, 2112.66 MB peak
+[2017.08.19-16.20.05:535][412]LogMemory: Physical Memory: 5679.02 MB used,  2432.05 MB free, 8111.07 MB total
+[2017.08.19-16.20.05:535][412]LogMemory: Virtual Memory: 3011.70 MB used,  2432.05 MB free, 134217728.00 MB total
+[2017.08.19-16.20.05:535][412]LogMemory: 
+[2017.08.19-16.20.05:535][412]Allocator Stats for TBB: (not implemented)
+[2017.08.19-16.20.05:537][412]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.19-16.20.05:537][412]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.20.05:540][412]LogWorld: Bringing World /Game/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.20-01.20.05
+[2017.08.19-16.20.05:540][412]LogWorld: Bringing up level for play took: 0.001200
+[2017.08.19-16.20.05:540][412]LogLoad: Took 0.042761 seconds to LoadMap(/Game/Maps/UEDPIE_1_MainMenu)
+[2017.08.19-16.20.05:555][413]LogNet: Client netspeed is 10000
+[2017.08.19-16.20.05:555][413]LogNet: Join request: /Game/Maps/MainMenu?SplitscreenCount=1
+[2017.08.19-16.20.05:556][413]LogNet: Join succeeded: 261
+[2017.08.19-16.20.17:873][888]LogScriptCore: Warning: Script Msg: CreateSession - Invalid or uninitialized OnlineSubsystem
+[2017.08.19-16.20.17:873][888]LogScriptCore: Warning: Script Msg: CreateSession - Cannot map local player to unique net ID
+[2017.08.19-16.20.17:874][888]LogNet: Browse: /Game/Maps/Lobby
+[2017.08.19-16.20.17:875][888]LogLoad: LoadMap: /Game/Maps/Lobby
+[2017.08.19-16.20.17:875][888]LogNet: World NetDriver shutdown IpNetDriver_4 [GameNetDriver]
+[2017.08.19-16.20.17:875][888]LogNet: DestroyNamedNetDriver IpNetDriver_4 [GameNetDriver]
+[2017.08.19-16.20.17:875][888]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:49726, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1
+[2017.08.19-16.20.17:875][888]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:49726, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, Channels: 11, Time: 2017.08.19-16.20.17
+[2017.08.19-16.20.17:875][888]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:49726, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1
+[2017.08.19-16.20.17:875][888]LogExit: GameNetDriver IpNetDriver_4 shut down
+[2017.08.19-16.20.17:894][888]Cmd: MEM
+[2017.08.19-16.20.17:912][888]LogMemory: Platform Memory Stats for Windows
+[2017.08.19-16.20.17:912][888]LogMemory: Process Physical Memory: 1337.66 MB used, 1368.57 MB peak
+[2017.08.19-16.20.17:912][888]LogMemory: Process Virtual Memory: 2119.67 MB used, 2174.51 MB peak
+[2017.08.19-16.20.17:912][888]LogMemory: Physical Memory: 5680.80 MB used,  2430.27 MB free, 8111.07 MB total
+[2017.08.19-16.20.17:912][888]LogMemory: Virtual Memory: 3014.90 MB used,  2430.27 MB free, 134217728.00 MB total
+[2017.08.19-16.20.17:912][888]LogMemory: 
+[2017.08.19-16.20.17:912][888]Allocator Stats for TBB: (not implemented)
+[2017.08.19-16.20.18:871][888]LogAIModule: Creating AISystem for world Lobby
+[2017.08.19-16.20.18:872][888]LogLoad: Game class is 'LobbyGM_C'
+[2017.08.19-16.20.18:875][888]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Lobby.Lobby up for play (max tick rate 0) at 2017.08.20-01.20.18
+[2017.08.19-16.20.18:875][888]LogWorld: Bringing up level for play took: 0.002309
+[2017.08.19-16.20.18:880][888]LogLoad: Took 1.005664 seconds to LoadMap(/Game/Maps/Lobby)
+[2017.08.19-16.20.18:881][888]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2017.08.19-16.20.18:881][888]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2017.08.19-16.20.18:881][888]LogNet: NetworkFailure: FailureReceived, Error: 'Host closed the connection.'
+[2017.08.19-16.20.18:881][888]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, Channels: 11, Time: 2017.08.19-16.20.18
+[2017.08.19-16.20.18:881][888]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1
+[2017.08.19-16.20.18:882][888]LogNet: Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2017.08.19-16.20.18:882][888]LogNet: Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2017.08.19-16.20.18:882][888]LogNet: NetworkFailure: ConnectionLost, Error: 'Your connection to the host has been lost.'
+[2017.08.19-16.20.18:904][889]LogNet: Browse: /Game/Maps/MainMenu?closed
+[2017.08.19-16.20.18:904][889]LogNet: Failed; returning to Entry
+[2017.08.19-16.20.18:904][889]LogLoad: LoadMap: /Game/Maps/MainMenu?closed
+[2017.08.19-16.20.18:904][889]LogNet: World NetDriver shutdown IpNetDriver_5 [GameNetDriver]
+[2017.08.19-16.20.18:904][889]LogNet: DestroyNamedNetDriver IpNetDriver_5 [GameNetDriver]
+[2017.08.19-16.20.18:904][889]LogExit: GameNetDriver IpNetDriver_5 shut down
+[2017.08.19-16.20.18:925][889]Cmd: MEM
+[2017.08.19-16.20.18:943][889]LogMemory: Platform Memory Stats for Windows
+[2017.08.19-16.20.18:943][889]LogMemory: Process Physical Memory: 1533.88 MB used, 1539.19 MB peak
+[2017.08.19-16.20.18:943][889]LogMemory: Process Virtual Memory: 2458.60 MB used, 2458.60 MB peak
+[2017.08.19-16.20.18:943][889]LogMemory: Physical Memory: 5839.06 MB used,  2272.02 MB free, 8111.07 MB total
+[2017.08.19-16.20.18:943][889]LogMemory: Virtual Memory: 3304.84 MB used,  2272.02 MB free, 134217728.00 MB total
+[2017.08.19-16.20.18:943][889]LogMemory: 
+[2017.08.19-16.20.18:943][889]Allocator Stats for TBB: (not implemented)
+[2017.08.19-16.20.18:943][889]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_2_MainMenu
+[2017.08.19-16.20.18:944][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001021s)
+[2017.08.19-16.20.18:945][889]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.19-16.20.18:945][889]LogPlayLevel: PIE: World Init took: (0.000687s)
+[2017.08.19-16.20.18:945][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_2_MainMenu.MainMenu (0.001960s)
+[2017.08.19-16.20.18:945][889]LogLoad: Game class is 'MainMenu_C'
+[2017.08.19-16.20.18:949][889]LogWorld: Bringing World /Game/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.20-01.20.18
+[2017.08.19-16.20.18:949][889]LogWorld: Bringing up level for play took: 0.003240
+[2017.08.19-16.20.18:951][889]LogLoad: Took 0.046825 seconds to LoadMap(/Game/Maps/UEDPIE_2_MainMenu)
+[2017.08.19-16.20.20:712][ 89]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.20.20:756][ 89]LogScriptCore: Warning: Script Msg: DestroySession - Invalid or uninitialized OnlineSubsystem
+[2017.08.19-16.20.20:756][ 89]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
+[2017.08.19-16.20.20:789][ 89]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.20.25:306][512]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.08.19-16.20.28:236][792]BlueprintLog: New page: Compile OptionMenu
+[2017.08.19-16.20.30:851][ 64]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.19-16.20.30:869][ 64]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.20.30:869][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.19-16.20.30:870][ 64]PIE: New page: PIE session: MainMenu (Aug 20, 2017, 10:20:30 AM)
+[2017.08.19-16.20.31:038][ 64]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_MainMenu
+[2017.08.19-16.20.31:039][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001107s)
+[2017.08.19-16.20.31:039][ 64]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.19-16.20.31:040][ 64]LogPlayLevel: PIE: World Init took: (0.000681s)
+[2017.08.19-16.20.31:040][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_1_MainMenu.MainMenu (0.002133s)
+[2017.08.19-16.20.31:065][ 64]LogInit: XAudio2 using '2477W1M-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.19-16.20.31:073][ 64]LogInit: FAudioDevice initialized.
+[2017.08.19-16.20.31:109][ 64]LogLoad: Game class is 'MainMenu_C'
+[2017.08.19-16.20.31:111][ 64]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.20-01.20.31
+[2017.08.19-16.20.31:111][ 64]LogWorld: Bringing up level for play took: 0.001166
+[2017.08.19-16.20.31:112][ 64]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.20.31:112][ 64]LogTemp: Display: ParseSettings for IpNetDriver_6
+[2017.08.19-16.20.31:112][ 64]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.20.31:112][ 64]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.08.19-16.20.31:113][ 64]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.19-16.20.31:113][ 64]LogNet: GameNetDriver IpNetDriver_6 IpNetDriver listening on port 7777
+[2017.08.19-16.20.31:114][ 64]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_MainMenu 0.946
+[2017.08.19-16.20.31:116][ 64]PIE: New page: PIE session: MainMenu (Aug 20, 2017, 10:20:31 AM)
+[2017.08.19-16.20.31:169][ 64]LogNet: Browse: 127.0.0.1//Game/Maps/MainMenu
+[2017.08.19-16.20.31:169][ 64]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.20.31:169][ 64]LogTemp: Display: ParseSettings for IpNetDriver_7
+[2017.08.19-16.20.31:169][ 64]LogTemp: Display: ParseSettings for PendingNetDriver
+[2017.08.19-16.20.31:169][ 64]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.08.19-16.20.31:169][ 64]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.19-16.20.31:170][ 64]LogNet: Game client on port 7777, rate 10000
+[2017.08.19-16.20.31:174][ 64]PIE: Play in editor start time for /Game/Maps/MainMenu 1.006
+[2017.08.19-16.20.31:184][ 64]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.20.31:185][ 64]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57655
+[2017.08.19-16.20.31:185][ 64]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 037020119175187125087192096083135100178214220054110063205229
+[2017.08.19-16.20.31:186][ 64]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 037020119175187125087192096083135100178214220054110063205229
+[2017.08.19-16.20.31:228][ 65]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57655
+[2017.08.19-16.20.31:228][ 65]LogHandshake: SendChallengeAck. InCookie: 037020119175187125087192096083135100178214220054110063205229
+[2017.08.19-16.20.31:228][ 65]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57655
+[2017.08.19-16.20.31:228][ 65]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.19-16.20.31:228][ 65]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 08/20/17 01:20:31, [UNetConnection] RemoteAddr: 127.0.0.1:57655, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL
+[2017.08.19-16.20.31:228][ 65]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57655, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL
+[2017.08.19-16.20.31:229][ 65]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_6, Driver: PendingNetDriver IpNetDriver_7, IsServer: NO, PC: NULL, Owner: NULL
+[2017.08.19-16.20.31:239][ 66]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_MainMenu.MainMenu: Accepted
+[2017.08.19-16.20.31:239][ 66]LogNet: Remote platform little endian=1
+[2017.08.19-16.20.31:239][ 66]LogNet: This platform little endian=1
+[2017.08.19-16.20.31:247][ 67]LogNet: Login request: /Game/Maps/MainMenu userId: Invalid
+[2017.08.19-16.20.31:247][ 67]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_MainMenu, Game: /Game/Blueprints/MainMenu/MainMenu.MainMenu_C)
+[2017.08.19-16.20.31:248][ 67]LogLoad: LoadMap: 127.0.0.1//Game/Maps/UEDPIE_1_MainMenu?game=/Game/Blueprints/MainMenu/MainMenu.MainMenu_C
+[2017.08.19-16.20.31:266][ 67]Cmd: MEM
+[2017.08.19-16.20.31:284][ 67]LogMemory: Platform Memory Stats for Windows
+[2017.08.19-16.20.31:284][ 67]LogMemory: Process Physical Memory: 1522.96 MB used, 1588.94 MB peak
+[2017.08.19-16.20.31:284][ 67]LogMemory: Process Virtual Memory: 2330.71 MB used, 2504.43 MB peak
+[2017.08.19-16.20.31:284][ 67]LogMemory: Physical Memory: 5811.11 MB used,  2299.96 MB free, 8111.07 MB total
+[2017.08.19-16.20.31:284][ 67]LogMemory: Virtual Memory: 3233.89 MB used,  2299.96 MB free, 134217728.00 MB total
+[2017.08.19-16.20.31:284][ 67]LogMemory: 
+[2017.08.19-16.20.31:284][ 67]Allocator Stats for TBB: (not implemented)
+[2017.08.19-16.20.31:286][ 67]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.19-16.20.31:286][ 67]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.20.31:288][ 67]LogWorld: Bringing World /Game/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.20-01.20.31
+[2017.08.19-16.20.31:288][ 67]LogWorld: Bringing up level for play took: 0.000721
+[2017.08.19-16.20.31:288][ 67]LogLoad: Took 0.040578 seconds to LoadMap(/Game/Maps/UEDPIE_1_MainMenu)
+[2017.08.19-16.20.31:302][ 68]LogNet: Client netspeed is 10000
+[2017.08.19-16.20.31:302][ 68]LogNet: Join request: /Game/Maps/MainMenu?SplitscreenCount=1
+[2017.08.19-16.20.31:304][ 68]LogNet: Join succeeded: 265
+[2017.08.19-16.20.36:701][708]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.20.36:777][708]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.20.36:797][708]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57655, Name: IpConnection_7, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None
+[2017.08.19-16.20.36:797][708]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57655, Name: IpConnection_7, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2017.08.19-16.20.36
+[2017.08.19-16.20.36:797][708]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57655, Name: IpConnection_7, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None
+[2017.08.19-16.20.36:797][708]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None
+[2017.08.19-16.20.36:797][708]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2017.08.19-16.20.36
+[2017.08.19-16.20.36:797][708]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None
+[2017.08.19-16.20.36:800][708]LogExit: GameNetDriver None shut down
+[2017.08.19-16.20.36:800][708]LogExit: GameNetDriver None shut down
+[2017.08.19-16.20.39:590][941]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.08.19-16.21.05:853][572]BlueprintLog: New page: Compile OptionMenu
+[2017.08.19-16.21.06:610][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/OptionMenu" FILE="C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/UI/MainMenu/OptionMenu.uasset" SILENT=true
+[2017.08.19-16.21.06:719][616]LogSavePackage: Save=97.17ms
+[2017.08.19-16.21.06:719][616]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/OptionMenu8FBBEBC94D2CF2638E3FDBAE4EA1FB28.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/UI/MainMenu/OptionMenu.uasset'
+[2017.08.19-16.21.06:723][616]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/UI/MainMenu/OptionMenu.uasset
+[2017.08.19-16.21.09:135][878]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.19-16.21.09:153][878]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.21.09:153][878]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.19-16.21.09:154][878]PIE: New page: PIE session: MainMenu (Aug 20, 2017, 10:21:09 AM)
+[2017.08.19-16.21.09:168][878]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_MainMenu
+[2017.08.19-16.21.09:169][878]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000941s)
+[2017.08.19-16.21.09:170][878]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.19-16.21.09:170][878]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2017.08.19-16.21.09:170][878]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_1_MainMenu.MainMenu (0.001941s)
+[2017.08.19-16.21.09:195][878]LogInit: XAudio2 using '2477W1M-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.19-16.21.09:203][878]LogInit: FAudioDevice initialized.
+[2017.08.19-16.21.09:238][878]LogLoad: Game class is 'MainMenu_C'
+[2017.08.19-16.21.09:240][878]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.20-01.21.09
+[2017.08.19-16.21.09:240][878]LogWorld: Bringing up level for play took: 0.001023
+[2017.08.19-16.21.09:241][878]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.21.09:241][878]LogTemp: Display: ParseSettings for IpNetDriver_8
+[2017.08.19-16.21.09:241][878]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.21.09:242][878]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.08.19-16.21.09:242][878]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.19-16.21.09:242][878]LogNet: GameNetDriver IpNetDriver_8 IpNetDriver listening on port 7777
+[2017.08.19-16.21.09:243][878]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_MainMenu 1.075
+[2017.08.19-16.21.09:245][878]PIE: New page: PIE session: MainMenu (Aug 20, 2017, 10:21:09 AM)
+[2017.08.19-16.21.09:293][878]LogNet: Browse: 127.0.0.1//Game/Maps/MainMenu
+[2017.08.19-16.21.09:293][878]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.21.09:293][878]LogTemp: Display: ParseSettings for IpNetDriver_9
+[2017.08.19-16.21.09:293][878]LogTemp: Display: ParseSettings for PendingNetDriver
+[2017.08.19-16.21.09:293][878]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.08.19-16.21.09:293][878]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.19-16.21.09:293][878]LogNet: Game client on port 7777, rate 10000
+[2017.08.19-16.21.09:300][878]PIE: Play in editor start time for /Game/Maps/MainMenu 1.132
+[2017.08.19-16.21.09:309][878]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.21.09:310][878]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57656
+[2017.08.19-16.21.09:310][878]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 134194000083168062032019201019064010059125036083108074105149
+[2017.08.19-16.21.09:311][878]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 134194000083168062032019201019064010059125036083108074105149
+[2017.08.19-16.21.09:352][879]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57656
+[2017.08.19-16.21.09:352][879]LogHandshake: SendChallengeAck. InCookie: 134194000083168062032019201019064010059125036083108074105149
+[2017.08.19-16.21.09:352][879]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57656
+[2017.08.19-16.21.09:352][879]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.19-16.21.09:352][879]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 08/20/17 01:21:09, [UNetConnection] RemoteAddr: 127.0.0.1:57656, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: NULL, Owner: NULL
+[2017.08.19-16.21.09:352][879]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57656, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: NULL, Owner: NULL
+[2017.08.19-16.21.09:352][879]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_8, Driver: PendingNetDriver IpNetDriver_9, IsServer: NO, PC: NULL, Owner: NULL
+[2017.08.19-16.21.09:359][880]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_MainMenu.MainMenu: Accepted
+[2017.08.19-16.21.09:359][880]LogNet: Remote platform little endian=1
+[2017.08.19-16.21.09:359][880]LogNet: This platform little endian=1
+[2017.08.19-16.21.09:367][881]LogNet: Login request: /Game/Maps/MainMenu userId: Invalid
+[2017.08.19-16.21.09:368][881]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_MainMenu, Game: /Game/Blueprints/MainMenu/MainMenu.MainMenu_C)
+[2017.08.19-16.21.09:368][881]LogLoad: LoadMap: 127.0.0.1//Game/Maps/UEDPIE_1_MainMenu?game=/Game/Blueprints/MainMenu/MainMenu.MainMenu_C
+[2017.08.19-16.21.09:388][881]Cmd: MEM
+[2017.08.19-16.21.09:405][881]LogMemory: Platform Memory Stats for Windows
+[2017.08.19-16.21.09:405][881]LogMemory: Process Physical Memory: 1526.17 MB used, 1588.94 MB peak
+[2017.08.19-16.21.09:405][881]LogMemory: Process Virtual Memory: 2324.27 MB used, 2504.43 MB peak
+[2017.08.19-16.21.09:405][881]LogMemory: Physical Memory: 5812.23 MB used,  2298.84 MB free, 8111.07 MB total
+[2017.08.19-16.21.09:405][881]LogMemory: Virtual Memory: 3243.70 MB used,  2298.84 MB free, 134217728.00 MB total
+[2017.08.19-16.21.09:405][881]LogMemory: 
+[2017.08.19-16.21.09:405][881]Allocator Stats for TBB: (not implemented)
+[2017.08.19-16.21.09:407][881]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.19-16.21.09:407][881]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.21.09:409][881]LogWorld: Bringing World /Game/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.20-01.21.09
+[2017.08.19-16.21.09:409][881]LogWorld: Bringing up level for play took: 0.001277
+[2017.08.19-16.21.09:409][881]LogLoad: Took 0.041525 seconds to LoadMap(/Game/Maps/UEDPIE_1_MainMenu)
+[2017.08.19-16.21.09:423][882]LogNet: Client netspeed is 10000
+[2017.08.19-16.21.09:423][882]LogNet: Join request: /Game/Maps/MainMenu?SplitscreenCount=1
+[2017.08.19-16.21.09:425][882]LogNet: Join succeeded: 267
+[2017.08.19-16.21.14:332][469]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.21.14:405][469]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.21.14:423][469]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57656, Name: IpConnection_9, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None
+[2017.08.19-16.21.14:423][469]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57656, Name: IpConnection_9, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2017.08.19-16.21.14
+[2017.08.19-16.21.14:423][469]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57656, Name: IpConnection_9, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None
+[2017.08.19-16.21.14:423][469]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: None, Owner: None
+[2017.08.19-16.21.14:423][469]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2017.08.19-16.21.14
+[2017.08.19-16.21.14:423][469]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: None, Owner: None
+[2017.08.19-16.21.14:427][469]LogExit: GameNetDriver None shut down
+[2017.08.19-16.21.14:427][469]LogExit: GameNetDriver None shut down
+[2017.08.19-16.21.21:356][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/OptionMenu" FILE="C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/UI/MainMenu/OptionMenu.uasset" SILENT=true
+[2017.08.19-16.21.21:460][206]LogSavePackage: Save=92.72ms
+[2017.08.19-16.21.21:460][206]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/OptionMenu86B09B0D4689816C802EF6A748CDD3ED.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/UI/MainMenu/OptionMenu.uasset'
+[2017.08.19-16.21.21:463][206]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/UI/MainMenu/OptionMenu.uasset
+[2017.08.19-16.21.44:527][422]BlueprintLog: New page: Compile OptionMenu
+[2017.08.19-16.21.45:217][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/OptionMenu" FILE="C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/UI/MainMenu/OptionMenu.uasset" SILENT=true
+[2017.08.19-16.21.45:325][466]LogSavePackage: Save=96.99ms
+[2017.08.19-16.21.45:325][466]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/OptionMenuE5A7742F4F89071BC77F70A7883893DC.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/UI/MainMenu/OptionMenu.uasset'
+[2017.08.19-16.21.45:330][466]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/UI/MainMenu/OptionMenu.uasset
+[2017.08.19-16.21.46:792][628]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.19-16.21.46:810][628]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.21.46:810][628]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.19-16.21.46:811][628]PIE: New page: PIE session: MainMenu (Aug 20, 2017, 10:21:46 AM)
+[2017.08.19-16.21.46:825][628]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_MainMenu
+[2017.08.19-16.21.46:826][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000975s)
+[2017.08.19-16.21.46:827][628]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.19-16.21.46:827][628]LogPlayLevel: PIE: World Init took: (0.000729s)
+[2017.08.19-16.21.46:827][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_1_MainMenu.MainMenu (0.001998s)
+[2017.08.19-16.21.46:853][628]LogInit: XAudio2 using '2477W1M-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.19-16.21.46:860][628]LogInit: FAudioDevice initialized.
+[2017.08.19-16.21.46:895][628]LogLoad: Game class is 'MainMenu_C'
+[2017.08.19-16.21.46:896][628]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.20-01.21.46
+[2017.08.19-16.21.46:896][628]LogWorld: Bringing up level for play took: 0.000963
+[2017.08.19-16.21.46:897][628]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.21.46:897][628]LogTemp: Display: ParseSettings for IpNetDriver_10
+[2017.08.19-16.21.46:898][628]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.21.46:898][628]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.08.19-16.21.46:898][628]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.19-16.21.46:898][628]LogNet: GameNetDriver IpNetDriver_10 IpNetDriver listening on port 7777
+[2017.08.19-16.21.46:899][628]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_MainMenu 0.731
+[2017.08.19-16.21.46:901][628]PIE: New page: PIE session: MainMenu (Aug 20, 2017, 10:21:46 AM)
+[2017.08.19-16.21.46:949][628]LogNet: Browse: 127.0.0.1//Game/Maps/MainMenu
+[2017.08.19-16.21.46:949][628]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.21.46:949][628]LogTemp: Display: ParseSettings for IpNetDriver_11
+[2017.08.19-16.21.46:949][628]LogTemp: Display: ParseSettings for PendingNetDriver
+[2017.08.19-16.21.46:950][628]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.08.19-16.21.46:950][628]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.19-16.21.46:950][628]LogNet: Game client on port 7777, rate 10000
+[2017.08.19-16.21.46:955][628]PIE: Play in editor start time for /Game/Maps/MainMenu 0.787
+[2017.08.19-16.21.46:966][628]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.21.46:966][628]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57657
+[2017.08.19-16.21.46:966][628]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 037239220001047206069189058010028086002045083103170222156162
+[2017.08.19-16.21.46:967][628]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 037239220001047206069189058010028086002045083103170222156162
+[2017.08.19-16.21.47:008][629]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57657
+[2017.08.19-16.21.47:008][629]LogHandshake: SendChallengeAck. InCookie: 037239220001047206069189058010028086002045083103170222156162
+[2017.08.19-16.21.47:008][629]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57657
+[2017.08.19-16.21.47:008][629]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.19-16.21.47:008][629]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 08/20/17 01:21:47, [UNetConnection] RemoteAddr: 127.0.0.1:57657, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: NULL, Owner: NULL
+[2017.08.19-16.21.47:009][629]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57657, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: NULL, Owner: NULL
+[2017.08.19-16.21.47:009][629]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_10, Driver: PendingNetDriver IpNetDriver_11, IsServer: NO, PC: NULL, Owner: NULL
+[2017.08.19-16.21.47:017][630]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_MainMenu.MainMenu: Accepted
+[2017.08.19-16.21.47:017][630]LogNet: Remote platform little endian=1
+[2017.08.19-16.21.47:018][630]LogNet: This platform little endian=1
+[2017.08.19-16.21.47:025][631]LogNet: Login request: /Game/Maps/MainMenu userId: Invalid
+[2017.08.19-16.21.47:026][631]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_MainMenu, Game: /Game/Blueprints/MainMenu/MainMenu.MainMenu_C)
+[2017.08.19-16.21.47:026][631]LogLoad: LoadMap: 127.0.0.1//Game/Maps/UEDPIE_1_MainMenu?game=/Game/Blueprints/MainMenu/MainMenu.MainMenu_C
+[2017.08.19-16.21.47:046][631]Cmd: MEM
+[2017.08.19-16.21.47:063][631]LogMemory: Platform Memory Stats for Windows
+[2017.08.19-16.21.47:063][631]LogMemory: Process Physical Memory: 1519.98 MB used, 1588.94 MB peak
+[2017.08.19-16.21.47:063][631]LogMemory: Process Virtual Memory: 2323.65 MB used, 2504.43 MB peak
+[2017.08.19-16.21.47:063][631]LogMemory: Physical Memory: 5807.13 MB used,  2303.95 MB free, 8111.07 MB total
+[2017.08.19-16.21.47:064][631]LogMemory: Virtual Memory: 3243.70 MB used,  2303.95 MB free, 134217728.00 MB total
+[2017.08.19-16.21.47:064][631]LogMemory: 
+[2017.08.19-16.21.47:064][631]Allocator Stats for TBB: (not implemented)
+[2017.08.19-16.21.47:065][631]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.19-16.21.47:066][631]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.21.47:067][631]LogWorld: Bringing World /Game/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.20-01.21.47
+[2017.08.19-16.21.47:068][631]LogWorld: Bringing up level for play took: 0.000918
+[2017.08.19-16.21.47:068][631]LogLoad: Took 0.041773 seconds to LoadMap(/Game/Maps/UEDPIE_1_MainMenu)
+[2017.08.19-16.21.47:083][632]LogNet: Client netspeed is 10000
+[2017.08.19-16.21.47:083][632]LogNet: Join request: /Game/Maps/MainMenu?SplitscreenCount=1
+[2017.08.19-16.21.47:084][632]LogNet: Join succeeded: 269
+[2017.08.19-16.21.53:885][446]LogScriptCore: Warning: Script Msg: CreateSession - Invalid or uninitialized OnlineSubsystem
+[2017.08.19-16.21.53:885][446]LogScriptCore: Warning: Script Msg: CreateSession - Cannot map local player to unique net ID
+[2017.08.19-16.21.53:887][446]LogNet: Browse: /Game/Maps/Lobby
+[2017.08.19-16.21.53:887][446]LogLoad: LoadMap: /Game/Maps/Lobby
+[2017.08.19-16.21.53:887][446]LogNet: World NetDriver shutdown IpNetDriver_10 [GameNetDriver]
+[2017.08.19-16.21.53:887][446]LogNet: DestroyNamedNetDriver IpNetDriver_10 [GameNetDriver]
+[2017.08.19-16.21.53:887][446]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:57657, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1
+[2017.08.19-16.21.53:887][446]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57657, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, Channels: 11, Time: 2017.08.19-16.21.53
+[2017.08.19-16.21.53:887][446]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57657, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1
+[2017.08.19-16.21.53:888][446]LogExit: GameNetDriver IpNetDriver_10 shut down
+[2017.08.19-16.21.53:906][446]Cmd: MEM
+[2017.08.19-16.21.53:924][446]LogMemory: Platform Memory Stats for Windows
+[2017.08.19-16.21.53:924][446]LogMemory: Process Physical Memory: 1520.86 MB used, 1588.94 MB peak
+[2017.08.19-16.21.53:924][446]LogMemory: Process Virtual Memory: 2324.42 MB used, 2504.43 MB peak
+[2017.08.19-16.21.53:924][446]LogMemory: Physical Memory: 5807.52 MB used,  2303.56 MB free, 8111.07 MB total
+[2017.08.19-16.21.53:924][446]LogMemory: Virtual Memory: 3267.72 MB used,  2303.56 MB free, 134217728.00 MB total
+[2017.08.19-16.21.53:924][446]LogMemory: 
+[2017.08.19-16.21.53:924][446]Allocator Stats for TBB: (not implemented)
+[2017.08.19-16.21.53:994][446]LogAIModule: Creating AISystem for world Lobby
+[2017.08.19-16.21.53:995][446]LogLoad: Game class is 'LobbyGM_C'
+[2017.08.19-16.21.53:998][446]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Lobby.Lobby up for play (max tick rate 0) at 2017.08.20-01.21.53
+[2017.08.19-16.21.53:998][446]LogWorld: Bringing up level for play took: 0.002368
+[2017.08.19-16.21.54:003][446]LogLoad: Took 0.115459 seconds to LoadMap(/Game/Maps/Lobby)
+[2017.08.19-16.21.54:003][446]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2017.08.19-16.21.54:003][446]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2017.08.19-16.21.54:003][446]LogNet: NetworkFailure: FailureReceived, Error: 'Host closed the connection.'
+[2017.08.19-16.21.54:003][446]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, Channels: 11, Time: 2017.08.19-16.21.54
+[2017.08.19-16.21.54:003][446]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1
+[2017.08.19-16.21.54:004][446]LogNet: Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2017.08.19-16.21.54:004][446]LogNet: Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2017.08.19-16.21.54:004][446]LogNet: NetworkFailure: ConnectionLost, Error: 'Your connection to the host has been lost.'
+[2017.08.19-16.21.54:020][447]LogNet: Browse: /Game/Maps/MainMenu?closed
+[2017.08.19-16.21.54:020][447]LogNet: Failed; returning to Entry
+[2017.08.19-16.21.54:020][447]LogLoad: LoadMap: /Game/Maps/MainMenu?closed
+[2017.08.19-16.21.54:020][447]LogNet: World NetDriver shutdown IpNetDriver_11 [GameNetDriver]
+[2017.08.19-16.21.54:020][447]LogNet: DestroyNamedNetDriver IpNetDriver_11 [GameNetDriver]
+[2017.08.19-16.21.54:020][447]LogExit: GameNetDriver IpNetDriver_11 shut down
+[2017.08.19-16.21.54:040][447]Cmd: MEM
+[2017.08.19-16.21.54:057][447]LogMemory: Platform Memory Stats for Windows
+[2017.08.19-16.21.54:057][447]LogMemory: Process Physical Memory: 1537.25 MB used, 1588.94 MB peak
+[2017.08.19-16.21.54:057][447]LogMemory: Process Virtual Memory: 2399.78 MB used, 2504.43 MB peak
+[2017.08.19-16.21.54:057][447]LogMemory: Physical Memory: 5823.98 MB used,  2287.09 MB free, 8111.07 MB total
+[2017.08.19-16.21.54:057][447]LogMemory: Virtual Memory: 3296.66 MB used,  2287.09 MB free, 134217728.00 MB total
+[2017.08.19-16.21.54:057][447]LogMemory: 
+[2017.08.19-16.21.54:057][447]Allocator Stats for TBB: (not implemented)
+[2017.08.19-16.21.54:057][447]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_2_MainMenu
+[2017.08.19-16.21.54:059][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001036s)
+[2017.08.19-16.21.54:059][447]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.19-16.21.54:059][447]LogPlayLevel: PIE: World Init took: (0.000694s)
+[2017.08.19-16.21.54:059][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_2_MainMenu.MainMenu (0.001993s)
+[2017.08.19-16.21.54:059][447]LogLoad: Game class is 'MainMenu_C'
+[2017.08.19-16.21.54:061][447]LogWorld: Bringing World /Game/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.20-01.21.54
+[2017.08.19-16.21.54:061][447]LogWorld: Bringing up level for play took: 0.001092
+[2017.08.19-16.21.54:063][447]LogLoad: Took 0.042995 seconds to LoadMap(/Game/Maps/UEDPIE_2_MainMenu)
+[2017.08.19-16.21.54:909][536]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.21.54:954][536]LogScriptCore: Warning: Script Msg: DestroySession - Invalid or uninitialized OnlineSubsystem
+[2017.08.19-16.21.54:954][536]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
+[2017.08.19-16.21.54:987][536]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.22.12:379][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/OptionMenu" FILE="C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/UI/MainMenu/OptionMenu.uasset" SILENT=true
+[2017.08.19-16.22.12:483][335]LogSavePackage: Save=92.94ms
+[2017.08.19-16.22.12:483][335]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/OptionMenu8F5E8E7243153FA3FB14FE9189BD714F.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/UI/MainMenu/OptionMenu.uasset'
+[2017.08.19-16.22.12:485][335]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/UI/MainMenu/OptionMenu.uasset
+[2017.08.19-16.23.15:961][692]BlueprintLog: New page: Compile OptionMenu
+[2017.08.19-16.23.16:713][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/OptionMenu" FILE="C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/UI/MainMenu/OptionMenu.uasset" SILENT=true
+[2017.08.19-16.23.16:823][728]LogSavePackage: Save=97.61ms
+[2017.08.19-16.23.16:823][728]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/OptionMenuC33B38DF482523064CFAD79B08A868F9.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/UI/MainMenu/OptionMenu.uasset'
+[2017.08.19-16.23.16:827][728]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/UI/MainMenu/OptionMenu.uasset
+[2017.08.19-16.23.18:347][881]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.19-16.23.18:365][881]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.23.18:365][881]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.19-16.23.18:366][881]PIE: New page: PIE session: MainMenu (Aug 20, 2017, 10:23:18 AM)
+[2017.08.19-16.23.18:536][881]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_MainMenu
+[2017.08.19-16.23.18:537][881]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000949s)
+[2017.08.19-16.23.18:537][881]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.19-16.23.18:537][881]LogPlayLevel: PIE: World Init took: (0.000737s)
+[2017.08.19-16.23.18:538][881]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_1_MainMenu.MainMenu (0.001960s)
+[2017.08.19-16.23.18:563][881]LogInit: XAudio2 using '2477W1M-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.19-16.23.18:571][881]LogInit: FAudioDevice initialized.
+[2017.08.19-16.23.18:603][881]LogLoad: Game class is 'MainMenu_C'
+[2017.08.19-16.23.18:605][881]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.20-01.23.18
+[2017.08.19-16.23.18:605][881]LogWorld: Bringing up level for play took: 0.001010
+[2017.08.19-16.23.18:606][881]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.23.18:606][881]LogTemp: Display: ParseSettings for IpNetDriver_12
+[2017.08.19-16.23.18:606][881]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.23.18:606][881]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.08.19-16.23.18:607][881]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.19-16.23.18:607][881]LogNet: GameNetDriver IpNetDriver_12 IpNetDriver listening on port 7777
+[2017.08.19-16.23.18:608][881]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_MainMenu 0.44
+[2017.08.19-16.23.18:609][881]PIE: New page: PIE session: MainMenu (Aug 20, 2017, 10:23:18 AM)
+[2017.08.19-16.23.18:664][881]LogNet: Browse: 127.0.0.1//Game/Maps/MainMenu
+[2017.08.19-16.23.18:664][881]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.23.18:664][881]LogTemp: Display: ParseSettings for IpNetDriver_13
+[2017.08.19-16.23.18:664][881]LogTemp: Display: ParseSettings for PendingNetDriver
+[2017.08.19-16.23.18:664][881]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.08.19-16.23.18:665][881]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.19-16.23.18:665][881]LogNet: Game client on port 7777, rate 10000
+[2017.08.19-16.23.18:672][881]PIE: Play in editor start time for /Game/Maps/MainMenu 0.504
+[2017.08.19-16.23.18:681][881]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.23.18:682][881]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57835
+[2017.08.19-16.23.18:682][881]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 150010210129109119251174065154162137076062227245210010244132
+[2017.08.19-16.23.18:682][881]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 150010210129109119251174065154162137076062227245210010244132
+[2017.08.19-16.23.18:727][882]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57835
+[2017.08.19-16.23.18:727][882]LogHandshake: SendChallengeAck. InCookie: 150010210129109119251174065154162137076062227245210010244132
+[2017.08.19-16.23.18:727][882]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57835
+[2017.08.19-16.23.18:727][882]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.19-16.23.18:727][882]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 08/20/17 01:23:18, [UNetConnection] RemoteAddr: 127.0.0.1:57835, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: NULL, Owner: NULL
+[2017.08.19-16.23.18:727][882]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57835, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: NULL, Owner: NULL
+[2017.08.19-16.23.18:728][882]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_12, Driver: PendingNetDriver IpNetDriver_13, IsServer: NO, PC: NULL, Owner: NULL
+[2017.08.19-16.23.18:738][883]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_MainMenu.MainMenu: Accepted
+[2017.08.19-16.23.18:738][883]LogNet: Remote platform little endian=1
+[2017.08.19-16.23.18:738][883]LogNet: This platform little endian=1
+[2017.08.19-16.23.18:747][884]LogNet: Login request: /Game/Maps/MainMenu userId: Invalid
+[2017.08.19-16.23.18:748][884]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_MainMenu, Game: /Game/Blueprints/MainMenu/MainMenu.MainMenu_C)
+[2017.08.19-16.23.18:748][884]LogLoad: LoadMap: 127.0.0.1//Game/Maps/UEDPIE_1_MainMenu?game=/Game/Blueprints/MainMenu/MainMenu.MainMenu_C
+[2017.08.19-16.23.18:767][884]Cmd: MEM
+[2017.08.19-16.23.18:786][884]LogMemory: Platform Memory Stats for Windows
+[2017.08.19-16.23.18:786][884]LogMemory: Process Physical Memory: 1557.59 MB used, 1592.37 MB peak
+[2017.08.19-16.23.18:786][884]LogMemory: Process Virtual Memory: 2363.44 MB used, 2504.43 MB peak
+[2017.08.19-16.23.18:786][884]LogMemory: Physical Memory: 5842.25 MB used,  2268.82 MB free, 8111.07 MB total
+[2017.08.19-16.23.18:786][884]LogMemory: Virtual Memory: 3283.57 MB used,  2268.82 MB free, 134217728.00 MB total
+[2017.08.19-16.23.18:786][884]LogMemory: 
+[2017.08.19-16.23.18:786][884]Allocator Stats for TBB: (not implemented)
+[2017.08.19-16.23.18:788][884]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.19-16.23.18:788][884]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.23.18:790][884]LogWorld: Bringing World /Game/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.20-01.23.18
+[2017.08.19-16.23.18:790][884]LogWorld: Bringing up level for play took: 0.001312
+[2017.08.19-16.23.18:791][884]LogLoad: Took 0.042897 seconds to LoadMap(/Game/Maps/UEDPIE_1_MainMenu)
+[2017.08.19-16.23.18:805][885]LogNet: Client netspeed is 10000
+[2017.08.19-16.23.18:805][885]LogNet: Join request: /Game/Maps/MainMenu?SplitscreenCount=1
+[2017.08.19-16.23.18:806][885]LogNet: Join succeeded: 273
+[2017.08.19-16.23.23:603][452]LogScriptCore: Warning: Script Msg: CreateSession - Invalid or uninitialized OnlineSubsystem
+[2017.08.19-16.23.23:603][452]LogScriptCore: Warning: Script Msg: CreateSession - Cannot map local player to unique net ID
+[2017.08.19-16.23.23:605][452]LogNet: Browse: /Game/Maps/Lobby
+[2017.08.19-16.23.23:605][452]LogLoad: LoadMap: /Game/Maps/Lobby
+[2017.08.19-16.23.23:605][452]LogNet: World NetDriver shutdown IpNetDriver_12 [GameNetDriver]
+[2017.08.19-16.23.23:605][452]LogNet: DestroyNamedNetDriver IpNetDriver_12 [GameNetDriver]
+[2017.08.19-16.23.23:605][452]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:57835, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1
+[2017.08.19-16.23.23:605][452]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57835, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, Channels: 11, Time: 2017.08.19-16.23.23
+[2017.08.19-16.23.23:605][452]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57835, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1
+[2017.08.19-16.23.23:606][452]LogExit: GameNetDriver IpNetDriver_12 shut down
+[2017.08.19-16.23.23:624][452]Cmd: MEM
+[2017.08.19-16.23.23:641][452]LogMemory: Platform Memory Stats for Windows
+[2017.08.19-16.23.23:641][452]LogMemory: Process Physical Memory: 1567.13 MB used, 1599.74 MB peak
+[2017.08.19-16.23.23:641][452]LogMemory: Process Virtual Memory: 2367.90 MB used, 2504.43 MB peak
+[2017.08.19-16.23.23:641][452]LogMemory: Physical Memory: 5848.79 MB used,  2262.29 MB free, 8111.07 MB total
+[2017.08.19-16.23.23:641][452]LogMemory: Virtual Memory: 3331.59 MB used,  2262.29 MB free, 134217728.00 MB total
+[2017.08.19-16.23.23:641][452]LogMemory: 
+[2017.08.19-16.23.23:641][452]Allocator Stats for TBB: (not implemented)
+[2017.08.19-16.23.23:709][452]LogAIModule: Creating AISystem for world Lobby
+[2017.08.19-16.23.23:710][452]LogLoad: Game class is 'LobbyGM_C'
+[2017.08.19-16.23.23:713][452]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Lobby.Lobby up for play (max tick rate 0) at 2017.08.20-01.23.23
+[2017.08.19-16.23.23:713][452]LogWorld: Bringing up level for play took: 0.002136
+[2017.08.19-16.23.23:717][452]LogLoad: Took 0.112216 seconds to LoadMap(/Game/Maps/Lobby)
+[2017.08.19-16.23.23:718][452]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2017.08.19-16.23.23:718][452]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2017.08.19-16.23.23:718][452]LogNet: NetworkFailure: FailureReceived, Error: 'Host closed the connection.'
+[2017.08.19-16.23.23:718][452]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_12, Driver: GameNetDriver IpNetDriver_13, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, Channels: 11, Time: 2017.08.19-16.23.23
+[2017.08.19-16.23.23:718][452]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_12, Driver: GameNetDriver IpNetDriver_13, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1
+[2017.08.19-16.23.23:718][452]LogNet: Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2017.08.19-16.23.23:718][452]LogNet: Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2017.08.19-16.23.23:718][452]LogNet: NetworkFailure: ConnectionLost, Error: 'Your connection to the host has been lost.'
+[2017.08.19-16.23.23:734][453]LogNet: Browse: /Game/Maps/MainMenu?closed
+[2017.08.19-16.23.23:734][453]LogNet: Failed; returning to Entry
+[2017.08.19-16.23.23:734][453]LogLoad: LoadMap: /Game/Maps/MainMenu?closed
+[2017.08.19-16.23.23:734][453]LogNet: World NetDriver shutdown IpNetDriver_13 [GameNetDriver]
+[2017.08.19-16.23.23:734][453]LogNet: DestroyNamedNetDriver IpNetDriver_13 [GameNetDriver]
+[2017.08.19-16.23.23:734][453]LogExit: GameNetDriver IpNetDriver_13 shut down
+[2017.08.19-16.23.23:756][453]Cmd: MEM
+[2017.08.19-16.23.23:776][453]LogMemory: Platform Memory Stats for Windows
+[2017.08.19-16.23.23:776][453]LogMemory: Process Physical Memory: 1573.51 MB used, 1599.74 MB peak
+[2017.08.19-16.23.23:776][453]LogMemory: Process Virtual Memory: 2439.84 MB used, 2504.43 MB peak
+[2017.08.19-16.23.23:776][453]LogMemory: Physical Memory: 5854.00 MB used,  2257.08 MB free, 8111.07 MB total
+[2017.08.19-16.23.23:776][453]LogMemory: Virtual Memory: 3335.65 MB used,  2257.08 MB free, 134217728.00 MB total
+[2017.08.19-16.23.23:776][453]LogMemory: 
+[2017.08.19-16.23.23:776][453]Allocator Stats for TBB: (not implemented)
+[2017.08.19-16.23.23:776][453]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_2_MainMenu
+[2017.08.19-16.23.23:777][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001043s)
+[2017.08.19-16.23.23:778][453]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.19-16.23.23:778][453]LogPlayLevel: PIE: World Init took: (0.000672s)
+[2017.08.19-16.23.23:778][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_2_MainMenu.MainMenu (0.001992s)
+[2017.08.19-16.23.23:778][453]LogLoad: Game class is 'MainMenu_C'
+[2017.08.19-16.23.23:780][453]LogWorld: Bringing World /Game/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.20-01.23.23
+[2017.08.19-16.23.23:780][453]LogWorld: Bringing up level for play took: 0.001277
+[2017.08.19-16.23.23:782][453]LogLoad: Took 0.048218 seconds to LoadMap(/Game/Maps/UEDPIE_2_MainMenu)
+[2017.08.19-16.23.25:556][657]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.23.25:605][657]LogScriptCore: Warning: Script Msg: DestroySession - Invalid or uninitialized OnlineSubsystem
+[2017.08.19-16.23.25:605][657]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
+[2017.08.19-16.23.25:637][657]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.23.33:762][300]BlueprintLog: New page: Compile OptionMenu
+[2017.08.19-16.23.34:447][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/OptionMenu" FILE="C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/UI/MainMenu/OptionMenu.uasset" SILENT=true
+[2017.08.19-16.23.34:553][331]LogSavePackage: Save=94.58ms
+[2017.08.19-16.23.34:553][331]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/OptionMenuD546DEF744E282280DA16582360E91E2.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/UI/MainMenu/OptionMenu.uasset'
+[2017.08.19-16.23.34:558][331]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/UI/MainMenu/OptionMenu.uasset
+[2017.08.19-16.27.19:374][ 34]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.022
+[2017.08.19-16.27.19:377][ 34]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu/OptionMenu] ([1] browsable assets)...
+[2017.08.19-16.27.19:377][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu/OptionMenu]
+[2017.08.19-16.27.19:486][ 34]LogSavePackage: Save=93.77ms
+[2017.08.19-16.27.19:487][ 34]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/OptionMenu_Auto1C97B244745EE4E519CA0A6A4C56E1CA8.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/Autosaves/Game/UI/MainMenu/OptionMenu_Auto1.uasset'
+[2017.08.19-16.27.19:489][ 34]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/Autosaves/Game/UI/MainMenu/OptionMenu_Auto1.uasset
+[2017.08.19-16.27.19:490][ 34]LogFileHelpers: Auto-saving content packages took 0.115
+[2017.08.19-16.32.05:669][528]BlueprintLog: New page: Compile OptionMenu
+[2017.08.19-16.32.06:390][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/OptionMenu" FILE="C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/UI/MainMenu/OptionMenu.uasset" SILENT=true
+[2017.08.19-16.32.06:500][569]LogSavePackage: Save=95.71ms
+[2017.08.19-16.32.06:500][569]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/OptionMenu14040279433073275C1F959A8AEC6349.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/UI/MainMenu/OptionMenu.uasset'
+[2017.08.19-16.32.06:506][569]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/UI/MainMenu/OptionMenu.uasset
+[2017.08.19-16.32.08:339][767]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.19-16.32.08:356][767]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.32.08:357][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.19-16.32.08:358][767]PIE: New page: PIE session: MainMenu (Aug 20, 2017, 10:32:08 AM)
+[2017.08.19-16.32.08:540][767]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_MainMenu
+[2017.08.19-16.32.08:541][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001361s)
+[2017.08.19-16.32.08:542][767]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.19-16.32.08:542][767]LogPlayLevel: PIE: World Init took: (0.000849s)
+[2017.08.19-16.32.08:542][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_1_MainMenu.MainMenu (0.002567s)
+[2017.08.19-16.32.08:569][767]LogInit: XAudio2 using '2477W1M-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.19-16.32.08:577][767]LogInit: FAudioDevice initialized.
+[2017.08.19-16.32.08:610][767]LogLoad: Game class is 'MainMenu_C'
+[2017.08.19-16.32.08:612][767]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.20-01.32.08
+[2017.08.19-16.32.08:612][767]LogWorld: Bringing up level for play took: 0.001045
+[2017.08.19-16.32.08:613][767]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.32.08:613][767]LogTemp: Display: ParseSettings for IpNetDriver_14
+[2017.08.19-16.32.08:613][767]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.32.08:613][767]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.08.19-16.32.08:614][767]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.19-16.32.08:614][767]LogNet: GameNetDriver IpNetDriver_14 IpNetDriver listening on port 7777
+[2017.08.19-16.32.08:615][767]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_MainMenu 0.448
+[2017.08.19-16.32.08:617][767]PIE: New page: PIE session: MainMenu (Aug 20, 2017, 10:32:08 AM)
+[2017.08.19-16.32.08:673][767]LogNet: Browse: 127.0.0.1//Game/Maps/MainMenu
+[2017.08.19-16.32.08:673][767]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.32.08:673][767]LogTemp: Display: ParseSettings for IpNetDriver_15
+[2017.08.19-16.32.08:673][767]LogTemp: Display: ParseSettings for PendingNetDriver
+[2017.08.19-16.32.08:673][767]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.08.19-16.32.08:673][767]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.19-16.32.08:673][767]LogNet: Game client on port 7777, rate 10000
+[2017.08.19-16.32.08:680][767]PIE: Play in editor start time for /Game/Maps/MainMenu 0.512
+[2017.08.19-16.32.08:690][767]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.32.08:691][767]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56427
+[2017.08.19-16.32.08:691][767]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 059040228177087230063197063111143158180053188096148030097049
+[2017.08.19-16.32.08:692][767]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 059040228177087230063197063111143158180053188096148030097049
+[2017.08.19-16.32.08:737][768]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56427
+[2017.08.19-16.32.08:738][768]LogHandshake: SendChallengeAck. InCookie: 059040228177087230063197063111143158180053188096148030097049
+[2017.08.19-16.32.08:738][768]LogNet: Server accepting post-challenge connection from: 127.0.0.1:56427
+[2017.08.19-16.32.08:738][768]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.19-16.32.08:738][768]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 08/20/17 01:32:08, [UNetConnection] RemoteAddr: 127.0.0.1:56427, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_14, IsServer: YES, PC: NULL, Owner: NULL
+[2017.08.19-16.32.08:738][768]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:56427, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_14, IsServer: YES, PC: NULL, Owner: NULL
+[2017.08.19-16.32.08:738][768]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_14, Driver: PendingNetDriver IpNetDriver_15, IsServer: NO, PC: NULL, Owner: NULL
+[2017.08.19-16.32.08:749][769]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_MainMenu.MainMenu: Accepted
+[2017.08.19-16.32.08:749][769]LogNet: Remote platform little endian=1
+[2017.08.19-16.32.08:749][769]LogNet: This platform little endian=1
+[2017.08.19-16.32.08:758][770]LogNet: Login request: /Game/Maps/MainMenu userId: Invalid
+[2017.08.19-16.32.08:759][770]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_MainMenu, Game: /Game/Blueprints/MainMenu/MainMenu.MainMenu_C)
+[2017.08.19-16.32.08:759][770]LogLoad: LoadMap: 127.0.0.1//Game/Maps/UEDPIE_1_MainMenu?game=/Game/Blueprints/MainMenu/MainMenu.MainMenu_C
+[2017.08.19-16.32.08:778][770]Cmd: MEM
+[2017.08.19-16.32.08:796][770]LogMemory: Platform Memory Stats for Windows
+[2017.08.19-16.32.08:796][770]LogMemory: Process Physical Memory: 1531.93 MB used, 1602.83 MB peak
+[2017.08.19-16.32.08:796][770]LogMemory: Process Virtual Memory: 2335.64 MB used, 2504.43 MB peak
+[2017.08.19-16.32.08:796][770]LogMemory: Physical Memory: 5770.79 MB used,  2340.29 MB free, 8111.07 MB total
+[2017.08.19-16.32.08:796][770]LogMemory: Virtual Memory: 3238.80 MB used,  2340.29 MB free, 134217728.00 MB total
+[2017.08.19-16.32.08:796][770]LogMemory: 
+[2017.08.19-16.32.08:796][770]Allocator Stats for TBB: (not implemented)
+[2017.08.19-16.32.08:798][770]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.19-16.32.08:798][770]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.32.08:800][770]LogWorld: Bringing World /Game/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.20-01.32.08
+[2017.08.19-16.32.08:800][770]LogWorld: Bringing up level for play took: 0.001043
+[2017.08.19-16.32.08:801][770]LogLoad: Took 0.041803 seconds to LoadMap(/Game/Maps/UEDPIE_1_MainMenu)
+[2017.08.19-16.32.08:815][771]LogNet: Client netspeed is 10000
+[2017.08.19-16.32.08:815][771]LogNet: Join request: /Game/Maps/MainMenu?SplitscreenCount=1
+[2017.08.19-16.32.08:816][771]LogNet: Join succeeded: 277
+[2017.08.19-16.32.18:738][898]LogScriptCore: Warning: Script Msg: CreateSession - Invalid or uninitialized OnlineSubsystem
+[2017.08.19-16.32.18:738][898]LogScriptCore: Warning: Script Msg: CreateSession - Cannot map local player to unique net ID
+[2017.08.19-16.32.18:742][898]LogNet: Browse: /Game/Maps/Lobby
+[2017.08.19-16.32.18:742][898]LogLoad: LoadMap: /Game/Maps/Lobby
+[2017.08.19-16.32.18:742][898]LogNet: World NetDriver shutdown IpNetDriver_14 [GameNetDriver]
+[2017.08.19-16.32.18:742][898]LogNet: DestroyNamedNetDriver IpNetDriver_14 [GameNetDriver]
+[2017.08.19-16.32.18:742][898]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:56427, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_14, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1
+[2017.08.19-16.32.18:743][898]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:56427, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_14, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, Channels: 11, Time: 2017.08.19-16.32.18
+[2017.08.19-16.32.18:743][898]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56427, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_14, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1
+[2017.08.19-16.32.18:743][898]LogExit: GameNetDriver IpNetDriver_14 shut down
+[2017.08.19-16.32.18:763][898]Cmd: MEM
+[2017.08.19-16.32.18:780][898]LogMemory: Platform Memory Stats for Windows
+[2017.08.19-16.32.18:780][898]LogMemory: Process Physical Memory: 1561.72 MB used, 1602.83 MB peak
+[2017.08.19-16.32.18:780][898]LogMemory: Process Virtual Memory: 2361.34 MB used, 2504.43 MB peak
+[2017.08.19-16.32.18:780][898]LogMemory: Physical Memory: 5803.11 MB used,  2307.96 MB free, 8111.07 MB total
+[2017.08.19-16.32.18:780][898]LogMemory: Virtual Memory: 3299.26 MB used,  2307.96 MB free, 134217728.00 MB total
+[2017.08.19-16.32.18:780][898]LogMemory: 
+[2017.08.19-16.32.18:780][898]Allocator Stats for TBB: (not implemented)
+[2017.08.19-16.32.18:849][898]LogAIModule: Creating AISystem for world Lobby
+[2017.08.19-16.32.18:849][898]LogLoad: Game class is 'LobbyGM_C'
+[2017.08.19-16.32.18:852][898]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Lobby.Lobby up for play (max tick rate 0) at 2017.08.20-01.32.18
+[2017.08.19-16.32.18:853][898]LogWorld: Bringing up level for play took: 0.002295
+[2017.08.19-16.32.18:857][898]LogLoad: Took 0.114966 seconds to LoadMap(/Game/Maps/Lobby)
+[2017.08.19-16.32.18:858][898]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2017.08.19-16.32.18:858][898]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2017.08.19-16.32.18:858][898]LogNet: NetworkFailure: FailureReceived, Error: 'Host closed the connection.'
+[2017.08.19-16.32.18:858][898]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_14, Driver: GameNetDriver IpNetDriver_15, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, Channels: 11, Time: 2017.08.19-16.32.18
+[2017.08.19-16.32.18:858][898]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_14, Driver: GameNetDriver IpNetDriver_15, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1
+[2017.08.19-16.32.18:858][898]LogNet: Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2017.08.19-16.32.18:858][898]LogNet: Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2017.08.19-16.32.18:858][898]LogNet: NetworkFailure: ConnectionLost, Error: 'Your connection to the host has been lost.'
+[2017.08.19-16.32.18:874][899]LogNet: Browse: /Game/Maps/MainMenu?closed
+[2017.08.19-16.32.18:874][899]LogNet: Failed; returning to Entry
+[2017.08.19-16.32.18:874][899]LogLoad: LoadMap: /Game/Maps/MainMenu?closed
+[2017.08.19-16.32.18:874][899]LogNet: World NetDriver shutdown IpNetDriver_15 [GameNetDriver]
+[2017.08.19-16.32.18:874][899]LogNet: DestroyNamedNetDriver IpNetDriver_15 [GameNetDriver]
+[2017.08.19-16.32.18:874][899]LogExit: GameNetDriver IpNetDriver_15 shut down
+[2017.08.19-16.32.18:894][899]Cmd: MEM
+[2017.08.19-16.32.18:913][899]LogMemory: Platform Memory Stats for Windows
+[2017.08.19-16.32.18:914][899]LogMemory: Process Physical Memory: 1566.65 MB used, 1602.83 MB peak
+[2017.08.19-16.32.18:914][899]LogMemory: Process Virtual Memory: 2431.80 MB used, 2504.43 MB peak
+[2017.08.19-16.32.18:914][899]LogMemory: Physical Memory: 5806.14 MB used,  2304.93 MB free, 8111.07 MB total
+[2017.08.19-16.32.18:914][899]LogMemory: Virtual Memory: 3317.32 MB used,  2304.93 MB free, 134217728.00 MB total
+[2017.08.19-16.32.18:914][899]LogMemory: 
+[2017.08.19-16.32.18:914][899]Allocator Stats for TBB: (not implemented)
+[2017.08.19-16.32.18:914][899]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_2_MainMenu
+[2017.08.19-16.32.18:915][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001136s)
+[2017.08.19-16.32.18:915][899]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.19-16.32.18:916][899]LogPlayLevel: PIE: World Init took: (0.000661s)
+[2017.08.19-16.32.18:916][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_2_MainMenu.MainMenu (0.002096s)
+[2017.08.19-16.32.18:916][899]LogLoad: Game class is 'MainMenu_C'
+[2017.08.19-16.32.18:917][899]LogWorld: Bringing World /Game/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.20-01.32.18
+[2017.08.19-16.32.18:917][899]LogWorld: Bringing up level for play took: 0.000903
+[2017.08.19-16.32.18:919][899]LogLoad: Took 0.044679 seconds to LoadMap(/Game/Maps/UEDPIE_2_MainMenu)
+[2017.08.19-16.32.21:814][236]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.32.21:862][236]LogScriptCore: Warning: Script Msg: DestroySession - Invalid or uninitialized OnlineSubsystem
+[2017.08.19-16.32.21:862][236]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
+[2017.08.19-16.32.21:895][236]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.32.23:740][454]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.19-16.32.23:759][454]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.32.23:759][454]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.19-16.32.23:761][454]PIE: New page: PIE session: MainMenu (Aug 20, 2017, 10:32:23 AM)
+[2017.08.19-16.32.23:929][454]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_MainMenu
+[2017.08.19-16.32.23:930][454]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000922s)
+[2017.08.19-16.32.23:930][454]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.19-16.32.23:930][454]LogPlayLevel: PIE: World Init took: (0.000670s)
+[2017.08.19-16.32.23:931][454]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_1_MainMenu.MainMenu (0.001858s)
+[2017.08.19-16.32.23:959][454]LogInit: XAudio2 using '2477W1M-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.19-16.32.23:967][454]LogInit: FAudioDevice initialized.
+[2017.08.19-16.32.24:000][454]LogLoad: Game class is 'MainMenu_C'
+[2017.08.19-16.32.24:002][454]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.20-01.32.24
+[2017.08.19-16.32.24:003][454]LogWorld: Bringing up level for play took: 0.000982
+[2017.08.19-16.32.24:003][454]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.32.24:004][454]LogTemp: Display: ParseSettings for IpNetDriver_16
+[2017.08.19-16.32.24:004][454]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.32.24:004][454]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.08.19-16.32.24:004][454]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.19-16.32.24:004][454]LogNet: GameNetDriver IpNetDriver_16 IpNetDriver listening on port 7777
+[2017.08.19-16.32.24:006][454]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_MainMenu -0.163
+[2017.08.19-16.32.24:007][454]PIE: New page: PIE session: MainMenu (Aug 20, 2017, 10:32:24 AM)
+[2017.08.19-16.32.24:071][454]LogNet: Browse: 127.0.0.1//Game/Maps/MainMenu
+[2017.08.19-16.32.24:071][454]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.32.24:071][454]LogTemp: Display: ParseSettings for IpNetDriver_17
+[2017.08.19-16.32.24:071][454]LogTemp: Display: ParseSettings for PendingNetDriver
+[2017.08.19-16.32.24:071][454]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.08.19-16.32.24:071][454]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.19-16.32.24:071][454]LogNet: Game client on port 7777, rate 10000
+[2017.08.19-16.32.24:077][454]PIE: Play in editor start time for /Game/Maps/MainMenu -0.091
+[2017.08.19-16.32.24:086][454]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.32.24:086][454]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56428
+[2017.08.19-16.32.24:086][454]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 036206109088232045160023255179116243199031248199216174172138
+[2017.08.19-16.32.24:087][454]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 036206109088232045160023255179116243199031248199216174172138
+[2017.08.19-16.32.24:130][455]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56428
+[2017.08.19-16.32.24:130][455]LogHandshake: SendChallengeAck. InCookie: 036206109088232045160023255179116243199031248199216174172138
+[2017.08.19-16.32.24:130][455]LogNet: Server accepting post-challenge connection from: 127.0.0.1:56428
+[2017.08.19-16.32.24:130][455]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.19-16.32.24:131][455]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 08/20/17 01:32:24, [UNetConnection] RemoteAddr: 127.0.0.1:56428, Name: IpConnection_17, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: NULL, Owner: NULL
+[2017.08.19-16.32.24:131][455]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:56428, Name: IpConnection_17, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: NULL, Owner: NULL
+[2017.08.19-16.32.24:131][455]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_16, Driver: PendingNetDriver IpNetDriver_17, IsServer: NO, PC: NULL, Owner: NULL
+[2017.08.19-16.32.24:140][456]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_MainMenu.MainMenu: Accepted
+[2017.08.19-16.32.24:141][456]LogNet: Remote platform little endian=1
+[2017.08.19-16.32.24:141][456]LogNet: This platform little endian=1
+[2017.08.19-16.32.24:148][457]LogNet: Login request: /Game/Maps/MainMenu userId: Invalid
+[2017.08.19-16.32.24:149][457]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_MainMenu, Game: /Game/Blueprints/MainMenu/MainMenu.MainMenu_C)
+[2017.08.19-16.32.24:149][457]LogLoad: LoadMap: 127.0.0.1//Game/Maps/UEDPIE_1_MainMenu?game=/Game/Blueprints/MainMenu/MainMenu.MainMenu_C
+[2017.08.19-16.32.24:168][457]Cmd: MEM
+[2017.08.19-16.32.24:185][457]LogMemory: Platform Memory Stats for Windows
+[2017.08.19-16.32.24:185][457]LogMemory: Process Physical Memory: 1691.73 MB used, 1691.74 MB peak
+[2017.08.19-16.32.24:185][457]LogMemory: Process Virtual Memory: 2398.63 MB used, 2504.43 MB peak
+[2017.08.19-16.32.24:185][457]LogMemory: Physical Memory: 5929.99 MB used,  2181.08 MB free, 8111.07 MB total
+[2017.08.19-16.32.24:185][457]LogMemory: Virtual Memory: 3295.93 MB used,  2181.08 MB free, 134217728.00 MB total
+[2017.08.19-16.32.24:185][457]LogMemory: 
+[2017.08.19-16.32.24:185][457]Allocator Stats for TBB: (not implemented)
+[2017.08.19-16.32.24:187][457]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.19-16.32.24:187][457]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.32.24:189][457]LogWorld: Bringing World /Game/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.20-01.32.24
+[2017.08.19-16.32.24:189][457]LogWorld: Bringing up level for play took: 0.001203
+[2017.08.19-16.32.24:190][457]LogLoad: Took 0.040877 seconds to LoadMap(/Game/Maps/UEDPIE_1_MainMenu)
+[2017.08.19-16.32.24:204][458]LogNet: Client netspeed is 10000
+[2017.08.19-16.32.24:204][458]LogNet: Join request: /Game/Maps/MainMenu?SplitscreenCount=1
+[2017.08.19-16.32.24:206][458]LogNet: Join succeeded: 281
+[2017.08.19-16.32.32:663][468]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.32.32:740][468]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.32.32:760][468]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56428, Name: IpConnection_17, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: None, Owner: None
+[2017.08.19-16.32.32:760][468]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:56428, Name: IpConnection_17, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2017.08.19-16.32.32
+[2017.08.19-16.32.32:760][468]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56428, Name: IpConnection_17, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: None, Owner: None
+[2017.08.19-16.32.32:760][468]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_16, Driver: GameNetDriver IpNetDriver_17, IsServer: NO, PC: None, Owner: None
+[2017.08.19-16.32.32:760][468]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_16, Driver: GameNetDriver IpNetDriver_17, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2017.08.19-16.32.32
+[2017.08.19-16.32.32:760][468]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_16, Driver: GameNetDriver IpNetDriver_17, IsServer: NO, PC: None, Owner: None
+[2017.08.19-16.32.32:762][468]LogExit: GameNetDriver None shut down
+[2017.08.19-16.32.32:763][468]LogExit: GameNetDriver None shut down
+[2017.08.19-16.32.44:099][695]LogEditorViewport: Clicking Background
+[2017.08.19-16.32.44:908][791]LogTemp: Repeating last play command: Selected Viewport
+[2017.08.19-16.32.44:926][791]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.32.44:926][791]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.19-16.32.44:928][791]PIE: New page: PIE session: MainMenu (Aug 20, 2017, 10:32:44 AM)
+[2017.08.19-16.32.44:928][791]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_MainMenu
+[2017.08.19-16.32.44:930][791]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001018s)
+[2017.08.19-16.32.44:930][791]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.19-16.32.44:930][791]LogPlayLevel: PIE: World Init took: (0.000640s)
+[2017.08.19-16.32.44:930][791]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_1_MainMenu.MainMenu (0.001929s)
+[2017.08.19-16.32.44:957][791]LogInit: XAudio2 using '2477W1M-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.19-16.32.44:964][791]LogInit: FAudioDevice initialized.
+[2017.08.19-16.32.44:997][791]LogLoad: Game class is 'MainMenu_C'
+[2017.08.19-16.32.44:998][791]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.20-01.32.44
+[2017.08.19-16.32.44:999][791]LogWorld: Bringing up level for play took: 0.000688
+[2017.08.19-16.32.45:000][791]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.32.45:000][791]LogTemp: Display: ParseSettings for IpNetDriver_18
+[2017.08.19-16.32.45:000][791]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.32.45:000][791]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.08.19-16.32.45:000][791]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.19-16.32.45:001][791]LogNet: GameNetDriver IpNetDriver_18 IpNetDriver listening on port 7777
+[2017.08.19-16.32.45:002][791]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_MainMenu 0.834
+[2017.08.19-16.32.45:004][791]PIE: New page: PIE session: MainMenu (Aug 20, 2017, 10:32:45 AM)
+[2017.08.19-16.32.45:053][791]LogNet: Browse: 127.0.0.1//Game/Maps/MainMenu
+[2017.08.19-16.32.45:053][791]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.32.45:053][791]LogTemp: Display: ParseSettings for IpNetDriver_19
+[2017.08.19-16.32.45:053][791]LogTemp: Display: ParseSettings for PendingNetDriver
+[2017.08.19-16.32.45:053][791]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.08.19-16.32.45:054][791]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.19-16.32.45:054][791]LogNet: Game client on port 7777, rate 10000
+[2017.08.19-16.32.45:060][791]PIE: Play in editor start time for /Game/Maps/MainMenu 0.892
+[2017.08.19-16.32.45:068][791]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.19-16.32.45:069][791]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56429
+[2017.08.19-16.32.45:069][791]LogHandshake: SendConnectChallenge. Timestamp: 0.008336, Cookie: 114180170111091028188100176007034211014067049057009077064115
+[2017.08.19-16.32.45:070][791]LogHandshake: SendChallengeResponse. Timestamp: 0.008336, Cookie: 114180170111091028188100176007034211014067049057009077064115
+[2017.08.19-16.32.45:118][792]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56429
+[2017.08.19-16.32.45:118][792]LogHandshake: SendChallengeAck. InCookie: 114180170111091028188100176007034211014067049057009077064115
+[2017.08.19-16.32.45:118][792]LogNet: Server accepting post-challenge connection from: 127.0.0.1:56429
+[2017.08.19-16.32.45:118][792]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.19-16.32.45:118][792]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 08/20/17 01:32:45, [UNetConnection] RemoteAddr: 127.0.0.1:56429, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_18, IsServer: YES, PC: NULL, Owner: NULL
+[2017.08.19-16.32.45:118][792]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:56429, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_18, IsServer: YES, PC: NULL, Owner: NULL
+[2017.08.19-16.32.45:119][792]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_18, Driver: PendingNetDriver IpNetDriver_19, IsServer: NO, PC: NULL, Owner: NULL
+[2017.08.19-16.32.45:127][793]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_MainMenu.MainMenu: Accepted
+[2017.08.19-16.32.45:128][793]LogNet: Remote platform little endian=1
+[2017.08.19-16.32.45:128][793]LogNet: This platform little endian=1
+[2017.08.19-16.32.45:135][794]LogNet: Login request: /Game/Maps/MainMenu userId: Invalid
+[2017.08.19-16.32.45:136][794]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_MainMenu, Game: /Game/Blueprints/MainMenu/MainMenu.MainMenu_C)
+[2017.08.19-16.32.45:136][794]LogLoad: LoadMap: 127.0.0.1//Game/Maps/UEDPIE_1_MainMenu?game=/Game/Blueprints/MainMenu/MainMenu.MainMenu_C
+[2017.08.19-16.32.45:159][794]Cmd: MEM
+[2017.08.19-16.32.45:179][794]LogMemory: Platform Memory Stats for Windows
+[2017.08.19-16.32.45:179][794]LogMemory: Process Physical Memory: 1560.44 MB used, 1722.20 MB peak
+[2017.08.19-16.32.45:179][794]LogMemory: Process Virtual Memory: 2358.20 MB used, 2504.43 MB peak
+[2017.08.19-16.32.45:179][794]LogMemory: Physical Memory: 5934.10 MB used,  2176.97 MB free, 8111.07 MB total
+[2017.08.19-16.32.45:179][794]LogMemory: Virtual Memory: 3271.93 MB used,  2176.97 MB free, 134217728.00 MB total
+[2017.08.19-16.32.45:179][794]LogMemory: 
+[2017.08.19-16.32.45:179][794]Allocator Stats for TBB: (not implemented)
+[2017.08.19-16.32.45:181][794]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.19-16.32.45:181][794]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.19-16.32.45:183][794]LogWorld: Bringing World /Game/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.20-01.32.45
+[2017.08.19-16.32.45:183][794]LogWorld: Bringing up level for play took: 0.001384
+[2017.08.19-16.32.45:184][794]LogLoad: Took 0.047969 seconds to LoadMap(/Game/Maps/UEDPIE_1_MainMenu)
+[2017.08.19-16.32.45:197][795]LogNet: Client netspeed is 10000
+[2017.08.19-16.32.45:198][795]LogNet: Join request: /Game/Maps/MainMenu?SplitscreenCount=1
+[2017.08.19-16.32.45:199][795]LogNet: Join succeeded: 283
+[2017.08.19-16.33.01:431][692]LogScriptCore: Warning: Script Msg: CreateSession - Invalid or uninitialized OnlineSubsystem
+[2017.08.19-16.33.01:431][692]LogScriptCore: Warning: Script Msg: CreateSession - Cannot map local player to unique net ID
+[2017.08.19-16.33.01:432][692]LogNet: Browse: /Game/Maps/Lobby
+[2017.08.19-16.33.01:433][692]LogLoad: LoadMap: /Game/Maps/Lobby
+[2017.08.19-16.33.01:433][692]LogNet: World NetDriver shutdown IpNetDriver_18 [GameNetDriver]
+[2017.08.19-16.33.01:433][692]LogNet: DestroyNamedNetDriver IpNetDriver_18 [GameNetDriver]
+[2017.08.19-16.33.01:433][692]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:56429, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_18, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1
+[2017.08.19-16.33.01:433][692]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:56429, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_18, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, Channels: 11, Time: 2017.08.19-16.33.01
+[2017.08.19-16.33.01:433][692]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56429, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_18, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1
+[2017.08.19-16.33.01:433][692]LogExit: GameNetDriver IpNetDriver_18 shut down
+[2017.08.19-16.33.01:455][692]Cmd: MEM
+[2017.08.19-16.33.01:472][692]LogMemory: Platform Memory Stats for Windows
+[2017.08.19-16.33.01:472][692]LogMemory: Process Physical Memory: 1567.25 MB used, 1722.20 MB peak
+[2017.08.19-16.33.01:472][692]LogMemory: Process Virtual Memory: 2365.84 MB used, 2504.43 MB peak
+[2017.08.19-16.33.01:472][692]LogMemory: Physical Memory: 5929.35 MB used,  2181.72 MB free, 8111.07 MB total
+[2017.08.19-16.33.01:472][692]LogMemory: Virtual Memory: 3303.95 MB used,  2181.72 MB free, 134217728.00 MB total
+[2017.08.19-16.33.01:472][692]LogMemory: 
+[2017.08.19-16.33.01:472][692]Allocator Stats for TBB: (not implemented)
+[2017.08.19-16.33.01:545][692]LogAIModule: Creating AISystem for world Lobby
+[2017.08.19-16.33.01:545][692]LogLoad: Game class is 'LobbyGM_C'
+[2017.08.19-16.33.01:548][692]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Lobby.Lobby up for play (max tick rate 0) at 2017.08.20-01.33.01
+[2017.08.19-16.33.01:548][692]LogWorld: Bringing up level for play took: 0.002427
+[2017.08.19-16.33.01:554][692]LogLoad: Took 0.121812 seconds to LoadMap(/Game/Maps/Lobby)
+[2017.08.19-16.33.01:555][692]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2017.08.19-16.33.01:555][692]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2017.08.19-16.33.01:555][692]LogNet: NetworkFailure: FailureReceived, Error: 'Host closed the connection.'
+[2017.08.19-16.33.01:555][692]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_18, Driver: GameNetDriver IpNetDriver_19, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, Channels: 11, Time: 2017.08.19-16.33.01
+[2017.08.19-16.33.01:555][692]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_18, Driver: GameNetDriver IpNetDriver_19, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1
+[2017.08.19-16.33.01:555][692]LogNet: Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2017.08.19-16.33.01:555][692]LogNet: Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2017.08.19-16.33.01:555][692]LogNet: NetworkFailure: ConnectionLost, Error: 'Your connection to the host has been lost.'
+[2017.08.19-16.33.01:571][693]LogNet: Browse: /Game/Maps/MainMenu?closed
+[2017.08.19-16.33.01:571][693]LogNet: Failed; returning to Entry
+[2017.08.19-16.33.01:571][693]LogLoad: LoadMap: /Game/Maps/MainMenu?closed
+[2017.08.19-16.33.01:571][693]LogNet: World NetDriver shutdown IpNetDriver_19 [GameNetDriver]
+[2017.08.19-16.33.01:571][693]LogNet: DestroyNamedNetDriver IpNetDriver_19 [GameNetDriver]
+[2017.08.19-16.33.01:572][693]LogExit: GameNetDriver IpNetDriver_19 shut down
+[2017.08.19-16.33.01:593][693]Cmd: MEM
+[2017.08.19-16.33.01:611][693]LogMemory: Platform Memory Stats for Windows
+[2017.08.19-16.33.01:611][693]LogMemory: Process Physical Memory: 1572.27 MB used, 1722.20 MB peak
+[2017.08.19-16.33.01:612][693]LogMemory: Process Virtual Memory: 2433.13 MB used, 2504.43 MB peak
+[2017.08.19-16.33.01:612][693]LogMemory: Physical Memory: 5935.17 MB used,  2175.90 MB free, 8111.07 MB total
+[2017.08.19-16.33.01:612][693]LogMemory: Virtual Memory: 3330.01 MB used,  2175.90 MB free, 134217728.00 MB total
+[2017.08.19-16.33.01:612][693]LogMemory: 
+[2017.08.19-16.33.01:612][693]Allocator Stats for TBB: (not implemented)
+[2017.08.19-16.33.01:612][693]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_2_MainMenu
+[2017.08.19-16.33.01:613][693]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001054s)
+[2017.08.19-16.33.01:613][693]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.19-16.33.01:614][693]LogPlayLevel: PIE: World Init took: (0.000967s)
+[2017.08.19-16.33.01:614][693]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_2_MainMenu.MainMenu (0.002357s)
+[2017.08.19-16.33.01:614][693]LogLoad: Game class is 'MainMenu_C'
+[2017.08.19-16.33.01:616][693]LogWorld: Bringing World /Game/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.20-01.33.01
+[2017.08.19-16.33.01:616][693]LogWorld: Bringing up level for play took: 0.001422
+[2017.08.19-16.33.01:619][693]LogLoad: Took 0.047215 seconds to LoadMap(/Game/Maps/UEDPIE_2_MainMenu)
+[2017.08.19-16.33.13:365][ 11]Cmd: servertravel /Game/Maps/Map
+[2017.08.19-16.33.13:365][ 11]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2017.08.19-16.33.13:366][ 11]LogNet: Browse: /Game/Maps/Map
+[2017.08.19-16.33.13:366][ 11]LogLoad: LoadMap: /Game/Maps/Map
+[2017.08.19-16.33.13:367][ 11]LogScriptCore: Warning: Script Msg: DestroySession - Invalid or uninitialized OnlineSubsystem
+[2017.08.19-16.33.13:367][ 11]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
+[2017.08.19-16.33.13:388][ 11]Cmd: MEM
+[2017.08.19-16.33.13:407][ 11]LogMemory: Platform Memory Stats for Windows
+[2017.08.19-16.33.13:407][ 11]LogMemory: Process Physical Memory: 1575.61 MB used, 1722.20 MB peak
+[2017.08.19-16.33.13:407][ 11]LogMemory: Process Virtual Memory: 2378.72 MB used, 2504.43 MB peak
+[2017.08.19-16.33.13:407][ 11]LogMemory: Physical Memory: 5931.06 MB used,  2180.01 MB free, 8111.07 MB total
+[2017.08.19-16.33.13:407][ 11]LogMemory: Virtual Memory: 3294.07 MB used,  2180.01 MB free, 134217728.00 MB total
+[2017.08.19-16.33.13:407][ 11]LogMemory: 
+[2017.08.19-16.33.13:407][ 11]Allocator Stats for TBB: (not implemented)
+[2017.08.19-16.33.14:394][ 11]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2017.08.19-16.33.14:394][ 11]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2017.08.19-16.33.15:427][ 11]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.965 s
+[2017.08.19-16.33.15:427][ 11]LogOutputDevice: Error: === Handled ensure: ===
+[2017.08.19-16.33.15:427][ 11]LogOutputDevice: Error: 
+[2017.08.19-16.33.15:427][ 11]LogOutputDevice: Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1315]
+[2017.08.19-16.33.15:427][ 11]LogOutputDevice: Error: 
+[2017.08.19-16.33.15:427][ 11]LogOutputDevice: Error: Stack: 
+[2017.08.19-16.33.15:427][ 11]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000005BAA3606
+[2017.08.19-16.33.15:427][ 11]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000005B82C2D2
+[2017.08.19-16.33.15:427][ 11]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000005B844746
+[2017.08.19-16.33.15:427][ 11]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x0000000048DAD6C9
+[2017.08.19-16.33.15:427][ 11]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x0000000048D7C9DD
+[2017.08.19-16.33.15:427][ 11]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000504E0F67
+[2017.08.19-16.33.15:427][ 11]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000507EB856
+[2017.08.19-16.33.15:427][ 11]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000050801956
+[2017.08.19-16.33.15:427][ 11]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000050800EA2
+[2017.08.19-16.33.15:427][ 11]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000004DEFDD7B
+[2017.08.19-16.33.15:427][ 11]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000004DEB6758
+[2017.08.19-16.33.15:427][ 11]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000004DF1D50D
+[2017.08.19-16.33.15:427][ 11]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000004B31BF40
+[2017.08.19-16.33.15:427][ 11]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000004BBACEE6
+[2017.08.19-16.33.15:427][ 11]LogOutputDevice: Error: UE4Editor.exe!0x000000006574534A
+[2017.08.19-16.33.15:427][ 11]LogOutputDevice: Error: UE4Editor.exe!0x0000000065753970
+[2017.08.19-16.33.15:427][ 11]LogOutputDevice: Error: UE4Editor.exe!0x00000000657539EA
+[2017.08.19-16.33.15:427][ 11]LogOutputDevice: Error: UE4Editor.exe!0x00000000657602D9
+[2017.08.19-16.33.15:427][ 11]LogOutputDevice: Error: UE4Editor.exe!0x0000000065761C47
+[2017.08.19-16.33.15:427][ 11]LogOutputDevice: Error: KERNEL32.DLL!0x000000008D992774
+[2017.08.19-16.33.15:427][ 11]LogOutputDevice: Error: ntdll.dll!0x000000008E140D51
+[2017.08.19-16.33.15:427][ 11]LogOutputDevice: Error: 
+[2017.08.19-16.33.15:433][ 11]LogStats:                SubmitErrorReport -  0.000 s
