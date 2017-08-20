@@ -1,0 +1,512 @@
+﻿Log file open, 08/20/17 17:19:45
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VSPerf140.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: PointShootKill
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-254575391) SRandInit(-254575391).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.162576
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.17-CL-3573198
+LogInit: Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug  4 2017 16:30:33
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.08.20-08.19.45:943][  0]LogInit: Selected Device Profile: [Windows]
+[2017.08.20-08.19.45:943][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.08.20-08.19.45:952][  0]LogInit: Computer: COOLKYS-PC
+[2017.08.20-08.19.45:952][  0]LogInit: User: YounsooKim
+[2017.08.20-08.19.45:952][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.08.20-08.19.45:952][  0]LogInit: High frequency timer resolution =3.914070 MHz
+[2017.08.20-08.19.45:952][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2017.08.20-08.19.45:952][  0]LogMemory: Platform Memory Stats for Windows
+[2017.08.20-08.19.45:952][  0]LogMemory: Process Physical Memory: 280.18 MB used, 280.18 MB peak
+[2017.08.20-08.19.45:952][  0]LogMemory: Process Virtual Memory: 282.42 MB used, 282.42 MB peak
+[2017.08.20-08.19.45:952][  0]LogMemory: Physical Memory: 4961.55 MB used,  3183.88 MB free, 8145.43 MB total
+[2017.08.20-08.19.45:952][  0]LogMemory: Virtual Memory: 678.23 MB used,  3183.88 MB free, 134217728.00 MB total
+[2017.08.20-08.19.46:083][  0]LogInit: Using OS detected language (en-US).
+[2017.08.20-08.19.46:083][  0]LogInit: Using OS detected locale (en-US).
+[2017.08.20-08.19.46:085][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.08.20-08.19.46:636][  0]LogD3D11RHI: D3D11 adapters:
+[2017.08.20-08.19.47:111][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750 Ti' (Feature Level 11_0)
+[2017.08.20-08.19.47:112][  0]LogD3D11RHI:       2017/0/4072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.08.20-08.19.47:113][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.08.20-08.19.47:113][  0]LogD3D11RHI:       0/0/4072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.08.20-08.19.47:113][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.08.20-08.19.47:118][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.08.20-08.19.47:118][  0]LogD3D11RHI:     GPU DeviceId: 0x1380 (for the marketing name, search the web for "GPU Device Id")
+[2017.08.20-08.19.47:118][  0]LogWindows: EnumDisplayDevices:
+[2017.08.20-08.19.47:119][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750 Ti' (P:1 D:1)
+[2017.08.20-08.19.47:119][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:1)
+[2017.08.20-08.19.47:119][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2017.08.20-08.19.47:120][  0]LogWindows:    3. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2017.08.20-08.19.47:120][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.08.20-08.19.47:120][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750 Ti
+[2017.08.20-08.19.47:120][  0]LogD3D11RHI:   Driver Version: 382.05 (internal:22.21.13.8205, unified:382.05)
+[2017.08.20-08.19.47:120][  0]LogD3D11RHI:      Driver Date: 5-1-2017
+[2017.08.20-08.19.47:120][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.08.20-08.19.47:549][  0]LogD3D11RHI: Async texture creation enabled
+[2017.08.20-08.19.47:695][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.08.20-08.19.47:745][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../../NetworkShared/PointShootKill/PointShootKill/Intermediate/Shaders/WorkingDirectory/21352/).
+[2017.08.20-08.19.47:745][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Younsoo Kim/AppData/Local/Temp/UnrealShaderWorkingDir/1FCC427B4927E138AD9C98A105C3A2A4/'.
+[2017.08.20-08.19.47:745][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.08.20-08.19.48:439][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.08.20-08.19.48:479][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.08.20-08.19.48:521][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.08.20-08.19.48:564][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.08.20-08.19.48:606][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.08.20-08.19.48:646][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.08.20-08.19.48:695][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.08.20-08.19.48:741][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.08.20-08.19.48:777][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.08.20-08.19.48:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.08.20-08.19.48:858][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.08.20-08.19.48:898][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.08.20-08.19.48:939][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.08.20-08.19.48:979][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.08.20-08.19.49:018][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.08.20-08.19.49:101][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.08.20-08.19.49:101][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.08.20-08.19.49:132][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.08.20-08.19.49:210][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.08.20-08.19.49:234][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.08.20-08.19.49:274][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.08.20-08.19.49:314][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.08.20-08.19.49:354][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.08.20-08.19.49:393][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.08.20-08.19.49:393][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.08.20-08.19.49:781][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.08.20-08.19.49:878][  0]LogDerivedDataCache: Loaded boot cache 0.10s 93MB C:/Users/Younsoo Kim/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.08.20-08.19.49:878][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Younsoo Kim/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.08.20-08.19.49:878][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../NetworkShared/PointShootKill/PointShootKill/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.08.20-08.19.49:878][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.08.20-08.19.49:878][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../NetworkShared/PointShootKill/PointShootKill/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.08.20-08.19.49:878][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.08.20-08.19.49:890][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.08.20-08.19.49:902][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Younsoo Kim/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.08.20-08.19.49:909][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.08.20-08.19.49:910][  0]LogSlate: Using Freetype 2.6.0
+[2017.08.20-08.19.49:910][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.08.20-08.19.49:910][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.08.20-08.19.50:121][  0]LogAssetRegistry: FAssetRegistry took 0.0244 seconds to start up
+[2017.08.20-08.19.50:212][  0]LogInit: Selected Device Profile: [Windows]
+[2017.08.20-08.19.50:341][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.08.20-08.19.50:590][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.08.20-08.19.50:624][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.08.20-08.19.50:625][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.08.20-08.19.50:625][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.08.20-08.19.50:625][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.08.20-08.19.50:625][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.08.20-08.19.50:934][  0]LogNetVersion: PointShootKill , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1180208419)
+[2017.08.20-08.19.51:120][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.045681 seconds
+[2017.08.20-08.19.51:125][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.08.20-08.19.51:125][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.08.20-08.19.51:125][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.08.20-08.19.53:298][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.08.20-08.19.53:332][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.08.20-08.19.53:871][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.08.20-08.19.54:208][  0]SourceControl: Source control is disabled
+[2017.08.20-08.19.54:728][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.08.20-08.19.54:928][  0]LogOcInput: OculusInput pre-init called
+[2017.08.20-08.19.55:131][  0]LogEngine: Initializing Engine...
+[2017.08.20-08.19.55:132][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.08.20-08.19.55:329][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.08.20-08.19.55:329][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.08.20-08.19.55:436][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.08.20-08.19.55:448][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.20-08.19.55:466][  0]LogInit: FAudioDevice initialized.
+[2017.08.20-08.19.55:554][  0]LogDerivedDataCache: Saved boot cache 0.09s 93MB C:/Users/Younsoo Kim/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.08.20-08.19.55:572][  0]LogInit: Texture streaming: Enabled
+[2017.08.20-08.19.55:668][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.08.20-08.19.55:848][  0]LogInit: Transaction tracking system initialized
+[2017.08.20-08.19.56:106][  0]BlueprintLog: New page: Editor Load
+[2017.08.20-08.19.56:834][  0]LocalizationService: Localization service is disabled
+[2017.08.20-08.19.57:395][  0]LogConsoleResponse: Display: 
+[2017.08.20-08.19.57:542][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.08.20-08.19.57:542][  0]LogCook: Display: Mobile HDR setting 1
+[2017.08.20-08.19.57:542][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.08.20-08.19.57:662][  0]LogFileCache: Scanning file cache for directory 'C:/NetworkShared/PointShootKill/PointShootKill/Content/' took 0.01s
+[2017.08.20-08.19.58:391][  0]Cmd: MAP LOAD FILE="../../../../../../NetworkShared/PointShootKill/PointShootKill/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.08.20-08.19.58:392][  0]LightingResults: New page: Lighting Build
+[2017.08.20-08.19.58:426][  0]MapCheck: New page: Map Check
+[2017.08.20-08.19.58:426][  0]LightingResults: New page: Lighting Build
+[2017.08.20-08.19.59:245][  0]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.20-08.19.59:246][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.08.20-08.19.59:256][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.08.20-08.19.59:305][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 47.892ms to complete.
+[2017.08.20-08.19.59:305][  0]LogFileHelpers: Loading map 'MainMenu' took 0.914
+[2017.08.20-08.19.59:368][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.08.20-08.19.59:434][  0]LogCollectionManager: Loaded 0 collections in 0.001043 seconds
+[2017.08.20-08.19.59:505][  0]LogFileCache: Scanning file cache for directory 'C:/NetworkShared/PointShootKill/PointShootKill/Saved/Collections/' took 0.01s
+[2017.08.20-08.19.59:505][  0]LogFileCache: Scanning file cache for directory 'C:/NetworkShared/PointShootKill/PointShootKill/Content/Developers/YounsooKim/Collections/' took 0.01s
+[2017.08.20-08.19.59:505][  0]LogFileCache: Scanning file cache for directory 'C:/NetworkShared/PointShootKill/PointShootKill/Content/Collections/' took 0.01s
+[2017.08.20-08.19.59:505][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.08.20-08.19.59:512][  0]LogContentBrowser: Native class hierarchy populated in 0.0068 seconds. Added 2386 classes and 500 folders.
+[2017.08.20-08.19.59:565][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.08.20-08.19.59:594][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.08.20-08.19.59:629][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.08.20-08.19.59:682][  0]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.08.20-08.19.59:684][  0]LogSlate: Took 0.000311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.08.20-08.19.59:688][  0]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.08.20-08.19.59:794][  0]LogRenderer: Reallocating scene render targets to support 884x536 Format 10 NumSamples 1 (Frame:1).
+[2017.08.20-08.20.00:034][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.08.20-08.20.00:034][  0]LogLoad: (Engine Initialization) Total time: 15.46 seconds
+[2017.08.20-08.20.00:034][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.08.20-08.20.00:034][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.08.20-08.20.00:063][  0]LogAssetRegistry: Asset discovery search completed in 9.9630 seconds
+[2017.08.20-08.20.00:064][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.08.20-08.20.00:064][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000034 seconds (updated 0 objects)
+[2017.08.20-08.20.00:065][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.08.20-08.20.00:085][  0]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.20-08.20.07:469][866]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.08.20-08.20.07:563][866]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.20-08.20.07:563][866]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.20-08.20.07:563][866]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.08.20-08.20.07:563][866]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.08.20-08.20.07:577][866]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.08.20-08.20.07:577][866]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.08.20-08.20.07:578][866]PIE: New page: PIE session: MainMenu (Aug 21, 2017, 2:20:07 AM)
+[2017.08.20-08.20.07:578][866]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_MainMenu
+[2017.08.20-08.20.07:579][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000713s)
+[2017.08.20-08.20.07:579][866]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.20-08.20.07:580][866]LogPlayLevel: PIE: World Init took: (0.000526s)
+[2017.08.20-08.20.07:580][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_1_MainMenu.MainMenu (0.001419s)
+[2017.08.20-08.20.07:594][866]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.20-08.20.07:607][866]LogInit: FAudioDevice initialized.
+[2017.08.20-08.20.07:669][866]LogLoad: Game class is 'MainMenu_C'
+[2017.08.20-08.20.07:671][866]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.20-17.20.07
+[2017.08.20-08.20.07:672][866]LogWorld: Bringing up level for play took: 0.000872
+[2017.08.20-08.20.07:735][866]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2017.08.20-08.20.07:741][866]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.20-08.20.07:741][866]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2017.08.20-08.20.07:741][866]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.20-08.20.07:741][866]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.08.20-08.20.07:743][866]LogInit: WinSock: I am coolkys-PC (169.254.38.209:0)
+[2017.08.20-08.20.07:743][866]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.20-08.20.07:743][866]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 7777
+[2017.08.20-08.20.07:747][866]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_MainMenu 1.094
+[2017.08.20-08.20.07:751][866]PIE: New page: PIE session: MainMenu (Aug 21, 2017, 2:20:07 AM)
+[2017.08.20-08.20.07:805][866]LogNet: Browse: 127.0.0.1//Game/Maps/MainMenu
+[2017.08.20-08.20.07:805][866]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.20-08.20.07:805][866]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2017.08.20-08.20.07:805][866]LogTemp: Display: ParseSettings for PendingNetDriver
+[2017.08.20-08.20.07:806][866]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.08.20-08.20.07:806][866]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.20-08.20.07:806][866]LogNet: Game client on port 7777, rate 10000
+[2017.08.20-08.20.07:810][866]PIE: Play in editor start time for /Game/Maps/MainMenu 1.157
+[2017.08.20-08.20.07:821][866]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.20-08.20.07:822][866]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58450
+[2017.08.20-08.20.07:822][866]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 003000197121103248224038099099225166202235113253079235066072
+[2017.08.20-08.20.07:846][866]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 003000197121103248224038099099225166202235113253079235066072
+[2017.08.20-08.20.07:869][866]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2017.08.20-08.20.07:925][867]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58450
+[2017.08.20-08.20.07:925][867]LogHandshake: SendChallengeAck. InCookie: 003000197121103248224038099099225166202235113253079235066072
+[2017.08.20-08.20.07:925][867]LogNet: Server accepting post-challenge connection from: 127.0.0.1:58450
+[2017.08.20-08.20.07:925][867]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.20-08.20.07:925][867]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 08/20/17 17:20:07, [UNetConnection] RemoteAddr: 127.0.0.1:58450, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2017.08.20-08.20.07:925][867]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:58450, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2017.08.20-08.20.07:926][867]LogNetVersion: PointShootKill 1.0.0.0, NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1001203919)
+[2017.08.20-08.20.07:926][867]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL
+[2017.08.20-08.20.07:950][868]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_MainMenu.MainMenu: Accepted
+[2017.08.20-08.20.07:950][868]LogNet: Remote platform little endian=1
+[2017.08.20-08.20.07:950][868]LogNet: This platform little endian=1
+[2017.08.20-08.20.07:974][869]LogNet: Login request: /Game/Maps/MainMenu?Name=coolkys-PC-EC64D2744D7D742845D4378020C00847 userId: coolkys-PC-EC64D2744D7D742845D4378020C00847
+[2017.08.20-08.20.07:975][869]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_MainMenu, Game: /Game/Blueprints/MainMenu/MainMenu.MainMenu_C)
+[2017.08.20-08.20.07:975][869]LogLoad: LoadMap: 127.0.0.1//Game/Maps/UEDPIE_1_MainMenu?game=/Game/Blueprints/MainMenu/MainMenu.MainMenu_C
+[2017.08.20-08.20.07:983][869]Cmd: MEM
+[2017.08.20-08.20.07:991][869]LogMemory: Platform Memory Stats for Windows
+[2017.08.20-08.20.07:991][869]LogMemory: Process Physical Memory: 1110.23 MB used, 1235.91 MB peak
+[2017.08.20-08.20.07:991][869]LogMemory: Process Virtual Memory: 1626.28 MB used, 1633.11 MB peak
+[2017.08.20-08.20.07:991][869]LogMemory: Physical Memory: 5739.03 MB used,  2406.41 MB free, 8145.43 MB total
+[2017.08.20-08.20.07:991][869]LogMemory: Virtual Memory: 2485.50 MB used,  2406.41 MB free, 134217728.00 MB total
+[2017.08.20-08.20.07:991][869]LogMemory: 
+[2017.08.20-08.20.07:991][869]Allocator Stats for TBB: (not implemented)
+[2017.08.20-08.20.07:992][869]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.20-08.20.07:992][869]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.20-08.20.07:994][869]LogWorld: Bringing World /Game/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.20-17.20.07
+[2017.08.20-08.20.07:994][869]LogWorld: Bringing up level for play took: 0.000933
+[2017.08.20-08.20.07:994][869]LogLoad: Took 0.018786 seconds to LoadMap(/Game/Maps/UEDPIE_1_MainMenu)
+[2017.08.20-08.20.08:008][870]LogNet: Client netspeed is 10000
+[2017.08.20-08.20.08:008][870]LogNet: Join request: /Game/Maps/MainMenu?Name=coolkys-PC-EC64D2744D7D742845D4378020C00847?SplitscreenCount=1
+[2017.08.20-08.20.08:009][870]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2017.08.20-08.20.08:010][870]LogNet: Join succeeded: coolkys-PC-EC64D2744
+[2017.08.20-08.20.08:084][876]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2017.08.20-08.20.08:098][877]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2017.08.20-08.20.10:812][108]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.20-08.20.10:857][108]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.08.20-08.20.10:857][108]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.08.20-08.20.10:857][108]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.08.20-08.20.10:857][108]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.08.20-08.20.10:857][108]LogOnline: Warning: OSS: No game present to leave for session (Game)
+[2017.08.20-08.20.10:900][108]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.08.20-08.20.10:900][108]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.08.20-08.20.10:900][108]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.08.20-08.20.10:900][108]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.08.20-08.20.10:900][108]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2017.08.20-08.20.10:901][108]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.20-08.20.10:909][108]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:58450, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2017.08.20-08.20.10:909][108]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:58450, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2017.08.20-08.20.10
+[2017.08.20-08.20.10:909][108]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:58450, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2017.08.20-08.20.10:909][108]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2017.08.20-08.20.10:909][108]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2017.08.20-08.20.10
+[2017.08.20-08.20.10:909][108]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2017.08.20-08.20.10:911][108]LogExit: GameNetDriver None shut down
+[2017.08.20-08.20.10:911][108]LogExit: GameNetDriver None shut down
+[2017.08.20-08.20.10:921][109]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2017.08.20-08.20.10:921][109]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.08.20-08.20.10:921][109]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2017.08.20-08.20.10:921][109]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.08.20-08.20.17:867][938]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.20-08.20.17:867][938]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.20-08.20.17:867][938]PIE: New page: PIE session: MainMenu (Aug 21, 2017, 2:20:17 AM)
+[2017.08.20-08.20.17:868][938]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2017.08.20-08.20.17:868][938]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000762s)
+[2017.08.20-08.20.17:869][938]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.20-08.20.17:869][938]LogPlayLevel: PIE: World Init took: (0.000503s)
+[2017.08.20-08.20.17:869][938]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001449s)
+[2017.08.20-08.20.17:882][938]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.20-08.20.17:894][938]LogInit: FAudioDevice initialized.
+[2017.08.20-08.20.17:940][938]LogLoad: Game class is 'MainMenu_C'
+[2017.08.20-08.20.17:942][938]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.20-17.20.17
+[2017.08.20-08.20.17:942][938]LogWorld: Bringing up level for play took: 0.000899
+[2017.08.20-08.20.17:958][938]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu -0.696
+[2017.08.20-08.20.17:958][938]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.20-08.23.36:239][ 91]LogNet: Browse: /Game/Maps/Lobby
+[2017.08.20-08.23.36:239][ 91]LogLoad: LoadMap: /Game/Maps/Lobby
+[2017.08.20-08.23.36:248][ 91]Cmd: MEM
+[2017.08.20-08.23.36:255][ 91]LogMemory: Platform Memory Stats for Windows
+[2017.08.20-08.23.36:255][ 91]LogMemory: Process Physical Memory: 1129.44 MB used, 1235.91 MB peak
+[2017.08.20-08.23.36:255][ 91]LogMemory: Process Virtual Memory: 1531.46 MB used, 1719.89 MB peak
+[2017.08.20-08.23.36:255][ 91]LogMemory: Physical Memory: 5672.24 MB used,  2473.20 MB free, 8145.43 MB total
+[2017.08.20-08.23.36:255][ 91]LogMemory: Virtual Memory: 2430.01 MB used,  2473.20 MB free, 134217728.00 MB total
+[2017.08.20-08.23.36:255][ 91]LogMemory: 
+[2017.08.20-08.23.36:255][ 91]Allocator Stats for TBB: (not implemented)
+[2017.08.20-08.23.36:828][ 91]LogAIModule: Creating AISystem for world Lobby
+[2017.08.20-08.23.36:828][ 91]LogLoad: Game class is 'LobbyGM_C'
+[2017.08.20-08.23.36:831][ 91]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2017.08.20-17.23.36
+[2017.08.20-08.23.36:831][ 91]LogWorld: Bringing up level for play took: 0.001713
+[2017.08.20-08.23.36:842][ 91]LogLoad: Took 0.602888 seconds to LoadMap(/Game/Maps/Lobby)
+[2017.08.20-08.23.51:645][717]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2324.777 Y=-590.150 Z=163.536] for [FirstPersonProjectile_C]
+[2017.08.20-08.23.52:094][768]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2326.760 Y=-315.193 Z=154.259] for [FirstPersonProjectile_C]
+[2017.08.20-08.23.52:744][841]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2327.630 Y=100.933 Z=123.962] for [FirstPersonProjectile_C]
+[2017.08.20-08.23.52:969][866]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2316.716 Y=228.480 Z=103.426] for [FirstPersonProjectile_C]
+[2017.08.20-08.23.53:163][888]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2314.461 Y=323.198 Z=99.540] for [FirstPersonProjectile_C]
+[2017.08.20-08.23.53:364][911]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2317.657 Y=339.346 Z=104.011] for [FirstPersonProjectile_C]
+[2017.08.20-08.23.53:567][934]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2317.676 Y=419.286 Z=103.953] for [FirstPersonProjectile_C]
+[2017.08.20-08.23.53:743][954]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2317.561 Y=525.746 Z=105.366] for [FirstPersonProjectile_C]
+[2017.08.20-08.23.53:930][975]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2317.746 Y=637.328 Z=105.156] for [FirstPersonProjectile_C]
+[2017.08.20-08.23.54:336][ 21]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2319.328 Y=669.731 Z=102.350] for [FirstPersonProjectile_C]
+[2017.08.20-08.24.42:956][521]LogNet: Browse: /Game/Maps/MainMenu
+[2017.08.20-08.24.42:962][521]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2017.08.20-08.24.42:963][521]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
+[2017.08.20-08.24.42:973][521]Cmd: MEM
+[2017.08.20-08.24.42:980][521]LogMemory: Platform Memory Stats for Windows
+[2017.08.20-08.24.42:980][521]LogMemory: Process Physical Memory: 1293.69 MB used, 1372.51 MB peak
+[2017.08.20-08.24.42:980][521]LogMemory: Process Virtual Memory: 1760.14 MB used, 1916.75 MB peak
+[2017.08.20-08.24.42:980][521]LogMemory: Physical Memory: 5107.21 MB used,  3038.22 MB free, 8145.43 MB total
+[2017.08.20-08.24.42:980][521]LogMemory: Virtual Memory: 2714.82 MB used,  3038.22 MB free, 134217728.00 MB total
+[2017.08.20-08.24.42:980][521]LogMemory: 
+[2017.08.20-08.24.42:980][521]Allocator Stats for TBB: (not implemented)
+[2017.08.20-08.24.42:980][521]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2017.08.20-08.24.42:980][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000721s)
+[2017.08.20-08.24.42:981][521]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.20-08.24.42:981][521]LogPlayLevel: PIE: World Init took: (0.000460s)
+[2017.08.20-08.24.42:981][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001363s)
+[2017.08.20-08.24.42:981][521]LogLoad: Game class is 'MainMenu_C'
+[2017.08.20-08.24.42:983][521]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.20-17.24.42
+[2017.08.20-08.24.42:983][521]LogWorld: Bringing up level for play took: 0.000749
+[2017.08.20-08.24.42:984][521]LogLoad: Took 0.021220 seconds to LoadMap(/Game/Maps/UEDPIE_0_MainMenu)
+[2017.08.20-08.24.46:078][889]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.20-08.24.46:105][889]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.08.20-08.24.46:105][889]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.08.20-08.24.46:105][889]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.08.20-08.24.46:105][889]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.08.20-08.24.46:105][889]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2017.08.20-08.24.46:106][889]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.20-08.24.46:167][895]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2017.08.20-08.24.46:167][895]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.08.20-08.24.51:090][483]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.20-08.24.51:258][483]LogAIModule: Creating AISystem for world Lobby
+[2017.08.20-08.24.51:278][483]Cmd: MAP LOAD FILE="../../../../../../NetworkShared/PointShootKill/PointShootKill/Content/Maps/Lobby.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.08.20-08.24.51:278][483]LightingResults: New page: Lighting Build
+[2017.08.20-08.24.51:278][483]LoadErrors: New page: Loading map: Lobby.umap
+[2017.08.20-08.24.51:279][483]MapCheck: New page: Map Check
+[2017.08.20-08.24.51:279][483]LightingResults: New page: Lighting Build
+[2017.08.20-08.24.51:341][483]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.08.20-08.24.51:374][483]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.08.20-08.24.51:425][483]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 50.355ms to complete.
+[2017.08.20-08.24.51:425][483]LogFileHelpers: Loading map 'Lobby' took 0.149
+[2017.08.20-08.25.00:968][612]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2017.08.20-08.25.04:276][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.08.20-08.25.21:182][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.08.20-08.25.29:152][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby" FILE="../../../../../../NetworkShared/PointShootKill/PointShootKill/Content/Maps/Lobby.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.08.20-08.25.29:241][819]LogSavePackage: Save=70.71ms
+[2017.08.20-08.25.29:241][819]LogSavePackage: Moving '../../../../../../NetworkShared/PointShootKill/PointShootKill/Saved/LobbyA8C635344F345BF95888FAA63838B3D0.tmp' to '../../../../../../NetworkShared/PointShootKill/PointShootKill/Content/Maps/Lobby.umap'
+[2017.08.20-08.25.29:245][819]LogSavePackage: Display: Finished SavePackage ../../../../../../NetworkShared/PointShootKill/PointShootKill/Content/Maps/Lobby.umap
+[2017.08.20-08.25.29:276][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby_BuiltData" FILE="../../../../../../NetworkShared/PointShootKill/PointShootKill/Content/Maps/Lobby_BuiltData.uasset" SILENT=true
+[2017.08.20-08.25.29:295][819]LogSavePackage: Save=9.58ms
+[2017.08.20-08.25.29:295][819]LogSavePackage: Moving '../../../../../../NetworkShared/PointShootKill/PointShootKill/Saved/Lobby_BuiltDataE41CA87C4FCF78400AE08FB11E16BE0E.tmp' to '../../../../../../NetworkShared/PointShootKill/PointShootKill/Content/Maps/Lobby_BuiltData.uasset'
+[2017.08.20-08.25.29:296][819]LogSavePackage: Display: Finished SavePackage ../../../../../../NetworkShared/PointShootKill/PointShootKill/Content/Maps/Lobby_BuiltData.uasset
+[2017.08.20-08.25.40:124][ 71]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.08.20-08.25.40:140][ 71]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2017.08.20-08.25.40:140][ 71]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.20-08.25.40:140][ 71]PIE: New page: PIE session: Lobby (Aug 21, 2017, 2:25:40 AM)
+[2017.08.20-08.25.40:141][ 71]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lobby
+[2017.08.20-08.25.40:144][ 71]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002974s)
+[2017.08.20-08.25.40:144][ 71]LogAIModule: Creating AISystem for world Lobby
+[2017.08.20-08.25.40:144][ 71]LogPlayLevel: PIE: World Init took: (0.000673s)
+[2017.08.20-08.25.40:145][ 71]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby.Lobby to /Game/Maps/UEDPIE_0_Lobby.Lobby (0.003844s)
+[2017.08.20-08.25.40:159][ 71]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.20-08.25.40:171][ 71]LogInit: FAudioDevice initialized.
+[2017.08.20-08.25.40:214][ 71]LogLoad: Game class is 'LobbyGM_C'
+[2017.08.20-08.25.40:216][ 71]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2017.08.20-17.25.40
+[2017.08.20-08.25.40:216][ 71]LogWorld: Bringing up level for play took: 0.001235
+[2017.08.20-08.25.40:237][ 71]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lobby -0.416
+[2017.08.20-08.25.40:237][ 71]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2017.08.20-08.25.57:521][983]LogOnline: Warning: OSS: Can't destroy a null online session (Game)
+[2017.08.20-08.25.57:904][ 27]LogOnline: Warning: OSS: Can't destroy a null online session (Game)
+[2017.08.20-08.25.58:076][ 47]LogOnline: Warning: OSS: Can't destroy a null online session (Game)
+[2017.08.20-08.25.59:272][183]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
+[2017.08.20-08.25.59:272][183]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2017.08.20-08.25.59:301][183]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.08.20-08.25.59:301][183]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.08.20-08.25.59:301][183]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.08.20-08.25.59:301][183]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.08.20-08.25.59:301][183]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2017.08.20-08.25.59:314][183]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2017.08.20-08.25.59:363][186]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2017.08.20-08.25.59:363][186]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.08.20-08.26.03:963][708]LogAudioDerivedData: Display: Building compressed audio format OGG wave healthup...
+[2017.08.20-08.26.04:014][708]LogAIModule: Creating AISystem for world Map
+[2017.08.20-08.26.04:033][708]Cmd: MAP LOAD FILE="../../../../../../NetworkShared/PointShootKill/PointShootKill/Content/Maps/Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.08.20-08.26.04:033][708]LightingResults: New page: Lighting Build
+[2017.08.20-08.26.04:034][708]LoadErrors: New page: Loading map: Map.umap
+[2017.08.20-08.26.04:034][708]MapCheck: New page: Map Check
+[2017.08.20-08.26.04:034][708]LightingResults: New page: Lighting Build
+[2017.08.20-08.26.04:119][708]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.08.20-08.26.04:186][708]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.08.20-08.26.04:240][708]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 53.551ms to complete.
+[2017.08.20-08.26.04:240][708]LogFileHelpers: Loading map 'Map' took 0.208
+[2017.08.20-08.26.05:869][893]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.20-08.26.05:879][893]Cmd: MAP LOAD FILE="../../../../../../NetworkShared/PointShootKill/PointShootKill/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.08.20-08.26.05:879][893]LightingResults: New page: Lighting Build
+[2017.08.20-08.26.05:879][893]LoadErrors: New page: Loading map: MainMenu.umap
+[2017.08.20-08.26.05:880][893]MapCheck: New page: Map Check
+[2017.08.20-08.26.05:880][893]LightingResults: New page: Lighting Build
+[2017.08.20-08.26.05:941][893]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.08.20-08.26.05:975][893]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.08.20-08.26.06:029][893]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 54.039ms to complete.
+[2017.08.20-08.26.06:029][893]LogFileHelpers: Loading map 'MainMenu' took 0.151
+[2017.08.20-08.26.11:686][553]LogSavePackage: Save=20.47ms
+[2017.08.20-08.26.11:686][553]LogSavePackage: Moving '../../../../../../NetworkShared/PointShootKill/PointShootKill/Saved/UEDPCMainMenuF3E80F4F483F8D5D07F0DF8AF5AB3598.tmp' to '../../../../../../NetworkShared/PointShootKill/PointShootKill/Saved/Autosaves/Game/Maps/UEDPCMainMenu.umap'
+[2017.08.20-08.26.11:686][553]LogSavePackage: Display: Finished SavePackage ../../../../../../NetworkShared/PointShootKill/PointShootKill/Saved/Autosaves/Game/Maps/UEDPCMainMenu.umap
+[2017.08.20-08.26.11:691][553]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.08.20-08.44.04:604][999]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 113 classes and 0 folders.
+[2017.08.20-08.44.05:270][999]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.20-08.44.05:274][999]LogSlate: Took 0.003398 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.08.20-08.44.19:679][440]LogSlate: Took 0.003281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.08.20-08.47.10:991][ 59]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.020
+[2017.08.20-08.47.10:993][ 59]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Lobby/LobbyGM] ([1] browsable assets)...
+[2017.08.20-08.47.10:993][ 59]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Lobby/LobbyGM]
+[2017.08.20-08.47.11:111][ 59]LogSavePackage: Save=107.37ms
+[2017.08.20-08.47.11:111][ 59]LogSavePackage: Moving '../../../../../../NetworkShared/PointShootKill/PointShootKill/Saved/LobbyGM_Auto14D29689E45D5A750A520EB8AAC252368.tmp' to '../../../../../../NetworkShared/PointShootKill/PointShootKill/Saved/Autosaves/Game/Blueprints/Lobby/LobbyGM_Auto1.uasset'
+[2017.08.20-08.47.11:112][ 59]LogSavePackage: Display: Finished SavePackage ../../../../../../NetworkShared/PointShootKill/PointShootKill/Saved/Autosaves/Game/Blueprints/Lobby/LobbyGM_Auto1.uasset
+[2017.08.20-08.47.11:112][ 59]LogFileHelpers: Auto-saving content packages took 0.120
