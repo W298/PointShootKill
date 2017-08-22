@@ -1,0 +1,839 @@
+﻿Log file open, 08/22/17 00:17:11
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: PointShootKill
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-620015884) SRandInit(-620015883).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.168265
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogModuleManager: Warning: No filename provided for module OnlineSubsystemLAN
+LogModuleManager: Warning: ModuleManager: Unable to load module 'OnlineSubsystemLAN' because the file 'E:/Unreal Engine/UE_4.17/Engine/Binaries/Win64/' was not found.
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: E:/Unreal Engine/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.08.21-15.17.11:774][  0]LogInit: Selected Device Profile: [Windows]
+[2017.08.21-15.17.11:774][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.08.21-15.17.11:784][  0]LogInit: Computer: RUTKA
+[2017.08.21-15.17.11:784][  0]LogInit: User: Ruthka
+[2017.08.21-15.17.11:784][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.08.21-15.17.11:784][  0]LogInit: High frequency timer resolution =3.319356 MHz
+[2017.08.21-15.17.11:784][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.08.21-15.17.11:784][  0]LogMemory: Platform Memory Stats for Windows
+[2017.08.21-15.17.11:784][  0]LogMemory: Process Physical Memory: 281.96 MB used, 281.96 MB peak
+[2017.08.21-15.17.11:784][  0]LogMemory: Process Virtual Memory: 282.53 MB used, 282.53 MB peak
+[2017.08.21-15.17.11:784][  0]LogMemory: Physical Memory: 4113.73 MB used,  3997.35 MB free, 8111.07 MB total
+[2017.08.21-15.17.11:784][  0]LogMemory: Virtual Memory: 664.16 MB used,  3997.35 MB free, 134217728.00 MB total
+[2017.08.21-15.17.11:903][  0]LogInit: Using OS detected language (en-GB).
+[2017.08.21-15.17.11:903][  0]LogInit: Using OS detected locale (en-CA).
+[2017.08.21-15.17.11:907][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2017.08.21-15.17.12:656][  0]LogD3D11RHI: D3D11 adapters:
+[2017.08.21-15.17.13:269][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2017.08.21-15.17.13:269][  0]LogD3D11RHI:       4058/0/4055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.08.21-15.17.13:271][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.08.21-15.17.13:271][  0]LogD3D11RHI:       0/0/4055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.08.21-15.17.13:271][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.08.21-15.17.13:276][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.08.21-15.17.13:276][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2017.08.21-15.17.13:276][  0]LogWindows: EnumDisplayDevices:
+[2017.08.21-15.17.13:276][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2017.08.21-15.17.13:276][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.08.21-15.17.13:276][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.08.21-15.17.13:277][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.08.21-15.17.13:277][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.08.21-15.17.13:277][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2017.08.21-15.17.13:277][  0]LogD3D11RHI:   Driver Version: 384.76 (internal:22.21.13.8476, unified:384.76)
+[2017.08.21-15.17.13:277][  0]LogD3D11RHI:      Driver Date: 6-27-2017
+[2017.08.21-15.17.13:277][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.08.21-15.17.13:838][  0]LogD3D11RHI: Async texture creation enabled
+[2017.08.21-15.17.13:869][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.08.21-15.17.13:918][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Intermediate/Shaders/WorkingDirectory/13516/).
+[2017.08.21-15.17.13:918][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ruthk/AppData/Local/Temp/UnrealShaderWorkingDir/9B988BAB490F7F7AD324B9904DD775E6/'.
+[2017.08.21-15.17.13:918][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.08.21-15.17.14:799][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.08.21-15.17.14:846][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.08.21-15.17.14:893][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.08.21-15.17.14:940][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.08.21-15.17.14:987][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.08.21-15.17.15:034][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.08.21-15.17.15:081][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.08.21-15.17.15:128][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.08.21-15.17.15:169][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.08.21-15.17.15:215][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.08.21-15.17.15:262][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.08.21-15.17.15:307][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.08.21-15.17.15:352][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.08.21-15.17.15:398][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.08.21-15.17.15:443][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.08.21-15.17.15:535][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.08.21-15.17.15:535][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.08.21-15.17.15:572][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.08.21-15.17.15:654][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.08.21-15.17.15:677][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.08.21-15.17.15:723][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.08.21-15.17.15:768][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.08.21-15.17.15:814][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.08.21-15.17.15:861][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.08.21-15.17.15:861][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.08.21-15.17.16:246][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.08.21-15.17.16:341][  0]LogDerivedDataCache: Loaded boot cache 0.09s 93MB C:/Users/ruthk/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.08.21-15.17.16:341][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ruthk/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.08.21-15.17.16:341][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.08.21-15.17.16:341][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.08.21-15.17.16:341][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.08.21-15.17.16:341][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.08.21-15.17.16:357][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.08.21-15.17.16:370][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ruthk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.08.21-15.17.16:380][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.08.21-15.17.16:380][  0]LogSlate: Using Freetype 2.6.0
+[2017.08.21-15.17.16:381][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.08.21-15.17.16:381][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.08.21-15.17.16:675][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
+[2017.08.21-15.17.16:824][  0]LogInit: Selected Device Profile: [Windows]
+[2017.08.21-15.17.17:162][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.08.21-15.17.17:200][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.08.21-15.17.17:200][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.08.21-15.17.17:200][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.08.21-15.17.17:200][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.08.21-15.17.17:200][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.08.21-15.17.17:201][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.08.21-15.17.17:672][  0]LogNetVersion: PointShootKill , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1180208419)
+[2017.08.21-15.17.17:893][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.059764 seconds
+[2017.08.21-15.17.17:900][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.08.21-15.17.17:900][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.08.21-15.17.17:900][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.08.21-15.17.20:521][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.08.21-15.17.20:555][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.08.21-15.17.21:158][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.08.21-15.17.21:540][  0]SourceControl: Source control is disabled
+[2017.08.21-15.17.25:321][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.08.21-15.17.25:544][  0]LogOcInput: OculusInput pre-init called
+[2017.08.21-15.17.25:781][  0]LogEngine: Initializing Engine...
+[2017.08.21-15.17.25:783][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.08.21-15.17.26:002][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.08.21-15.17.26:002][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.08.21-15.17.26:118][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.08.21-15.17.26:130][  0]LogInit: XAudio2 using '2477W1M-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.21-15.17.26:145][  0]LogInit: FAudioDevice initialized.
+[2017.08.21-15.17.26:236][  0]LogDerivedDataCache: Saved boot cache 0.09s 93MB C:/Users/ruthk/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.08.21-15.17.26:247][  0]LogInit: Texture streaming: Enabled
+[2017.08.21-15.17.26:331][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.08.21-15.17.26:570][  0]LogInit: Transaction tracking system initialized
+[2017.08.21-15.17.26:847][  0]BlueprintLog: New page: Editor Load
+[2017.08.21-15.17.27:613][  0]LocalizationService: Localization service is disabled
+[2017.08.21-15.17.28:224][  0]LogConsoleResponse: Display: 
+[2017.08.21-15.17.28:417][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.08.21-15.17.28:417][  0]LogCook: Display: Mobile HDR setting 1
+[2017.08.21-15.17.28:417][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.08.21-15.17.29:304][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/' took 0.02s
+[2017.08.21-15.17.29:346][  0]Cmd: MAP LOAD FILE="C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.08.21-15.17.29:351][  0]LightingResults: New page: Lighting Build
+[2017.08.21-15.17.29:388][  0]MapCheck: New page: Map Check
+[2017.08.21-15.17.29:388][  0]LightingResults: New page: Lighting Build
+[2017.08.21-15.17.30:733][  0]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.21-15.17.30:735][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.08.21-15.17.30:751][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.08.21-15.17.30:852][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 100.483ms to complete.
+[2017.08.21-15.17.30:852][  0]LogFileHelpers: Loading map 'MainMenu' took 1.507
+[2017.08.21-15.17.31:391][  0]LogCollectionManager: Loaded 0 collections in 0.001218 seconds
+[2017.08.21-15.17.31:492][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/Collections/' took 0.01s
+[2017.08.21-15.17.31:492][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Developers/Ruthka/Collections/' took 0.01s
+[2017.08.21-15.17.31:492][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Collections/' took 0.01s
+[2017.08.21-15.17.31:492][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.08.21-15.17.31:502][  0]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2386 classes and 500 folders.
+[2017.08.21-15.17.31:559][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.08.21-15.17.32:122][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.08.21-15.17.32:229][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.08.21-15.17.32:964][  0]LogSlate: Took 0.000775 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.08.21-15.17.32:967][  0]LogSlate: Took 0.000498 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.08.21-15.17.33:025][  0]LogSlate: Took 0.022609 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.08.21-15.17.33:417][  0]LogRenderer: Reallocating scene render targets to support 1048x584 Format 10 NumSamples 1 (Frame:1).
+[2017.08.21-15.17.33:844][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.08.21-15.17.33:845][  0]LogLoad: (Engine Initialization) Total time: 23.85 seconds
+[2017.08.21-15.17.33:845][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.08.21-15.17.33:845][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.08.21-15.17.33:845][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.08.21-15.17.34:205][  0]SourceControl: On branch master
+[2017.08.21-15.17.34:205][  0]SourceControl: Your branch is up-to-date with 'origin/master'.
+[2017.08.21-15.17.34:205][  0]SourceControl: Changes not staged for commit:
+[2017.08.21-15.17.34:205][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2017.08.21-15.17.34:205][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.08.21-15.17.34:205][  0]SourceControl: 	modified:   PointShootKill/Intermediate/AssetRegistryCache/311563bb.bin
+[2017.08.21-15.17.34:205][  0]SourceControl: 	modified:   PointShootKill/Intermediate/AssetRegistryCache/c90e3f55.bin
+[2017.08.21-15.17.34:205][  0]SourceControl: 	modified:   PointShootKill/Intermediate/CachedAssetRegistry.bin
+[2017.08.21-15.17.34:205][  0]SourceControl: 	modified:   PointShootKill/Saved/AutoScreenshot.png
+[2017.08.21-15.17.34:205][  0]SourceControl: 	deleted:    PointShootKill/Saved/Config/CrashReportClient/UE4CC-Windows-12615D294B5CE51EB6AAE494AE820A5E/CrashReportClient.ini
+[2017.08.21-15.17.34:205][  0]SourceControl: 	deleted:    PointShootKill/Saved/Config/CrashReportClient/UE4CC-Windows-25E92A854CF17C287E33708A5CB5A565/CrashReportClient.ini
+[2017.08.21-15.17.34:205][  0]SourceControl: 	deleted:    PointShootKill/Saved/Config/CrashReportClient/UE4CC-Windows-2CACFEE74B85D8ACD451778F4EB08667/CrashReportClient.ini
+[2017.08.21-15.17.34:205][  0]SourceControl: 	deleted:    PointShootKill/Saved/Config/CrashReportClient/UE4CC-Windows-6FB61AEC454DE18267AA66B683589D8E/CrashReportClient.ini
+[2017.08.21-15.17.34:205][  0]SourceControl: 	deleted:    PointShootKill/Saved/Config/CrashReportClient/UE4CC-Windows-8AF3EEF7490FBAA3E225D684B934CB41/CrashReportClient.ini
+[2017.08.21-15.17.34:205][  0]SourceControl: 	deleted:    PointShootKill/Saved/Config/CrashReportClient/UE4CC-Windows-97DE96A147BFE7A8893D599EB2B934CC/CrashReportClient.ini
+[2017.08.21-15.17.34:205][  0]SourceControl: 	deleted:    PointShootKill/Saved/Config/CrashReportClient/UE4CC-Windows-AF7BCE1245A77600821E74BD9F0ADA80/CrashReportClient.ini
+[2017.08.21-15.17.34:205][  0]SourceControl: 	deleted:    PointShootKill/Saved/Config/CrashReportClient/UE4CC-Windows-E51A19304697C3B0A8C24EA344F84407/CrashReportClient.ini
+[2017.08.21-15.17.34:205][  0]SourceControl: 	deleted:    PointShootKill/Saved/Config/CrashReportClient/UE4CC-Windows-E90B73B9410E1C22F7BE3AAF09EC78CD/CrashReportClient.ini
+[2017.08.21-15.17.34:205][  0]SourceControl: 	deleted:    PointShootKill/Saved/Config/CrashReportClient/UE4CC-Windows-F12693DC4F42E8980A6F449352CFDEC0/CrashReportClient.ini
+[2017.08.21-15.17.34:205][  0]SourceControl: 	deleted:    PointShootKill/Saved/Config/CrashReportClient/UE4CC-Windows-F4AF435A41E443E8963F0E80309962FD/CrashReportClient.ini
+[2017.08.21-15.17.34:205][  0]SourceControl: 	modified:   PointShootKill/Saved/Config/Windows/Editor.ini
+[2017.08.21-15.17.34:205][  0]SourceControl: 	modified:   PointShootKill/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.08.21-15.17.34:205][  0]SourceControl: 	modified:   PointShootKill/Saved/Config/Windows/Engine.ini
+[2017.08.21-15.17.34:206][  0]SourceControl: 	deleted:    PointShootKill/Saved/Logs/PointShootKill-backup-2017.08.20-18.26.42.log
+[2017.08.21-15.17.34:206][  0]SourceControl: 	modified:   PointShootKill/Saved/Logs/PointShootKill.log
+[2017.08.21-15.17.34:206][  0]SourceControl: 	deleted:    PointShootKill/Saved/Logs/PointShootKill_2-backup-2017.08.20-18.26.45.log
+[2017.08.21-15.17.34:206][  0]SourceControl: 	modified:   PointShootKill/Saved/SaveGames/None.sav
+[2017.08.21-15.17.34:206][  0]SourceControl: 	modified:   PointShootKill/Saved/SaveGames/PlayerSettingsSave.sav
+[2017.08.21-15.17.34:206][  0]SourceControl: Untracked files:
+[2017.08.21-15.17.34:206][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.08.21-15.17.34:206][  0]SourceControl: 	PointShootKill/Saved/Config/CrashReportClient/UE4CC-Windows-0F6C359844FF290E98CA82A30A9823F8/
+[2017.08.21-15.17.34:206][  0]SourceControl: 	PointShootKill/Saved/Config/CrashReportClient/UE4CC-Windows-BE75D186479445E2D891999A391C01B4/
+[2017.08.21-15.17.34:206][  0]SourceControl: 	PointShootKill/Saved/Logs/PointShootKill-backup-2017.08.21-00.08.18.log
+[2017.08.21-15.17.34:206][  0]SourceControl: 	PointShootKill/Saved/Logs/PointShootKill-backup-2017.08.22-00.17.11.log
+[2017.08.21-15.17.34:206][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2017.08.21-15.17.34:206][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.08.21-15.17.34:378][  0]LogSlate: Took 0.019830 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.21-15.17.34:636][  1]LogAssetRegistry: Asset discovery search completed in 17.9835 seconds
+[2017.08.21-15.17.34:693][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.08.21-15.17.34:693][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000067 seconds (updated 0 objects)
+[2017.08.21-15.18.32:490][403]Cmd: MAP LOAD FILE="C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Maps/Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.08.21-15.18.32:521][403]LogSlate: Took 0.012309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.21-15.18.32:531][403]LightingResults: New page: Lighting Build
+[2017.08.21-15.18.32:533][403]LoadErrors: New page: Loading map: Map.umap
+[2017.08.21-15.18.32:534][403]MapCheck: New page: Map Check
+[2017.08.21-15.18.32:534][403]LightingResults: New page: Lighting Build
+[2017.08.21-15.18.33:569][403]LogAIModule: Creating AISystem for world Map
+[2017.08.21-15.18.33:767][403]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.08.21-15.18.33:863][403]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.08.21-15.18.33:987][403]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 123.324ms to complete.
+[2017.08.21-15.18.33:987][403]LogFileHelpers: Loading map 'Map' took 1.498
+[2017.08.21-15.18.44:806][437]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.08.21-15.18.44:997][437]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2017.08.21-15.18.44:998][437]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.21-15.18.45:016][437]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.08.21-15.18.45:016][437]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.08.21-15.18.45:016][437]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.08.21-15.18.45:016][437]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.08.21-15.18.45:016][437]LogModuleManager: Warning: No filename provided for module OnlineSubsystemLAN
+[2017.08.21-15.18.45:016][437]LogModuleManager: Warning: ModuleManager: Unable to load module 'OnlineSubsystemLAN' because the file 'E:/Unreal Engine/UE_4.17/Engine/Binaries/Win64/' was not found.
+[2017.08.21-15.18.45:038][437]PIE: New page: PIE session: Map (Aug 22, 2017, 9:18:45 AM)
+[2017.08.21-15.18.45:074][437]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_Map
+[2017.08.21-15.18.45:130][437]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056428s)
+[2017.08.21-15.18.45:131][437]LogAIModule: Creating AISystem for world Map
+[2017.08.21-15.18.45:131][437]LogPlayLevel: PIE: World Init took: (0.000638s)
+[2017.08.21-15.18.45:142][437]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_1_Map.Map (0.068216s)
+[2017.08.21-15.18.45:182][437]LogInit: XAudio2 using '2477W1M-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.21-15.18.45:189][437]LogInit: FAudioDevice initialized.
+[2017.08.21-15.18.45:311][437]LogLoad: Game class is 'GameplayGM_C'
+[2017.08.21-15.18.45:415][437]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Map.Map up for play (max tick rate 0) at 2017.08.22-00.18.45
+[2017.08.21-15.18.45:486][437]LogWorld: Bringing up level for play took: 0.086616
+[2017.08.21-15.18.45:800][437]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.08.21-15.18.45:855][437]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.21-15.18.45:871][437]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2017.08.21-15.18.45:871][437]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.21-15.18.45:884][437]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.08.21-15.18.45:884][437]LogInit: WinSock: I am Rutka (192.168.0.5:0)
+[2017.08.21-15.18.45:884][437]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.21-15.18.45:899][437]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 7777
+[2017.08.21-15.18.46:023][437]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_Map 0.843
+[2017.08.21-15.18.46:025][437]PIE: New page: PIE session: Map (Aug 22, 2017, 9:18:46 AM)
+[2017.08.21-15.18.46:117][437]LogNet: Browse: 127.0.0.1//Game/Maps/MainMenu
+[2017.08.21-15.18.46:119][437]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.21-15.18.46:119][437]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2017.08.21-15.18.46:119][437]LogTemp: Display: ParseSettings for PendingNetDriver
+[2017.08.21-15.18.46:120][437]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.08.21-15.18.46:128][437]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.21-15.18.46:133][437]LogNet: Game client on port 7777, rate 10000
+[2017.08.21-15.18.46:153][437]PIE: Play in editor start time for /Game/Maps/MainMenu 0.973
+[2017.08.21-15.18.46:172][437]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2017.08.21-15.18.46:185][437]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49433
+[2017.08.21-15.18.46:185][437]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 076088252115022092220084226076075090189247098174225136237008
+[2017.08.21-15.18.46:402][437]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 076088252115022092220084226076075090189247098174225136237008
+[2017.08.21-15.18.46:492][437]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2017.08.21-15.18.46:591][438]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49433
+[2017.08.21-15.18.46:600][438]LogHandshake: SendChallengeAck. InCookie: 076088252115022092220084226076075090189247098174225136237008
+[2017.08.21-15.18.46:600][438]LogNet: Server accepting post-challenge connection from: 127.0.0.1:49433
+[2017.08.21-15.18.46:600][438]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.21-15.18.46:600][438]LogNet: NotifyAcceptedConnection: Name: Map, TimeStamp: 08/22/17 00:18:46, [UNetConnection] RemoteAddr: 127.0.0.1:49433, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2017.08.21-15.18.46:600][438]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:49433, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2017.08.21-15.18.46:639][438]LogNetVersion: PointShootKill 1.0.0.0, NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1001203919)
+[2017.08.21-15.18.46:640][438]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL
+[2017.08.21-15.18.46:711][439]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_Map.Map: Accepted
+[2017.08.21-15.18.46:712][439]LogNet: Remote platform little endian=1
+[2017.08.21-15.18.46:724][439]LogNet: This platform little endian=1
+[2017.08.21-15.18.46:762][440]LogNet: Login request: /Game/Maps/MainMenu?Name=Rutka-97702F474B68D7585491C59305E6099E userId: Rutka-97702F474B68D7585491C59305E6099E
+[2017.08.21-15.18.46:764][440]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_Map, Game: /Game/Blueprints/GamePlay/GameplayGM.GameplayGM_C)
+[2017.08.21-15.18.46:770][440]LogLoad: LoadMap: 127.0.0.1//Game/Maps/UEDPIE_1_Map?game=/Game/Blueprints/GamePlay/GameplayGM.GameplayGM_C
+[2017.08.21-15.18.46:796][440]Cmd: MEM
+[2017.08.21-15.18.46:896][440]LogMemory: Platform Memory Stats for Windows
+[2017.08.21-15.18.46:896][440]LogMemory: Process Physical Memory: 1398.68 MB used, 1398.68 MB peak
+[2017.08.21-15.18.46:896][440]LogMemory: Process Virtual Memory: 2665.77 MB used, 2665.77 MB peak
+[2017.08.21-15.18.46:896][440]LogMemory: Physical Memory: 4378.96 MB used,  3732.12 MB free, 8111.07 MB total
+[2017.08.21-15.18.46:896][440]LogMemory: Virtual Memory: 3481.45 MB used,  3732.12 MB free, 134217728.00 MB total
+[2017.08.21-15.18.46:896][440]LogMemory: 
+[2017.08.21-15.18.46:896][440]Allocator Stats for TBB: (not implemented)
+[2017.08.21-15.18.46:939][440]LogAIModule: Creating AISystem for world Map
+[2017.08.21-15.18.46:939][440]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.21-15.18.46:957][440]LogWorld: Bringing World /Game/Maps/UEDPIE_2_Map.Map up for play (max tick rate 0) at 2017.08.22-00.18.46
+[2017.08.21-15.18.46:957][440]LogWorld: Bringing up level for play took: 0.017001
+[2017.08.21-15.18.46:958][440]LogLoad: Took 0.187168 seconds to LoadMap(/Game/Maps/UEDPIE_1_Map)
+[2017.08.21-15.18.47:004][441]LogNet: Client netspeed is 10000
+[2017.08.21-15.18.47:004][441]LogNet: Join request: /Game/Maps/MainMenu?Name=Rutka-97702F474B68D7585491C59305E6099E?SplitscreenCount=1
+[2017.08.21-15.18.47:004][441]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2017.08.21-15.18.47:126][441]LogNet: Join succeeded: Rutka-97702F474B68D7
+[2017.08.21-15.18.47:200][442]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2017.08.21-15.18.47:201][442]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2017.08.21-15.18.47:290][442]LogScript: Warning: Accessed None trying to read property My Char
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_1.HUD_C_1
+	Function /Game/FirstPersonBP/Blueprints/HUD.HUD_C:GetText_0:003D
+[2017.08.21-15.18.47:291][442]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:291][442]LogScript: Warning: Accessed None trying to read property My Char
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_1.HUD_C_1
+	Function /Game/FirstPersonBP/Blueprints/HUD.HUD_C:GetText_1:003D
+[2017.08.21-15.18.47:291][442]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:378][443]LogScript: Warning: Accessed None trying to read property My Char
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_1.HUD_C_1
+	Function /Game/FirstPersonBP/Blueprints/HUD.HUD_C:GetText_0:003D
+[2017.08.21-15.18.47:378][443]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:378][443]LogScript: Warning: Accessed None trying to read property My Char
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_1.HUD_C_1
+	Function /Game/FirstPersonBP/Blueprints/HUD.HUD_C:GetText_1:003D
+[2017.08.21-15.18.47:378][443]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:396][444]LogScript: Warning: Accessed None trying to read property My Char
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_1.HUD_C_1
+	Function /Game/FirstPersonBP/Blueprints/HUD.HUD_C:GetText_0:003D
+[2017.08.21-15.18.47:396][444]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:396][444]LogScript: Warning: Accessed None trying to read property My Char
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_1.HUD_C_1
+	Function /Game/FirstPersonBP/Blueprints/HUD.HUD_C:GetText_1:003D
+[2017.08.21-15.18.47:397][444]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:412][445]LogScript: Warning: Accessed None trying to read property My Char
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_1.HUD_C_1
+	Function /Game/FirstPersonBP/Blueprints/HUD.HUD_C:GetText_0:003D
+[2017.08.21-15.18.47:412][445]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:412][445]LogScript: Warning: Accessed None trying to read property My Char
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_1.HUD_C_1
+	Function /Game/FirstPersonBP/Blueprints/HUD.HUD_C:GetText_1:003D
+[2017.08.21-15.18.47:412][445]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:426][446]LogScript: Warning: Accessed None trying to read property My Char
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_1.HUD_C_1
+	Function /Game/FirstPersonBP/Blueprints/HUD.HUD_C:GetText_0:003D
+[2017.08.21-15.18.47:426][446]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:426][446]LogScript: Warning: Accessed None trying to read property My Char
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_1.HUD_C_1
+	Function /Game/FirstPersonBP/Blueprints/HUD.HUD_C:GetText_1:003D
+[2017.08.21-15.18.47:426][446]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:440][447]LogScript: Warning: Accessed None trying to read property My Char
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_1.HUD_C_1
+	Function /Game/FirstPersonBP/Blueprints/HUD.HUD_C:GetText_0:003D
+[2017.08.21-15.18.47:440][447]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:440][447]LogScript: Warning: Accessed None trying to read property My Char
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_1.HUD_C_1
+	Function /Game/FirstPersonBP/Blueprints/HUD.HUD_C:GetText_1:003D
+[2017.08.21-15.18.47:440][447]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:453][448]LogScript: Warning: Accessed None trying to read property My Char
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_1.HUD_C_1
+	Function /Game/FirstPersonBP/Blueprints/HUD.HUD_C:GetText_0:003D
+[2017.08.21-15.18.47:454][448]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:454][448]LogScript: Warning: Accessed None trying to read property My Char
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_1.HUD_C_1
+	Function /Game/FirstPersonBP/Blueprints/HUD.HUD_C:GetText_1:003D
+[2017.08.21-15.18.47:454][448]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:468][449]LogScript: Warning: Accessed None trying to read property My Char
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_1.HUD_C_1
+	Function /Game/FirstPersonBP/Blueprints/HUD.HUD_C:GetText_0:003D
+[2017.08.21-15.18.47:468][449]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:468][449]LogScript: Warning: Accessed None trying to read property My Char
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_1.HUD_C_1
+	Function /Game/FirstPersonBP/Blueprints/HUD.HUD_C:GetText_1:003D
+[2017.08.21-15.18.47:468][449]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:482][450]LogScript: Warning: Accessed None trying to read property My Char
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_1.HUD_C_1
+	Function /Game/FirstPersonBP/Blueprints/HUD.HUD_C:GetText_0:003D
+[2017.08.21-15.18.47:482][450]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:482][450]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:495][451]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:495][451]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:515][452]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:515][452]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:529][453]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:530][453]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:547][454]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:547][454]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:561][455]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:561][455]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:577][456]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:578][456]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:612][457]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:612][457]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:635][458]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:635][458]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:651][459]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:651][459]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:665][460]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:665][460]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:678][461]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:678][461]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:691][462]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:691][462]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:704][463]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:704][463]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:719][464]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:719][464]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:732][465]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:733][465]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:746][466]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:746][466]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:760][467]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:760][467]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:774][468]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:774][468]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:788][469]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:788][469]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:802][470]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:802][470]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:817][471]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:817][471]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:830][472]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:830][472]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:843][473]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:843][473]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:855][474]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:855][474]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:866][475]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:867][475]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:882][476]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:882][476]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:895][477]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:896][477]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:909][478]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:910][478]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:924][479]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:924][479]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:938][480]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:938][480]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:952][481]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:952][481]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:966][482]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:966][482]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:981][483]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:982][483]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:995][484]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_0' from node: Return Node in graph: GetText_0 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.47:995][484]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property My Char from function: 'GetText_1' from node: Return Node in graph: GetText_1 in object: HUD with description: Accessed None trying to read property My Char
+[2017.08.21-15.18.48:004][485]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2017.08.21-15.18.48:100][485]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.08.21-15.18.48:100][485]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.08.21-15.18.48:116][485]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.08.21-15.18.48:116][485]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.08.21-15.18.48:116][485]LogOnline: Warning: OSS: No game present to leave for session (Game)
+[2017.08.21-15.18.48:211][485]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.08.21-15.18.48:211][485]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.08.21-15.18.48:211][485]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.08.21-15.18.48:211][485]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.08.21-15.18.48:211][485]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2017.08.21-15.18.48:212][485]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2017.08.21-15.18.48:226][485]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:49433, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2017.08.21-15.18.48:226][485]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:49433, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2017.08.21-15.18.48
+[2017.08.21-15.18.48:226][485]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:49433, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2017.08.21-15.18.48:226][485]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2017.08.21-15.18.48:226][485]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2017.08.21-15.18.48
+[2017.08.21-15.18.48:226][485]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2017.08.21-15.18.48:228][485]LogExit: GameNetDriver None shut down
+[2017.08.21-15.18.48:229][485]LogExit: GameNetDriver None shut down
+[2017.08.21-15.18.48:298][486]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2017.08.21-15.18.48:298][486]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.08.21-15.18.48:298][486]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2017.08.21-15.18.48:298][486]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.08.21-15.18.58:304][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube67)
+[2017.08.21-15.21.32:331][237]LogEditorViewport: Clicking on Actor (LMB): LaunchPad_Blueprint_C (LaunchPad_Blueprint)
+[2017.08.21-15.21.36:788][682]LogSlate: Took 0.017145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.08.21-15.21.41:496][103]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 113 classes and 0 folders.
+[2017.08.21-15.21.43:275][103]LogSlate: Took 0.029572 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.08.21-15.21.56:952][378]LogSlate: Took 0.000413 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.21-15.25.42:055][906]BlueprintLog: New page: Compile LaunchPad_Blueprint
+[2017.08.21-15.25.42:437][906]LogBlueprint: Warning: [Compiler LaunchPad_Blueprint] 'Character Select' does not inherit from 'Player Controller' ( Cast To CharacterSelect  would always fail).
+[2017.08.21-15.25.42:438][906]LogBlueprint: Error: [Compiler LaunchPad_Blueprint] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2017.08.21-15.25.42:892][906]LogBlueprint: Warning: [Compiler LaunchPad_Blueprint] [0512.90] Compile of LaunchPad_Blueprint failed. 1 Fatal Issue(s) 1 Warning(s) [in 837 ms] (/Game/Assets/LaunchPad_Blueprint.LaunchPad_Blueprint)
+[2017.08.21-15.26.00:133][218]BlueprintLog: New page: Compile LaunchPad_Blueprint
+[2017.08.21-15.26.00:144][218]LogBlueprint: Warning: [Compiler LaunchPad_Blueprint] 'Character Select' does not inherit from 'Player Controller' ( Cast To CharacterSelect  would always fail).
+[2017.08.21-15.26.00:289][218]LogBlueprint: Warning: [Compiler LaunchPad_Blueprint] [0530.29] Compile of LaunchPad_Blueprint successful, but with 1 Warning(s) [in 156 ms] (/Game/Assets/LaunchPad_Blueprint.LaunchPad_Blueprint)
+[2017.08.21-15.26.24:654][  3]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Blueprints/MainMenu/MainMenu.MainMenu_C
+[2017.08.21-15.26.24:654][  3]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.SKEL_MainMenu_C or BlueprintGeneratedClass /Game/Blueprints/MainMenu/MainMenu.SKEL_MainMenu_C
+[2017.08.21-15.26.24:746][  3]LogAudioDerivedData: Display: Building compressed audio format OGG wave AK47_Reload...
+[2017.08.21-15.26.35:761][850]BlueprintLog: New page: Compile LaunchPad_Blueprint
+[2017.08.21-15.26.35:771][850]LogBlueprint: Warning: [Compiler LaunchPad_Blueprint] 'Character Select' does not inherit from 'First Person Character' ( Cast To CharacterSelect  would always fail).
+[2017.08.21-15.26.36:225][850]LogBlueprint: Warning: [Compiler LaunchPad_Blueprint] [0566.23] Compile of LaunchPad_Blueprint successful, but with 1 Warning(s) [in 463 ms] (/Game/Assets/LaunchPad_Blueprint.LaunchPad_Blueprint)
+[2017.08.21-15.26.40:592][195]BlueprintLog: New page: Compile LaunchPad_Blueprint
+[2017.08.21-15.26.40:602][195]LogBlueprint: Warning: [Compiler LaunchPad_Blueprint] 'Character Select' does not inherit from 'Pawn' ( Cast To CharacterSelect  would always fail).
+[2017.08.21-15.26.41:033][195]LogBlueprint: Warning: [Compiler LaunchPad_Blueprint] [0571.04] Compile of LaunchPad_Blueprint successful, but with 1 Warning(s) [in 441 ms] (/Game/Assets/LaunchPad_Blueprint.LaunchPad_Blueprint)
+[2017.08.21-15.26.57:134][279]BlueprintLog: New page: Compile LaunchPad_Blueprint
+[2017.08.21-15.26.57:144][279]LogBlueprint: Warning: [Compiler LaunchPad_Blueprint] 'Character Select' does not inherit from 'Game Instance' ( Cast To CharacterSelect  would always fail).
+[2017.08.21-15.26.57:617][279]LogBlueprint: Warning: [Compiler LaunchPad_Blueprint] [0587.62] Compile of LaunchPad_Blueprint successful, but with 1 Warning(s) [in 483 ms] (/Game/Assets/LaunchPad_Blueprint.LaunchPad_Blueprint)
+[2017.08.21-15.27.21:724][264]BlueprintLog: New page: Compile LaunchPad_Blueprint
+[2017.08.21-15.27.21:734][264]LogBlueprint: Warning: [Compiler LaunchPad_Blueprint] 'Character Select' does not inherit from 'Actor' ( Cast To CharacterSelect  would always fail).
+[2017.08.21-15.27.22:178][264]LogBlueprint: Warning: [Compiler LaunchPad_Blueprint] [0612.18] Compile of LaunchPad_Blueprint successful, but with 1 Warning(s) [in 454 ms] (/Game/Assets/LaunchPad_Blueprint.LaunchPad_Blueprint)
+[2017.08.21-15.27.27:069][638]BlueprintLog: New page: Compile LaunchPad_Blueprint
+[2017.08.21-15.27.27:079][638]LogBlueprint: Warning: [Compiler LaunchPad_Blueprint] 'Character Select' does not inherit from 'Pawn' ( Cast To CharacterSelect  would always fail).
+[2017.08.21-15.27.27:534][638]LogBlueprint: Warning: [Compiler LaunchPad_Blueprint] [0617.54] Compile of LaunchPad_Blueprint successful, but with 1 Warning(s) [in 464 ms] (/Game/Assets/LaunchPad_Blueprint.LaunchPad_Blueprint)
+[2017.08.21-15.27.28:817][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/LaunchPad_Blueprint" FILE="C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Assets/LaunchPad_Blueprint.uasset" SILENT=true
+[2017.08.21-15.27.28:989][681]LogSavePackage: Save=104.96ms
+[2017.08.21-15.27.28:989][681]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/LaunchPad_Blueprint0E8EA49B445FD630449DBB96685E6B94.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Assets/LaunchPad_Blueprint.uasset'
+[2017.08.21-15.27.29:006][681]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Assets/LaunchPad_Blueprint.uasset
+[2017.08.21-15.28.15:661][138]BlueprintLog: New page: Compile LaunchPad_Blueprint
+[2017.08.21-15.28.15:671][138]LogBlueprint: Error: [Compiler LaunchPad_Blueprint] The type of  Object  is undetermined.  Connect something to  Cast To CharacterSelect  to imply a specific type.
+[2017.08.21-15.28.15:700][138]LogBlueprint: Error: [Compiler LaunchPad_Blueprint] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2017.08.21-15.28.15:874][138]LogBlueprint: Warning: [Compiler LaunchPad_Blueprint] [0665.88] Compile of LaunchPad_Blueprint failed. 2 Fatal Issue(s) 0 Warning(s) [in 212 ms] (/Game/Assets/LaunchPad_Blueprint.LaunchPad_Blueprint)
+[2017.08.21-15.29.17:520][495]LogSavePackage: Save=375.48ms
+[2017.08.21-15.29.17:520][495]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/Map_Auto1C437B84D422B4B35F80F20BA6A32BC82.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/Autosaves/Game/Maps/Map_Auto1.umap'
+[2017.08.21-15.29.17:523][495]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/Autosaves/Game/Maps/Map_Auto1.umap
+[2017.08.21-15.29.17:526][495]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Map' took 0.519
+[2017.08.21-15.29.17:526][495]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.519
+[2017.08.21-15.29.17:551][495]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/LaunchPad_Blueprint] ([1] browsable assets)...
+[2017.08.21-15.29.17:577][495]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/LaunchPad_Blueprint.LaunchPad_Blueprint]
+[2017.08.21-15.29.17:577][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/LaunchPad_Blueprint]
+[2017.08.21-15.29.17:628][495]LogSavePackage: Save=30.01ms
+[2017.08.21-15.29.17:628][495]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/LaunchPad_Blueprint_Auto1838FEADD4BB6332FBF1B84AD30ACF64F.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/Autosaves/Game/Assets/LaunchPad_Blueprint_Auto1.uasset'
+[2017.08.21-15.29.17:631][495]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/Autosaves/Game/Assets/LaunchPad_Blueprint_Auto1.uasset
+[2017.08.21-15.29.17:631][495]LogFileHelpers: Auto-saving content packages took 0.094
+[2017.08.21-15.31.23:387][ 98]BlueprintLog: New page: Compile LaunchPad_Blueprint
+[2017.08.21-15.31.23:397][ 98]LogBlueprint: Error: [Compiler LaunchPad_Blueprint] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2017.08.21-15.31.23:549][ 98]LogBlueprint: Warning: [Compiler LaunchPad_Blueprint] [0853.55] Compile of LaunchPad_Blueprint failed. 1 Fatal Issue(s) 0 Warning(s) [in 161 ms] (/Game/Assets/LaunchPad_Blueprint.LaunchPad_Blueprint)
+[2017.08.21-15.32.03:622][944]BlueprintLog: New page: Compile LaunchPad_Blueprint
+[2017.08.21-15.32.03:632][944]LogBlueprint: Warning: [Compiler LaunchPad_Blueprint] 'Lobby PC' does not inherit from 'Game Instance' ( Cast To LobbyPC  would always fail).
+[2017.08.21-15.32.03:866][944]LogBlueprint: Warning: [Compiler LaunchPad_Blueprint] [0893.87] Compile of LaunchPad_Blueprint successful, but with 1 Warning(s) [in 243 ms] (/Game/Assets/LaunchPad_Blueprint.LaunchPad_Blueprint)
+[2017.08.21-15.32.25:401][439]BlueprintLog: New page: Compile LaunchPad_Blueprint
+[2017.08.21-15.32.25:411][439]LogBlueprint: Error: [Compiler LaunchPad_Blueprint] The type of  Object  is undetermined.  Connect something to  Cast To LobbyPC  to imply a specific type.
+[2017.08.21-15.32.25:411][439]LogBlueprint: Error: [Compiler LaunchPad_Blueprint] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2017.08.21-15.32.25:615][439]LogBlueprint: Warning: [Compiler LaunchPad_Blueprint] [0915.62] Compile of LaunchPad_Blueprint failed. 2 Fatal Issue(s) 0 Warning(s) [in 214 ms] (/Game/Assets/LaunchPad_Blueprint.LaunchPad_Blueprint)
+[2017.08.21-15.33.50:691][170]BlueprintLog: New page: Compile LaunchPad_Blueprint
+[2017.08.21-15.33.51:906][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/LaunchPad_Blueprint" FILE="C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Assets/LaunchPad_Blueprint.uasset" SILENT=true
+[2017.08.21-15.33.51:971][224]LogSavePackage: Save=32.42ms
+[2017.08.21-15.33.51:971][224]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/LaunchPad_Blueprint282C6DF24C67DA3E78B41D8E01521CEF.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Assets/LaunchPad_Blueprint.uasset'
+[2017.08.21-15.33.51:976][224]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Assets/LaunchPad_Blueprint.uasset
+[2017.08.21-15.34.06:368][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Maps/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.08.21-15.34.06:748][432]LogSavePackage: Save=334.36ms
+[2017.08.21-15.34.06:748][432]LogSavePackage: Moving 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Saved/Map3C5C733244F70838CF632ABBC2464B72.tmp' to 'C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Maps/Map.umap'
+[2017.08.21-15.34.06:753][432]LogSavePackage: Display: Finished SavePackage C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Maps/Map.umap
+[2017.08.21-15.34.06:800][432]LogFileHelpers: Saving map 'Map' took 0.571
+[2017.08.21-15.34.06:805][432]Cmd: MAP LOAD FILE="C:/Users/ruthk/Documents/Unreal Projects/PointShootKill/PointShootKill/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.08.21-15.34.06:813][432]LightingResults: New page: Lighting Build
+[2017.08.21-15.34.06:814][432]LoadErrors: New page: Loading map: MainMenu.umap
+[2017.08.21-15.34.06:816][432]MapCheck: New page: Map Check
+[2017.08.21-15.34.06:816][432]LightingResults: New page: Lighting Build
+[2017.08.21-15.34.06:857][432]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.21-15.34.07:789][432]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.08.21-15.34.07:839][432]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.08.21-15.34.07:964][432]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 125.069ms to complete.
+[2017.08.21-15.34.07:964][432]LogFileHelpers: Loading map 'MainMenu' took 1.161
+[2017.08.21-15.34.10:038][672]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.08.21-15.34.10:059][672]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.21-15.34.10:059][672]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.21-15.34.10:061][672]PIE: New page: PIE session: MainMenu (Aug 22, 2017, 9:34:10 AM)
+[2017.08.21-15.34.10:062][672]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_MainMenu
+[2017.08.21-15.34.10:063][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000912s)
+[2017.08.21-15.34.10:063][672]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.21-15.34.10:063][672]LogPlayLevel: PIE: World Init took: (0.000672s)
+[2017.08.21-15.34.10:064][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_1_MainMenu.MainMenu (0.001887s)
+[2017.08.21-15.34.10:096][672]LogInit: XAudio2 using '2477W1M-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.21-15.34.10:104][672]LogInit: FAudioDevice initialized.
+[2017.08.21-15.34.10:146][672]LogLoad: Game class is 'MainMenu_C'
+[2017.08.21-15.34.10:148][672]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.22-00.34.10
+[2017.08.21-15.34.10:148][672]LogWorld: Bringing up level for play took: 0.000863
+[2017.08.21-15.34.10:160][672]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.21-15.34.10:160][672]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2017.08.21-15.34.10:160][672]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.21-15.34.10:161][672]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.08.21-15.34.10:161][672]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.21-15.34.10:161][672]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 7777
+[2017.08.21-15.34.10:196][672]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_MainMenu 1.016
+[2017.08.21-15.34.10:198][672]PIE: New page: PIE session: MainMenu (Aug 22, 2017, 9:34:10 AM)
+[2017.08.21-15.34.10:254][672]LogNet: Browse: 127.0.0.1//Game/Maps/MainMenu
+[2017.08.21-15.34.10:254][672]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.21-15.34.10:254][672]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2017.08.21-15.34.10:254][672]LogTemp: Display: ParseSettings for PendingNetDriver
+[2017.08.21-15.34.10:254][672]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.08.21-15.34.10:255][672]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.21-15.34.10:255][672]LogNet: Game client on port 7777, rate 10000
+[2017.08.21-15.34.10:260][672]PIE: Play in editor start time for /Game/Maps/MainMenu 1.08
+[2017.08.21-15.34.10:274][672]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.08.21-15.34.10:276][672]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58831
+[2017.08.21-15.34.10:276][672]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 021032192224191000197070177177158059208174064188108098224086
+[2017.08.21-15.34.10:291][672]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 021032192224191000197070177177158059208174064188108098224086
+[2017.08.21-15.34.10:382][673]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58831
+[2017.08.21-15.34.10:382][673]LogHandshake: SendChallengeAck. InCookie: 021032192224191000197070177177158059208174064188108098224086
+[2017.08.21-15.34.10:382][673]LogNet: Server accepting post-challenge connection from: 127.0.0.1:58831
+[2017.08.21-15.34.10:382][673]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.21-15.34.10:382][673]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 08/22/17 00:34:10, [UNetConnection] RemoteAddr: 127.0.0.1:58831, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2017.08.21-15.34.10:382][673]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:58831, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2017.08.21-15.34.10:383][673]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL
+[2017.08.21-15.34.10:396][674]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_MainMenu.MainMenu: Accepted
+[2017.08.21-15.34.10:396][674]LogNet: Remote platform little endian=1
+[2017.08.21-15.34.10:396][674]LogNet: This platform little endian=1
+[2017.08.21-15.34.10:419][675]LogNet: Login request: /Game/Maps/MainMenu?Name=Rutka-4AB408144629C386151206A2FA111C4F userId: Rutka-4AB408144629C386151206A2FA111C4F
+[2017.08.21-15.34.10:419][675]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_MainMenu, Game: /Game/Blueprints/MainMenu/MainMenu.MainMenu_C)
+[2017.08.21-15.34.10:419][675]LogLoad: LoadMap: 127.0.0.1//Game/Maps/UEDPIE_1_MainMenu?game=/Game/Blueprints/MainMenu/MainMenu.MainMenu_C
+[2017.08.21-15.34.10:442][675]Cmd: MEM
+[2017.08.21-15.34.10:465][675]LogMemory: Platform Memory Stats for Windows
+[2017.08.21-15.34.10:465][675]LogMemory: Process Physical Memory: 2573.43 MB used, 2574.32 MB peak
+[2017.08.21-15.34.10:465][675]LogMemory: Process Virtual Memory: 4102.83 MB used, 4102.83 MB peak
+[2017.08.21-15.34.10:465][675]LogMemory: Physical Memory: 5527.85 MB used,  2583.23 MB free, 8111.07 MB total
+[2017.08.21-15.34.10:465][675]LogMemory: Virtual Memory: 4969.17 MB used,  2583.23 MB free, 134217728.00 MB total
+[2017.08.21-15.34.10:465][675]LogMemory: 
+[2017.08.21-15.34.10:465][675]Allocator Stats for TBB: (not implemented)
+[2017.08.21-15.34.10:467][675]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.21-15.34.10:467][675]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.21-15.34.10:468][675]LogWorld: Bringing World /Game/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.22-00.34.10
+[2017.08.21-15.34.10:468][675]LogWorld: Bringing up level for play took: 0.000842
+[2017.08.21-15.34.10:469][675]LogLoad: Took 0.049213 seconds to LoadMap(/Game/Maps/UEDPIE_1_MainMenu)
+[2017.08.21-15.34.10:489][676]LogNet: Client netspeed is 10000
+[2017.08.21-15.34.10:489][676]LogNet: Join request: /Game/Maps/MainMenu?Name=Rutka-4AB408144629C386151206A2FA111C4F?SplitscreenCount=1
+[2017.08.21-15.34.10:489][676]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2017.08.21-15.34.10:490][676]LogNet: Join succeeded: Rutka-4AB408144629C3
+[2017.08.21-15.34.10:505][677]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2017.08.21-15.34.10:528][679]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2017.08.21-15.34.14:974][ 45]LogNet: Browse: /Game/Maps/Lobby?listen
+[2017.08.21-15.34.14:974][ 45]LogLoad: LoadMap: /Game/Maps/Lobby?listen
+[2017.08.21-15.34.14:974][ 45]LogNet: World NetDriver shutdown IpNetDriver_2 [GameNetDriver]
+[2017.08.21-15.34.14:974][ 45]LogNet: DestroyNamedNetDriver IpNetDriver_2 [GameNetDriver]
+[2017.08.21-15.34.14:986][ 45]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:58831, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1
+[2017.08.21-15.34.14:986][ 45]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:58831, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, Channels: 10, Time: 2017.08.21-15.34.14
+[2017.08.21-15.34.14:986][ 45]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:58831, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1
+[2017.08.21-15.34.14:986][ 45]LogExit: GameNetDriver IpNetDriver_2 shut down
+[2017.08.21-15.34.15:010][ 45]Cmd: MEM
+[2017.08.21-15.34.15:030][ 45]LogMemory: Platform Memory Stats for Windows
+[2017.08.21-15.34.15:030][ 45]LogMemory: Process Physical Memory: 2596.55 MB used, 2601.25 MB peak
+[2017.08.21-15.34.15:030][ 45]LogMemory: Process Virtual Memory: 4053.82 MB used, 4157.56 MB peak
+[2017.08.21-15.34.15:030][ 45]LogMemory: Physical Memory: 5548.12 MB used,  2562.95 MB free, 8111.07 MB total
+[2017.08.21-15.34.15:030][ 45]LogMemory: Virtual Memory: 4956.84 MB used,  2562.95 MB free, 134217728.00 MB total
+[2017.08.21-15.34.15:030][ 45]LogMemory: 
+[2017.08.21-15.34.15:030][ 45]Allocator Stats for TBB: (not implemented)
+[2017.08.21-15.34.16:244][ 45]LogAIModule: Creating AISystem for world Lobby
+[2017.08.21-15.34.16:244][ 45]LogLoad: Game class is 'LobbyGM_C'
+[2017.08.21-15.34.16:244][ 45]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.21-15.34.16:244][ 45]LogTemp: Display: ParseSettings for IpNetDriver_4
+[2017.08.21-15.34.16:244][ 45]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.21-15.34.16:245][ 45]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.08.21-15.34.16:245][ 45]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.21-15.34.16:245][ 45]LogNet: GameNetDriver IpNetDriver_4 IpNetDriver listening on port 7777
+[2017.08.21-15.34.16:248][ 45]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Lobby.Lobby up for play (max tick rate 0) at 2017.08.22-00.34.16
+[2017.08.21-15.34.16:248][ 45]LogWorld: Bringing up level for play took: 0.002138
+[2017.08.21-15.34.16:432][ 45]LogLoad: Took 1.458280 seconds to LoadMap(/Game/Maps/Lobby)
+[2017.08.21-15.34.16:434][ 45]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2017.08.21-15.34.16:434][ 45]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2017.08.21-15.34.16:442][ 45]LogNet: NetworkFailure: FailureReceived, Error: 'Host closed the connection.'
+[2017.08.21-15.34.16:443][ 45]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, Channels: 10, Time: 2017.08.21-15.34.16
+[2017.08.21-15.34.16:443][ 45]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1
+[2017.08.21-15.34.16:456][ 45]LogNet: Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2017.08.21-15.34.16:456][ 45]LogNet: Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2017.08.21-15.34.16:456][ 45]LogNet: NetworkFailure: ConnectionLost, Error: 'Your connection to the host has been lost.'
+[2017.08.21-15.34.16:494][ 46]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58831
+[2017.08.21-15.34.16:494][ 46]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58831
+[2017.08.21-15.34.16:494][ 46]LogNet: Browse: /Game/Maps/MainMenu?closed
+[2017.08.21-15.34.16:494][ 46]LogNet: Failed; returning to Entry
+[2017.08.21-15.34.16:511][ 46]LogLoad: LoadMap: /Game/Maps/MainMenu?closed
+[2017.08.21-15.34.16:511][ 46]LogNet: World NetDriver shutdown IpNetDriver_3 [GameNetDriver]
+[2017.08.21-15.34.16:511][ 46]LogNet: DestroyNamedNetDriver IpNetDriver_3 [GameNetDriver]
+[2017.08.21-15.34.16:511][ 46]LogExit: GameNetDriver IpNetDriver_3 shut down
+[2017.08.21-15.34.16:538][ 46]Cmd: MEM
+[2017.08.21-15.34.16:560][ 46]LogMemory: Platform Memory Stats for Windows
+[2017.08.21-15.34.16:560][ 46]LogMemory: Process Physical Memory: 2797.33 MB used, 2805.26 MB peak
+[2017.08.21-15.34.16:560][ 46]LogMemory: Process Virtual Memory: 4360.65 MB used, 4360.65 MB peak
+[2017.08.21-15.34.16:560][ 46]LogMemory: Physical Memory: 5692.57 MB used,  2418.50 MB free, 8111.07 MB total
+[2017.08.21-15.34.16:560][ 46]LogMemory: Virtual Memory: 5210.96 MB used,  2418.50 MB free, 134217728.00 MB total
+[2017.08.21-15.34.16:560][ 46]LogMemory: 
+[2017.08.21-15.34.16:560][ 46]Allocator Stats for TBB: (not implemented)
+[2017.08.21-15.34.16:560][ 46]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_2_MainMenu
+[2017.08.21-15.34.16:561][ 46]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001058s)
+[2017.08.21-15.34.16:562][ 46]LogAIModule: Creating AISystem for world MainMenu
+[2017.08.21-15.34.16:562][ 46]LogPlayLevel: PIE: World Init took: (0.000697s)
+[2017.08.21-15.34.16:562][ 46]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_2_MainMenu.MainMenu (0.002082s)
+[2017.08.21-15.34.16:562][ 46]LogLoad: Game class is 'MainMenu_C'
+[2017.08.21-15.34.16:564][ 46]LogWorld: Bringing World /Game/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 0) at 2017.08.22-00.34.16
+[2017.08.21-15.34.16:564][ 46]LogWorld: Bringing up level for play took: 0.001401
+[2017.08.21-15.34.16:567][ 46]LogLoad: Took 0.056099 seconds to LoadMap(/Game/Maps/UEDPIE_2_MainMenu)
+[2017.08.21-15.34.24:924][763]LogNet: Browse: 192.168.0.5//Game/Maps/MainMenu
+[2017.08.21-15.34.24:924][763]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.21-15.34.24:924][763]LogTemp: Display: ParseSettings for IpNetDriver_5
+[2017.08.21-15.34.24:924][763]LogTemp: Display: ParseSettings for PendingNetDriver
+[2017.08.21-15.34.24:924][763]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.08.21-15.34.24:924][763]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.21-15.34.24:924][763]LogNet: Game client on port 7777, rate 10000
+[2017.08.21-15.34.24:935][764]LogNet: NotifyAcceptingConnection accepted from: 192.168.0.5:58832
+[2017.08.21-15.34.24:935][764]LogHandshake: SendConnectChallenge. Timestamp: 10.066960, Cookie: 246185144090037234173116223127136158127144023131074143123205
+[2017.08.21-15.34.24:936][764]LogHandshake: SendChallengeResponse. Timestamp: 10.066960, Cookie: 246185144090037234173116223127136158127144023131074143123205
+[2017.08.21-15.34.24:947][765]LogNet: NotifyAcceptingConnection accepted from: 192.168.0.5:58832
+[2017.08.21-15.34.24:947][765]LogHandshake: SendChallengeAck. InCookie: 246185144090037234173116223127136158127144023131074143123205
+[2017.08.21-15.34.24:947][765]LogNet: Server accepting post-challenge connection from: 192.168.0.5:58832
+[2017.08.21-15.34.24:948][765]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.08.21-15.34.24:948][765]LogNet: NotifyAcceptedConnection: Name: Lobby, TimeStamp: 08/22/17 00:34:24, [UNetConnection] RemoteAddr: 192.168.0.5:58832, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL
+[2017.08.21-15.34.24:948][765]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 192.168.0.5:58832, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL
+[2017.08.21-15.34.24:948][765]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 192.168.0.5:7777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL
+[2017.08.21-15.34.24:959][766]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_Lobby.Lobby: Accepted
+[2017.08.21-15.34.24:959][766]LogNet: Remote platform little endian=1
+[2017.08.21-15.34.24:959][766]LogNet: This platform little endian=1
+[2017.08.21-15.34.24:970][767]LogNet: Login request: /Game/Maps/MainMenu?Name=Rutka-4AB408144629C386151206A2FA111C4F userId: Rutka-4AB408144629C386151206A2FA111C4F
+[2017.08.21-15.34.24:971][767]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_Lobby, Game: /Game/Blueprints/Lobby/LobbyGM.LobbyGM_C)
+[2017.08.21-15.34.24:972][767]LogLoad: LoadMap: 192.168.0.5//Game/Maps/UEDPIE_1_Lobby?game=/Game/Blueprints/Lobby/LobbyGM.LobbyGM_C
+[2017.08.21-15.34.24:995][767]Cmd: MEM
+[2017.08.21-15.34.25:015][767]LogMemory: Platform Memory Stats for Windows
+[2017.08.21-15.34.25:015][767]LogMemory: Process Physical Memory: 2748.69 MB used, 2816.46 MB peak
+[2017.08.21-15.34.25:015][767]LogMemory: Process Virtual Memory: 4197.11 MB used, 4380.61 MB peak
+[2017.08.21-15.34.25:015][767]LogMemory: Physical Memory: 5624.19 MB used,  2486.88 MB free, 8111.07 MB total
+[2017.08.21-15.34.25:015][767]LogMemory: Virtual Memory: 5114.40 MB used,  2486.88 MB free, 134217728.00 MB total
+[2017.08.21-15.34.25:015][767]LogMemory: 
+[2017.08.21-15.34.25:015][767]Allocator Stats for TBB: (not implemented)
+[2017.08.21-15.34.25:265][767]LogAIModule: Creating AISystem for world Lobby
+[2017.08.21-15.34.25:265][767]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.08.21-15.34.25:268][767]LogWorld: Bringing World /Game/Maps/UEDPIE_2_Lobby.Lobby up for play (max tick rate 0) at 2017.08.22-00.34.25
+[2017.08.21-15.34.25:268][767]LogWorld: Bringing up level for play took: 0.001574
+[2017.08.21-15.34.25:268][767]LogLoad: Took 0.296382 seconds to LoadMap(/Game/Maps/UEDPIE_1_Lobby)
+[2017.08.21-15.34.25:360][768]LogNet: Client netspeed is 10000
+[2017.08.21-15.34.25:360][768]LogNet: Join request: /Game/Maps/MainMenu?Name=Rutka-4AB408144629C386151206A2FA111C4F?SplitscreenCount=1
+[2017.08.21-15.34.25:364][768]LogNet: Join succeeded: Rutka-4AB408144629C3
+[2017.08.21-15.34.32:388][289]PIE: Warning: This widget does not support focus.  If this is a UserWidget, you should set bIsFocusable to true.
+[2017.08.21-15.34.39:868][803]PIE: Warning: This widget does not support focus.  If this is a UserWidget, you should set bIsFocusable to true.
+[2017.08.21-15.34.44:177][112]Cmd: servertravel /Game/Maps/Map
+[2017.08.21-15.34.44:191][112]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2017.08.21-15.34.44:193][112]LogNet: Browse: /Game/Maps/Map
+[2017.08.21-15.34.44:193][112]LogLoad: LoadMap: /Game/Maps/Map
+[2017.08.21-15.34.44:193][112]LogNet: World NetDriver shutdown IpNetDriver_4 [GameNetDriver]
+[2017.08.21-15.34.44:193][112]LogNet: DestroyNamedNetDriver IpNetDriver_4 [GameNetDriver]
+[2017.08.21-15.34.44:193][112]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 192.168.0.5:58832, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: LobbyPC_C_1, Owner: LobbyPC_C_1
+[2017.08.21-15.34.44:193][112]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.0.5:58832, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: LobbyPC_C_1, Owner: LobbyPC_C_1, Channels: 12, Time: 2017.08.21-15.34.44
+[2017.08.21-15.34.44:193][112]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.0.5:58832, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: LobbyPC_C_1, Owner: LobbyPC_C_1
+[2017.08.21-15.34.44:194][112]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
+[2017.08.21-15.34.44:194][112]LogExit: GameNetDriver IpNetDriver_4 shut down
+[2017.08.21-15.34.44:194][112]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
+[2017.08.21-15.34.44:219][112]Cmd: MEM
+[2017.08.21-15.34.44:240][112]LogMemory: Platform Memory Stats for Windows
+[2017.08.21-15.34.44:240][112]LogMemory: Process Physical Memory: 2707.60 MB used, 2816.46 MB peak
+[2017.08.21-15.34.44:240][112]LogMemory: Process Virtual Memory: 4203.13 MB used, 4380.61 MB peak
+[2017.08.21-15.34.44:240][112]LogMemory: Physical Memory: 5588.22 MB used,  2522.85 MB free, 8111.07 MB total
+[2017.08.21-15.34.44:240][112]LogMemory: Virtual Memory: 5146.51 MB used,  2522.85 MB free, 134217728.00 MB total
+[2017.08.21-15.34.44:240][112]LogMemory: 
+[2017.08.21-15.34.44:240][112]Allocator Stats for TBB: (not implemented)
+[2017.08.21-15.34.44:703][112]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.220 s
+[2017.08.21-15.34.44:703][112]LogOutputDevice: Error: === Handled ensure: ===
+[2017.08.21-15.34.44:703][112]LogOutputDevice: Error: 
+[2017.08.21-15.34.44:703][112]LogOutputDevice: Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1315]
+[2017.08.21-15.34.44:704][112]LogOutputDevice: Error: 
+[2017.08.21-15.34.44:704][112]LogOutputDevice: Error: Stack: 
+[2017.08.21-15.34.44:704][112]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000036133606
+[2017.08.21-15.34.44:704][112]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000035EBC2D2
+[2017.08.21-15.34.44:704][112]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000035ED4746
+[2017.08.21-15.34.44:704][112]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x0000000029A9D6C9
+[2017.08.21-15.34.44:704][112]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x0000000029A6C9DD
+[2017.08.21-15.34.44:704][112]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000035710F67
+[2017.08.21-15.34.44:704][112]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000035A1B856
+[2017.08.21-15.34.44:704][112]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000035A31956
+[2017.08.21-15.34.44:704][112]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000035A30EA2
+[2017.08.21-15.34.44:704][112]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000213CDD7B
+[2017.08.21-15.34.44:704][112]LogOutputDevice: Error: UE4Editor-Engine.dll!0x0000000021386758
+[2017.08.21-15.34.44:704][112]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000213ED50D
+[2017.08.21-15.34.44:704][112]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000002AE8BF40
+[2017.08.21-15.34.44:704][112]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000002B71CEE6
+[2017.08.21-15.34.44:704][112]LogOutputDevice: Error: UE4Editor.exe!0x000000004994534A
+[2017.08.21-15.34.44:704][112]LogOutputDevice: Error: UE4Editor.exe!0x0000000049953970
+[2017.08.21-15.34.44:704][112]LogOutputDevice: Error: UE4Editor.exe!0x00000000499539EA
+[2017.08.21-15.34.44:704][112]LogOutputDevice: Error: UE4Editor.exe!0x00000000499602D9
+[2017.08.21-15.34.44:704][112]LogOutputDevice: Error: UE4Editor.exe!0x0000000049961C47
+[2017.08.21-15.34.44:704][112]LogOutputDevice: Error: KERNEL32.DLL!0x00000000701B2774
+[2017.08.21-15.34.44:704][112]LogOutputDevice: Error: ntdll.dll!0x0000000070320D51
+[2017.08.21-15.34.44:704][112]LogOutputDevice: Error: 
+[2017.08.21-15.34.44:711][112]LogStats:                SubmitErrorReport -  0.000 s
